@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462621
+33
+['', 'UTM - [ldapsearch]', '']
+['', 'Ferramenta para consultas em base LDAP.Modo de uso:Command Line Interface – ldapsearchCommand Line Interface – ldapsearch 2Exemplo: Listar os atributos da OU e de seus membros:Command Line Interface – ldapsearch - exemplo', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816824
+53
+['', 'Inventory - Botão de ações - "Access CLI"', '']
+['', 'O botão de ação “Access CLI” - Command Line Interface: acessa a interface texto (shell) através da conexão existente com o Blockbit GSM:Botão “Access CLI” – Command Line Interface.Clique no botão Access CLI[]. Ele abrirá uma nova aba no navegador para realizar acesso a interface via shell.', '']

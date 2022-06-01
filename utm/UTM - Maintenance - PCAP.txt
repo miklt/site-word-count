@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+PCAP
+50
+['', 'UTM - Maintenance - PCAP', '']
+['', 'Na aba PCAP é possível visualizar o tamanho do diretório e a data da última alteração.Maintenance - PCAPAo clicar sobre o botão [], é possível apagar os dados do diretório conforme a tela abaixo.Maintenance - PCAP - DeleteApós clicar no botão [] serão removidos os dados do diretório de PCAP.', '']

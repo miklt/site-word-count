@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541359
+43
+['', 'Users - Colunas – Remove User', '']
+['', 'Caso queira remover algum dos usuários criados, clique no ícone delete[], uma mensagem de confirmação será exibida, conforme ilustrado pela imagem abaixo:Users – Remove UserClique em []\xa0para efetuar a deleção, caso contrário, clique em []\xa0para não remover o grupo.', '']

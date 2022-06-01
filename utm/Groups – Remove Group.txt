@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541435
+43
+['', 'Groups – Remove Group', '']
+['', 'Caso queira remover algum dos grupos criados, clique no ícone delete[], uma mensagem de confirmação será exibida, conforme ilustrado pela imagem abaixo:Groups – Delete Domain.Clique em\xa0[] para efetuar a deleção, caso contrário, clique em []\xa0para não remover o grupo.', '']

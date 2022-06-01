@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327416
+75
+['', 'Blockbit UTM versão 1.5.16', '']
+['', 'Release Notes28 Jun 2021\xa0Melhorias feitas no lançamento do Blockbit UTM 1.5.16:CódigoDescriçãoUTM-723Melhoria feita em políticas com autenticação via Deploy do GSM.UTM-2350Melhoria feita no serviço de VPN Monitor após sincronização de HA do UTM.UTM-2978Melhoria feita na sincronia de HA por Interfaces Heartbeat.UTM-3093Melhoria feita na geração de Logs de VPN IPsec.UTM-3197Melhoria feita em rotas estáticas após atualização do sistema.', '']

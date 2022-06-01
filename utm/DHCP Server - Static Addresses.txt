@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/DHCP+Server+-+Static+Addresses
+140
+['', 'DHCP Server - Static Addresses', '']
+['', 'O serviço ainda dispõe do recurso de distribuir endereços no modo estático, ou seja, fixando o mesmo “Endereço IP” para determinado “host”, a partir da identificação do seu “endereço MAC”.DHCP - Static AddressPara adicionar regras de distribuição de endereço IP no modo estático, por Host/Mac Address, clique em [] e configure de acordo a definição de políticas para distribuição de endereços fixos na rede. Depois clique em [].Ex.1: Host: WinXen2012;IP Address: 192.168.254.184;MAC Address: 90:B1:1C:F6:2F:E2.DHCP reserve static address example 1Ex.2: Host: NFS_CentOS7;IP Address: 192.168.254.202;MAC Address: 42:69:4C:3F:00.\xa0DHCP reserve static address example 2Static addresses definitionPara habilitar a distribuição automática dos endereços declarados no serviço DHCP, clique em habilitar [].A seguir analisaremos as demais abas:Relay;Leases.', '']

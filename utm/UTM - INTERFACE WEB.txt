@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+INTERFACE+WEB
+85
+['', 'UTM - INTERFACE WEB', '']
+['', 'Esta seção irá demonstrar como realizar o acesso a Interface Web do Blockbit UTM. O Blockbit UTM possui uma interface moderna, de fácil utilização e responsiva, ou seja, ela é capaz de se adequar a tela de qualquer dispositivo utilizado para acesso (tablets, smartphones, notebook, etc.). Isso garante agilidade e facilidade para sua empresa, podendo ser acessado a qualquer hora e local.Para acessar a Interface Web do Blockbit UTM, siga as orientações desta\xa0página.Para Licenciar o UTM, cheque esta\xa0página.', '']

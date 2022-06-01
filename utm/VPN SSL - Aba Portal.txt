@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/VPN+SSL+-+Aba+Portal
+83
+['', 'VPN SSL - Aba Portal', '']
+['', 'Para configuração, acesse a aba Portal:Aba PortalA tela abaixo será exibida:VPN SSL - PortalA seguir analisaremos os componentes desta tela:Ao clicar sobe o botão [] a tela abaixo será exibida.VPN SSL Portal – ResourceConfigure àquelas que serão disponibilizadas e defina suas políticas de acesso respectivamente, definindo quais “usuários/ grupos” terão acesso a cada aplicação da sua rede.Esta janela permite as seguintes possibilidades de configuração:RDP;VNC;SSH;WEB;SMB.A seguir analisaremos cada uma destas opções detalhadamente.', '']

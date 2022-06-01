@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462507
+12
+['', 'UTM - [exit]', '']
+['', 'Abandona a sessão.Modo de uso:Command Line Interface – exit', '']

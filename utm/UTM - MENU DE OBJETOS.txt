@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+MENU+DE+OBJETOS
+108
+['', 'UTM - MENU DE OBJETOS', '']
+['', 'Para agilizar o processo de configuração do Blockbit UTM, no topo da tela o menu de objetos disponibiliza a possibilidade de criar um objeto imediatamente ou acessar o painel de objetos.Para acessar o menu de objetos basta clicar no ícone\xa0objects[].Menu de ObjetosO menu é composto de todos os tipos disponíveis no painel de objetos:Address;Service;Time;Schedules;Dictionaries;Content.Ao clicar em alguma destas opções, surgirá uma janela de criação de objetos idêntica à exibida no painel de objetos, por exemplo:Menu de Objetos - Criando objeto de endereçoPor fim, ao clicar em [], você será redirecionado para a tela de objetos.', '']

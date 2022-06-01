@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Web+Filter+-+Profiles+-+Colunas
+89
+['', 'Web Filter - Profiles - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Web Filter:Profiles – Web FilterA seguir explicaremos cada coluna:Caixa de Seleção[]: Seleciona o profile;Name: Apresenta o nome do profile cadastrado;Description: Apresenta a descrição do profile cadastrado;Actions: A coluna “Actions” é composta pelos botões:Botão Edit\xa0[]:\xa0Permite editar as configurações do\xa0profile\xa0adicionado na opção\xa0Create Profile\xa0do menu de ações;Botão Delete\xa0[]: Deleta o profile, é equivalente a opção Delete Profile do menu de ações.À seguir iremos analisar o conteúdo da aba Settings.', '']

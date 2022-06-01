@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541430
+31
+['', 'Groups – Edit Group', '']
+['', 'Ao clicar no botão edit[] é possível editar as informações localizadas no grupo selecionado.Groups – Edit GroupApós finalizar as devidas alterações clique no botão [] para salvar as alterações.', '']

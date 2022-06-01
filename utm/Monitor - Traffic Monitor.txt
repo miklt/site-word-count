@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Monitor+-+Traffic+Monitor
+107
+['', 'Monitor - Traffic Monitor', '']
+['', 'Como o próprio nome indica, o\xa0Traffic Monitor, permite que o tráfego da rede e do SD-WAN seja monitorado, através deste recurso o administrador pode visualizar o tráfego de rede real ou histograma (Network Throughput), por interfaces, número de conexões simultâneas e o tráfego de rede por cada PIPE (Q.o.S). Além disso, também é possível visualizar o desempenho do SD-WAN de acordo com suas interfaces e índices de performance.Para acessar esta tela, basta selecionar a opção “Traffic Monitor”.Monitor\xa0–\xa0Traffic MonitorA tela abaixo será exibida:Monitor - Traffic Monitor - NetworkA tela\xa0Traffic Monitor\xa0comporta as seguintes abas:Network;SD-WAN.', '']

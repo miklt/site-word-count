@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462578
+33
+['', 'UTM - [ifstat]', '']
+['', 'Exibe estatísticas do tráfego de rede.Modo de uso:Command Line Interface – ifstatExemplo: Listando o relatório estatístico geral do tráfego de todas as interfaces da rede:Command Line Interface – ifstat - Exemplo', '']

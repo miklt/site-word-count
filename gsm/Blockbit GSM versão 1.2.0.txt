@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462952
+110
+['', 'Blockbit GSM versão 1.2.0', '']
+['', 'A tabela a seguir lista as melhorias realizadas no release do\xa0BLOCKBIT GSM versão 1.2.0CódigoDescriçãoGSM-3109Nova funcionalidade: Ferramenta de auditoria e controle de mudanças.GSM-3127Notificações do workflow de tarefas.GSM-3443Melhorias no gerenciamento de Device Communities.GSM-3468Melhorias no gerenciamento de Device Templates.GSM-3479Melhorias no gerenciamento de dispositivos.GSM-3831Melhorias no sistema de atualização.GSM-12064Melhorias na navegação de eventos com DrillDown.GSM-12382Melhorias no gerenciamento de políticas.GSM-12447Melhorias na usabilidade das interfaces de configuração.GSM-12448Melhorias na usabilidade do painel de tarefas.\xa0O BLOCKBIT GSM suporta o BLOCKBIT UTM nas versões 1.4.7 e 1.5.3.', '']

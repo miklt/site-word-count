@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Tunnels+-+Colunas
+83
+['', 'Tunnels - Colunas', '']
+['', 'A seguir analisaremos cada coluna da tela VPN IPSEC - Aba Tunnels:VPN IPSEC -\xa0TunnelsDescription:\xa0Exibe a descrição registrada durante o processo de adicionar um túnel\xa0VPN;Type:\xa0Determina o tipo de\xa0VPN\xa0selecionada durante o processo de adicionar o túnel:Site-to-Site;Full-Mesh;Star;Action:\xa0Possui um conjunto de botões essenciais, sendo estes:Enable[]/Disable[]:\xa0Esta coluna habilita ou desabilita o túnel VPN;Edit[]:\xa0Este botão permite editar as configurações de uma conexão\xa0VPN;Delete[]:\xa0Remove uma conexão\xa0VPN.', '']

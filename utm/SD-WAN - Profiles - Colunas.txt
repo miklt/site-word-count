@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/SD-WAN+-+Profiles+-+Colunas
+109
+['', 'SD-WAN - Profiles - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0SD-WAN:SD-WAN - ProfilesA seguir explicaremos cada coluna:Caixa de Seleção[]: Seleciona o profile.Name: Apresenta o nome do profile cadastrado;Description: Apresenta a descrição do profile cadastrado;Type:\xa0Define o tipo de SD-WAN, para mais informações cheque esta página;Interfaces:\xa0Exibe as interfaces que são afetadas pelo perfil de SD-WAN em questão;Actions: A coluna “Actions” é composta por vários botões:Botão Edit\xa0[]:\xa0Permite editar as configurações do\xa0profile\xa0adicionado na opção\xa0Create Profile\xa0do menu de ações;Botão Delete\xa0[]: Deleta o profile, é o equivalente a opção Delete Profile do menu de ações.', '']

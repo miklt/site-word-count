@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175300
+104
+['', 'IPv4 - Menu de ações - Delete Groups', '']
+['', 'Através do botão “Delete Groups” é possível deletar vários grupos instalados ao mesmo tempo. Para deletar pelo menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) grupo(s) deseja deletar clicando no checkbox[], como demonstrado pela imagem abaixo:IPv4\xa0– Delete Groups2. Entre no menu de ações\xa0[]\xa0e clique no botão “Delete Groups”.IPv4 – Menu de ações - Delete Groups3. Surgirá a mensagem se deseja realmente deletar os pacotes selecionados:IPv4 – Delete GroupsCaso deseje cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Group deleted succesfullyApós realizar esses procedimentos os grupos terão sido excluídos com sucesso.', '']

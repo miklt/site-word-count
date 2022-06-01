@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462665
+18
+['', 'UTM - [netstat]', '']
+['', 'Utilizado para exibir as portas em escuta no servidor.Modo de uso:Command Line Interface – netstat', '']

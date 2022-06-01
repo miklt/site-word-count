@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816543
+64
+['', 'Inventory - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Inventory – Botão do menu de ações.Ao clicar neste botão o menu abaixo é exibido:Inventory – Menu de ações.O menu é composto das seguintes opções:Create Group;Manage Groups;Create Device;Delete Devices;Reload Status;Synchronize Devices;Update Devices.A seguir cada opção do menu de ações será detalhada.', '']

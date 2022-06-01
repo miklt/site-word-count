@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462681
+22
+['', 'UTM - [ping]', '']
+['', 'Testa a conectividade entre dispositivos na rede. Utiliza o datagrama do protocolo ICMP.Modo de uso:Command Line Interface – ping', '']

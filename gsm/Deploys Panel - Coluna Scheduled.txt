@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Coluna+Scheduled
+28
+['', 'Deploys Panel - Coluna Scheduled', '']
+['', 'A coluna “Scheduled” exibe informações referentes ao dia da criação do deploy e a data que foi agendada para ser executada.Deploys Panel – Scheduled', '']

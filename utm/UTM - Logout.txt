@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Logout
+30
+['', 'UTM - Logout', '']
+['', 'A qualquer momento é possível sair do sistema. Basta clicar no botão “Logout”.Menu do usuário – Botão “Logout”Isso levará o usuário de volta a página de “Login”.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17176237
+104
+['', 'UTM - [update-system]', '']
+['', 'Utilizado para verificação, Download e instalação dos pacotes de atualização do Blockbit UTM.Modo de uso:Command Line Interface – update-systemEste comando também conta com os seguintes parâmetros:update-system -bUtilizado para atualizar especificamente as base de subscriptions e feeds de segurança do sistema;Command Line Interface – update-system -bupdate-system -sServe para efetuar a atualização do sistema, correções de bugs e novas features;Command Line Interface – update-system -supdate-system -b -sEfetua a atualização completa do sistema: Faz update de sistema, correções de bugs, novas features, base de subscriptions e feeds de segurança.Command Line Interface – update-system -b -s', '']

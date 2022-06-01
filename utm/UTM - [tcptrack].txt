@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462845
+36
+['', 'UTM - [tcptrack]', '']
+['', 'Exibe informações das conexões TCP de uma determinada interface de rede. Ele monitora as conexões, exibe status, endereço de origem, endereço de destino e consumo de banda.Modo de uso:Command Line Interface – tcptrack', '']

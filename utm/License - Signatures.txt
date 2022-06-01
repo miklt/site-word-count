@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/License+-+Signatures
+31
+['', 'License - Signatures', '']
+['', 'No widget “Signatures” é possível visualizar as bases instaladas no sistema e suas respectivas datas de início e de término do contrato conforme exibido na tela abaixo:License - Signatures', '']

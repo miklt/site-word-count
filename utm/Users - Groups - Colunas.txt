@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Groups+-+Colunas
+94
+['', 'Users - Groups - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Users:GroupsStatus:\xa0Após o cadastro/importação de usuários locais, exibe os seguintes status:[]: Significa que este grupo é do tipo local;[]: Significa que este grupo é do tipo remoto;Select []: Permite selecionar um\xa0grupo;Name: Exibe o nome do grupo cadastrado;Info\xa0[]: Exibe a descrição que foi adicionada ao cadastrar o grupo;Editar []:\xa0Permite editar as configurações do\xa0grupo\xa0adicionado, para mais informações a respeito desta opção, cheque esta página;Excluir []:\xa0Deleta o grupo, é o equivalente a opção Remove\xa0do menu de ações.\xa0', '']

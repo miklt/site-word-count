@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541909
+56
+['', 'TACACS+ Server – Edit Server', '']
+['', 'Para editar as configurações já efetuadas, selecione o servidor desejado no menu suspenso “TACACS+ Server” e clique em edit [], a tela abaixo será exibida:Authentication – TACACS+ server - EdiçãoDa mesma forma que durante a adição, é possível editar as configurações desejadas e clicar em save [], de modo a registrar as devidas alterações feitas.', '']

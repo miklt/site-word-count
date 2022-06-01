@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Domains+-+Set+as+Default+Domain
+70
+['', 'Users - Domains - Set as Default Domain', '']
+['', 'Feita a adição do Domínio, ao clicar no ícone default [], é possível configurá-lo como domínio padrão, só pode haver um único domínio padrão. Isso significa que todas as operações aplicadas no painel de autenticação, considerarão este domínio como o principal. Caso seja necessário se logar em um domínio, que não o padrão, será necessário informá-lo na frente do login.Domains – Default Domain', '']

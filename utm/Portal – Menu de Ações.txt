@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542318
+57
+['', 'Portal – Menu de Ações', '']
+['', 'No topo direito do painel “Portal”, do lado do botão “Add”, temos o menu de ações, que pode ser exibido ao clicar no botão [], conforme ilustrado pela imagem abaixo:Authentication –\xa0Action MenuO menu é composto das seguintes opções:Select e Select All;Remove.A seguir cada opção do menu de ações será detalhada.', '']

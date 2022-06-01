@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462371
+27
+['', 'UTM - [debug-firewall]', '']
+['', 'Exibe os logs de debug do Firewall em tempo real.Modo de uso:Command Line Interface – debug-firewallExemplo:Command Line Interface – debug-auth - exemplo', '']

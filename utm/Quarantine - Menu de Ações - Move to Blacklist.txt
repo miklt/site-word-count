@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816425
+106
+['', 'Quarantine - Menu de Ações - Move to Blacklist', '']
+['', 'Através desta opção é possível mover um\xa0IP da quarentena para a Blacklist. Para tanto, siga os seguintes passos:1.\xa0Selecione qual(is) IP(s) deseja mover. Para selecionar, basta clicar com o mouse no checkbox que fica localizado ao lado do IP. Nos\xa0itens selecionados o checkbox mudará da cor cinza para azul [];Quarantine – Seleção dos IPs para mover para a Blacklist2.\xa0Clique na opção “Move to Blacklist”;Intrusion Prevention - Quarantine - Menu de Ações - Move to Blacklist3. Após confirmar a mensagem de notificação questionando se deseja realmente mover os itens\xa0selecionados, o procedimento terá\xa0sido efetuado com sucesso.', '']

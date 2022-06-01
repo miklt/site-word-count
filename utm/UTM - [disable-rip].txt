@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462451
+32
+['', 'UTM - [disable-rip]', '']
+['', 'Desabilita o serviço de roteamento dinâmico RIP tanto para IPv4 como também para IPv6.Modo de uso:Command Line Interface – disable-rip', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

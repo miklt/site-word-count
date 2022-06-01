@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Live+Sessions+-+Connections
+78
+['', 'Live Sessions - Connections', '']
+['', 'Nesta aba é possível averiguar a atividade atual no firewall e na web, sendo possível filtrar por usuário, origem, destino, porta, protocolo ou política.Para acessar, caso a aba não esteja selecionada, clique em\xa0"Connections".Aba ConnectionsSurgirá a tela “Connections”, conforme demonstrado pela imagem abaixo:\xa0ConnectionsEsta sessão irá abordar:\xa0Componentes deste painel;Monitoramento de todo o tráfego realizado no\xa0firewall;Monitoramento de todo o tráfego realizado na\xa0web.A seguir, analisaremos os componentes deste painel.', '']

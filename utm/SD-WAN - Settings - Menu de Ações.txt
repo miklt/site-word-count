@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26815925
+58
+['', 'SD-WAN - Settings - Menu de Ações', '']
+['', 'No topo direito da tela temos o menu de ações:SD-WAN\xa0– Settings - Botão do Menu de açõesAo clicar neste botão o menu abaixo é exibido:SD-WAN - Settings – Menu de açõesO menu é composto das seguintes opções:Create Service;Delete Service.A seguir cada opção do menu de ações será detalhada.', '']

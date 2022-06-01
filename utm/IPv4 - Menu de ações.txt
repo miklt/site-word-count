@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175255
+62
+['', 'IPv4 - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:IPv4\xa0– Botão do menu de ações.Ao clicar neste botão o menu abaixo é exibido:IPv4 – Menu de açõesO menu é composto das seguintes opções:Create Group;Delete Groups;Create Policy;Delete Policies;Expand All e Collapse All.A seguir cada opção do menu de ações será detalhada.', '']

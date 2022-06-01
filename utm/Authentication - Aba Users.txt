@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Authentication+-+Aba+Users
+120
+['', 'Authentication - Aba Users', '']
+['', 'O sistema possibilita o gerenciamento de usuários da base local com as opções de “Pesquisar”, “Importar”, “Adicionar” ou “Remover” um usuário do sistema, também torna possível definir de quais grupos os mesmos participam. Sendo possível inclusive, habilitar ou desabilitar o usuário, o que implica diretamente na ação de login.Temos usuários do tipo “Local” e “Remoto”, sendo válido lembrar que a gerência dos usuários remotos é de responsabilidade dos servidores de sincronismo “Windows AD” ou "LDAP”.Para o gerenciamento da base de usuários locais ou remotos, clique em Users:Aba UsersSurgirá a tela, conforme demonstrado pela imagem abaixo:Aba Users - AuthenticationEsta tela possui 3 abas laterais:Users;Groups;Domains.A seguir, cada componente desta tela será analisado.', '']

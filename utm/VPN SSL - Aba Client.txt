@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/VPN+SSL+-+Aba+Client
+74
+['', 'VPN SSL - Aba Client', '']
+['', 'Para configuração e habilitação de túneis SSL, acesse a aba Client:Aba ClientA tela abaixo será exibida:VPN SSL - ClientA seguir analisaremos os componentes desta tela:Ao clicar sobe o botão [] a tela abaixo será exibida.VPN SSL Client – DescriptionApós isso clicar em []\xa0e a tela abaixo será exibida.VPN SSL Client - SettingsEsta tela é composta dos seguintes painéis:Authentication;Servers;Advanced.A seguir analisaremos cada um destes painéis detalhadamente.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541544
+44
+['', 'Users - Domains – Remove Domain', '']
+['', 'Caso queira remover algum dos domínios criados, clique no ícone delete[], uma mensagem de confirmação será exibida, conforme ilustrado pela imagem abaixo:Domains – Delete Domain.Clique em []\xa0para efetuar a deleção, caso contrário, clique em []\xa0para não remover o domínio.', '']

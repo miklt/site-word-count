@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816431
+102
+['', 'Quarantine - Menu de Ações - Remove', '']
+['', 'Através do botão “Remove” é possível remover os itens selecionados. Para remover pelo Menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) item(s) deseja remover. Para selecionar, basta clicar com o mouse no checkbox que fica localizado ao lado do IP. Nos itens selecionados o checkbox mudará da cor cinza para azul []. Ex.: Test;Quarantine - Seleção para deleção2. Entre no menu de ações\xa0[]\xa0e clique na opção “Remove”.Quarantine\xa0- Menu de Ações -\xa0Remove3. Após confirmar a mensagem de notificação questionando se deseja realmente deletar os itens\xa0selecionados, a remoção terá\xa0sido efetuada com sucesso.', '']

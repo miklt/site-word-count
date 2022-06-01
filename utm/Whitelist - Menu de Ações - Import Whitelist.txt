@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816286
+118
+['', 'Whitelist - Menu de Ações - Import Whitelist', '']
+['', 'Através da opção “Import Whitelist” é possível importar um Whitelist. Para acessar, clique no\xa0menu de ações [].1.\xa0Clique na opção “Create Profile”;Whitelist - Menu de Ações - Import Whitelist2. A tela “Import Whitelist” será exibida. Conforme demonstrado na imagem abaixo:Whitelist - Import Whitelist3. Selecione o arquivo desejado clicando no botão\xa0[];', 'Este botão aceita arquivos de extensão .txt', '4. Ao carregar o arquivo com sucesso, uma mensagem de confirmação será exibida:Item(s) imported successfully5. Ao finalizar a adição dos itens, a seguinte mensagem de confirmação será exibida:Address added successfully6. Por fim, a tela exibirá todos os IPs adicionados:Whitelist - IPs adicionadosApós realizar esses procedimentos, a importação terá\xa0sido efetuada com sucesso.', '']

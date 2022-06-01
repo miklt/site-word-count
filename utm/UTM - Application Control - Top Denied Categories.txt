@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Application+Control+-+Top+Denied+Categories
+90
+['', 'UTM - Application Control - Top Denied Categories', '']
+['', 'No diagrama “Top Denied Categories” temos uma representação visual das 10 categorias recusadas mais utilizadas nos acessos dos usuários, essa sessão serve para, representar de forma pragmática, a quantidade de páginas acessadas que caíram em cada uma dessas categorias de recusa.Ao passar o mouse por cima do gráfico, um resumo da quantia de categorias é exibido, conforme demonstrado na imagem abaixo.Para mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.Application Control – Top Denied\xa0Categories', '']

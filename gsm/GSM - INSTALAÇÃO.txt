@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462971
+54
+['', 'GSM - INSTALAÇÃO', '']
+['', 'Esta seção irá apresentar o passo a passo para instalação do Blockbit GSM.O Blockbit GSM está disponível somente em Máquinas Virtuais compatíveis com as seguintes soluções: VMware, XenServer e KVM.Para realizar a instalação do Blockbit GSM siga as orientações a seguir.Importando a Máquina Virtual;Iniciando Máquina Virtual - Primeiro Acesso.', '']

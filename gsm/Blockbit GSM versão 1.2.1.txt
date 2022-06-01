@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462951
+63
+['', 'Blockbit GSM versão 1.2.1', '']
+['', 'A tabela a seguir lista as melhorias realizadas no release do\xa0BLOCKBIT GSM versão 1.2.1CódigoDescriçãoGSM-15Correção na limitação de controle de banda pelo GSM.GSM-66Correção aplicada na exibição das informações sincronizadas dos UTMs.GSM-68Correção aplicada nos logs de tráfego no deploy do GSM.GSM-120Correção aplicada na criação de logs em formato CSV.', '']

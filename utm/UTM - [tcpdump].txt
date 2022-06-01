@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462831
+53
+['', 'UTM - [tcpdump]', '']
+['', 'Monitora, captura e analisa pacotes transmitidos pela rede. Assim, permite ao administrador analisar o comportamento da rede, auxiliando na identificação de problemas, estações infectadas, tráfego malicioso, gargalos etc.Modo de uso:Command Line Interface – tcpdumpExemplo: Monitorando todo o tráfego da interface da rede local (interface Eth0):Command Line Interface – tcpdump – Exemplo', '']

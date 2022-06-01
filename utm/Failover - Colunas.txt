@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Failover+-+Colunas
+87
+['', 'Failover - Colunas', '']
+['', 'A seguir analisaremos cada coluna da tela VPN IPSEC - Aba Failover:VPN IPSEC - FailoverName:\xa0Exibe o nome da VPN Failover cadastrado durante o processo de adição, além disso ao clicar em [], são exibidos os túneis adicionados;Action:\xa0Possui um conjunto de botões essenciais, sendo estes:Enable[]/Disable[]:\xa0Esta coluna habilita ou desabilita o Failover;Edit[]:\xa0Este botão permite editar as configurações do\xa0Failover, ele exibe uma tela semelhante à tela de adição\xa0de Failover;Delete[]:\xa0Remove o Failover.Isso conclui a análise da aba Failover.', '']

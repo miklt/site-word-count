@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462433
+25
+['', 'UTM - [disable-bgp]', '']
+['', 'Desabilita o serviço de roteamento dinâmico BGP.Modo de uso:Command Line Interface – disable-bgp', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

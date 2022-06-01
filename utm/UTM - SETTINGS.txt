@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+SETTINGS
+59
+['', 'UTM - SETTINGS', '']
+['', 'O item “sistema administração” nos permite: Gerenciar o acesso à interface de administração WEB, definir e aplicar as configurações gerais, administrar o cadastro e permissões dos administradores do sistema, auditar os acessos e as configurações aplicadas, e ainda gerenciar os bloqueios por tentativas de acessos não autorizados.SettingsContém as opções:Network;Authentication;Administration;System;Maintenance;Certificates;Objects.', '']

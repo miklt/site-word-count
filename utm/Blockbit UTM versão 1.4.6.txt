@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12455463
+139
+['', 'Blockbit UTM versão 1.4.6', '']
+['', 'A tabela a seguir lista as melhorias realizadas no release do Blockbit UTM versão 1.4.6CódigoDescriçãoUTM-25Correção aplicada na autenticação dos servidores LDAP Samba.UTM-26Correção no envio dos logs de firewall para syslog remoto.UTM-27Correção nas políticas que usam objetos com grupos de IP.UTM-28Correção na leitura de objetos período/data por proxy.UTM-29Nova funcionalidade: Opção de HTTP/HTTPS para a mesma porta no proxy, uso aceito apenas no modo explícito.UTM-84Nova funcionalidade: Comando CLI para exibir o número da licença.UTM-85Nova funcionalidade: Comando CLI para exibir o número da versão.UTM-86Nova funcionalidade: Comando CLI para executar o registro do produto.UTM-117Correção no sincronismo de sessões e na remoção do script temporário do H.A.UTM-140Correção no comando CLI de configuração do syslog.', '']

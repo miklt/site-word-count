@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Monitor+-+Reports
+79
+['', 'Monitor - Reports', '']
+['', 'A função desta opção é administrar a criação automática e periódica de relatórios personalizados, permitindo seleção de característica específica dos devices selecionados.Para acessar e administrar a criação automática de relatórios, clique no ícone “Reports” localizado na lateral esquerda:Analytics - ReportsA tela de reports será exibida.ReportsNesta sessão iremos analisar:Como adicionar e deletar os reports;Detalhes das colunas desta tela;Exemplos de como gerar reports específicos.A seguir analisaremos a função de cada componente desta tela.', '']

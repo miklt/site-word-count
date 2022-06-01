@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Settings+-+Network
+72
+['', 'UTM - Settings - Network', '']
+['', 'A interface contempla uma área exclusiva para gerenciamento e configuração de dispositivos desde as informações de sistema até as configurações das interfaces de rede e roteamento avançado.Para acessar esta tela, basta selecionar a opção “Network”.Settings - NetworkA tela abaixo será exibida:Settings - Network - SettingsA tela\xa0Network\xa0comporta as seguintes abas:Settings;Interfaces;Static Routing;Dynamic Routing;IPv6 Settings;Traffic Shaping.A seguir analisaremos os componentes da aba\xa0Settings.', '']

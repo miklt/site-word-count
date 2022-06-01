@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/System+-+Aba+Notifications
+47
+['', 'System - Aba Notifications', '']
+['', 'Caso a aba não esteja selecionada, clique em\xa0"Notifications".Aba\xa0NotificationsSurgirá a tela “Notifications” do\xa0System, conforme demonstrado pela imagem abaixo:\xa0Intrusion Prevention - ProfilesEsta tela é dividida pelos seguintes painéis:Notifications;Notifications via Email;Notifications via SNMP.A seguir analisaremos cada componente desta tela.', '']

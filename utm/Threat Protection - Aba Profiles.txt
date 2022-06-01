@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Threat+Protection+-+Aba+Profiles
+71
+['', 'Threat Protection - Aba Profiles', '']
+['', 'Através desta aba é possível criar perfis de proteção contra ameaças e exploits de possíveis vulnerabilidades da sua rede.Caso a aba não esteja selecionada, clique em\xa0"Profiles".Aba\xa0ProfilesSurgirá a tela “Profiles” do\xa0Intrusion Prevention, conforme demonstrado pela imagem abaixo:\xa0Intrusion Prevention - ProfilesEsta sessão irá abordar como cadastrar,\xa0editar e\xa0remover\xa0os perfis de\xa0Intrusion Prevention;A seguir, analisaremos as funções localizadas no topo deste painel.', '']

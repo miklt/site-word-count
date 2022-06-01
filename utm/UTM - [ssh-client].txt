@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816501
+124
+['', 'UTM - [ssh-client]', '']
+['', 'Este comando possibilita efetuar uma conexão SSH entre servidores Blockbit.', 'Este comando só pode ser usado especificamente por um usuário "admin"', 'Modo de uso:Command Line Interface\xa0–\xa0ssh-client - Saída padrão do comando', 'Ao efetuar a conexão o comando efetua uma validação de fingerprint no acessos entre os servidores. Para continuar, será necessário uma confirmação do usuário.', 'Argumentos de Ação do comando:[-h]Exibe a mensagem de ajuda padrão.Command Line Interface\xa0–\xa0ssh-client - help[-d]Remove hosts conhecidos e sai do comando.Command Line Interface -\xa0ssh-client -d[-p]Esse comando serve para acessar um servidor Blockbit que utiliza uma porta que não seja a padrão (por exemplo, no cenário de um port forward).Command Line Interface -\xa0ssh-client -p', '']

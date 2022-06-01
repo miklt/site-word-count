@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Actions+Menu+-+Expire
+69
+['', 'Users - Actions Menu - Expire', '']
+['', 'Para forçar que a senha dos usuários expire e eles tenham que criar uma nova senha no próximo login, use a função “Expire”.Para tanto selecione o usuário desejado e clique no menu de ação\xa0[], o menu abaixo será exibido;Actions Menu - ExpireApós selecionar "Expire", a janela abaixo será exibida:Users – Expire User PasswordClique em []\xa0para forçar a expiração da senha, caso contrário, clique em [].', '']

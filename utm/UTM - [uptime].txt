@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462885
+19
+['', 'UTM - [uptime]', '']
+['', 'Exibe durante quanto tempo que o servidor está em operação.Modo de uso:Command Line Interface – uptime', '']

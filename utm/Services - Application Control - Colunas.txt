@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Services+-+Application+Control+-+Colunas
+111
+['', 'Services - Application Control - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Application Control:Profiles – Application ControlA seguir explicaremos cada coluna:Caixa de Seleção[]: Seleciona o profile;Name: Apresenta o nome do profile cadastrado;Description: Apresenta a descrição do profile cadastrado;Version: Apresenta a versão na qual o profile foi criado. É de extrema importância criar profiles da mesma versão que o UTM, caso contrário, o profile não será compatível;Actions: A coluna “Actions” é composta por vários botões:Botão Edit\xa0[]: Permite editar as configurações do\xa0profile\xa0adicionado na opção\xa0Create Profile\xa0do menu de ações;Botão Delete\xa0[]: Deleta o profile, basicamente é o equivalente a Delete Profile do menu de ações.', '']

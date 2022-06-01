@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Authentication+-+Aba+Portal
+106
+['', 'Authentication - Aba Portal', '']
+['', 'O\xa0Blockbit UTM conta com o portal de autenticação, cuja função é proceder com a autorização e logon dos usuários na plataforma\xa0Blockbit e também prestar serviço para alguns outros recursos do sistema.Nesta versão, o sistema de autenticação requer a habilitação do serviço por perfil para autorizar o processo de logon do usuário.Para efetuar essas configurações, clique na aba Portal:Aba\xa0ServersSurgirá a tela, conforme demonstrado pela imagem abaixo:Authentication – PortalNesta sessão veremos:Adição, edição e remoção dos portais;Como funciona o portal de autenticação;Funcionamento do Blockbit Client;Exemplo de configuração de login social.A seguir analisaremos detalhadamente esta tela.', '']

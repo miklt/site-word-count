@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175427
+124
+['', 'Exemplos - Criação de Políticas', '']
+['', 'A seguir, vamos exemplificar o cadastro de alguns exemplos de políticas como forma de demonstrar de boas práticas. O modelo apresentado visa orientar a modelagem de grupos e políticas baseado no conceito fundamental de ordenação e tratamento das políticas “First match Wins”.Efetuaremos a demonstração criando as seguintes políticas:Exemplo 1 - Política de Navegação via Proxy com Deep Inspection habilitado para ATP;Exemplo 2 - Política de Filtro de conteúdo WEB - Bloqueando categorias de improdutividade;Exemplo 3 - Política de Filtro de aplicativos - Bloqueando aplicativos WEB 2;Exemplo 4 - Política de NAT\xa0- Para o Servidor MS Windows AD >> com destino >> Base UPDATE WSUS - sem autenticação e com inspeção IPS;Exemplo 5 - Política de NAT para todos os protocolos com DPI e Proxy.', '']

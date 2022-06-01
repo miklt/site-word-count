@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462696
+29
+['', 'UTM - [reset-admin-sessions]', '']
+['', 'Utilizado para remover as sessões “Ativas” do usuário “admin” da interface WEB.Modo de uso: [Saída padrão do comando]:Command Line Interface – reset-admin-sessions', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=22679396
+84
+['', 'Blockbit GSM versão 2.0.6', '']
+['', 'Release Notes04 Nov 2020\xa0Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit GSM 2.0.6:CódigoDescriçãoGSM-740Correção na criação de políticas com perfil de DPI no UTMGSM-754Correção no login dos UTMs através do inventário de dispositivos do GSMGSM-1091Correção na clonagem de Policy Templates e PackagesGSM-1140Correção aplicada na exibição de devices na janela de Deploy de CommunitiesGSM-1189Correção na barra de progresso no Deploy de Communities', '']

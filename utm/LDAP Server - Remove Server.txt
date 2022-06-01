@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/LDAP+Server+-+Remove+Server
+72
+['', 'LDAP Server - Remove Server', '']
+['', 'Para remover algum servidor, clique no ícone\xa0delete [], um painel com todos os servidores criados será exibido, conforme demonstrado na imagem abaixo:LDAP server – Painel de RemoçãoEscolha o servidor que se deseja ser removido e clique no ícone delete [] para remover o servidor desejado. Uma mensagem de confirmação será exibida:Windows server – Mensagem de RemoçãoClique em []\xa0para remover o servidor selecionado, ou em []\xa0para não efetuar nenhuma deleção.', '']

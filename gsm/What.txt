@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/What
+103
+['', 'What', '']
+['', 'Determina qual operação será realizada, consistindo em:Install Package – What.Tipo de pacote: Este menu em cascata determina o tipo de pacote que será instalado, o qual pode ser de um dos seguintes tipos:Policy Package: Com esta opção é possível instalar Templates criados na aba "Policy Package";Device Template: Com esta opção, é possível instalar Templates criados na aba Device Templates;Device Community: Através desta opção é possível instalar comunidades em "Device", em "Device Communities";Pacote: Este menu em cascata especifica a Política, Device ou Device Community desejada.Clique no botão\xa0next\xa0[] para avançar ao painel Where e continuar os procedimentos', '']

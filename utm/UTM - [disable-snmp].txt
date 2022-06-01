@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462462
+23
+['', 'UTM - [disable-snmp]', '']
+['', 'Desabilita o serviço de SNMP.Modo de uso:Command Line Interface – disable-snmp', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

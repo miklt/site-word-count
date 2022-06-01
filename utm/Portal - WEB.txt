@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Portal+-+WEB
+102
+['', 'Portal - WEB', '']
+['', 'Configure o formulário de acordo com as especificações para conexão com uma aplicação “WEB”.Vamos exemplificar a configuração do acesso a uma aplicação WEB interna (Intranet).VPN SSL - Exemplo 4AplicativoAplicação WEB Local - IntranetEndereço da urlhttp://intranet.bbuniversityPorta local(Porta alta randômica/ ou definida pelo usuário).36288DescriçãoIntranet BB UniversityPermissão(Pode ser aplicada por usuário ou grupos).all@bbuniversityA seguir vamos analisar como efetuar estas configurações:VPN SSL\xa0-\xa0WEBName: Determina o nome que o acesso possuirá. Ex.: Intranet BB University;Url: Determina o endereço que será utilizado. Ex.: https://university.blockbit.com/lms.A seguir analisaremos como configurar um acesso ao SMB.', '']

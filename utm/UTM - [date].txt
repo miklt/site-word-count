@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462326
+53
+['', 'UTM - [date]', '']
+['', 'Lista e permite alterar a data e hora atual.Modo de uso:Command Line Interface – dateCommand Line Interface – date 1Exemplo 1: Listando a data e hora atual:Command Line Interface – date – Exemplo 1Exemplo 2: Atualizando data e hora baseados no fuso horário América/São Paulo:Command Line Interface – date – Exemplo 2', '']

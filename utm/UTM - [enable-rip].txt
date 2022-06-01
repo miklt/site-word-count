@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462480
+24
+['', 'UTM - [enable-rip]', '']
+['', 'Habilita o serviço de roteamento dinâmico RIP tanto para IPv4 como também IPv6.Modo de uso:Command Line Interface – enable-rip', '']

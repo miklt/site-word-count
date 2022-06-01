@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+TERMINAL
+83
+['', 'UTM - TERMINAL', '']
+['', 'O botão de ação “Terminal”\xa0possibilita que o administrador acesse a interface texto (shell) diretamente através do UTM:TerminalAo acessar a opção,\xa0uma nova janela será aberta no navegador. Para o acesso ao terminal, utilize o usuário “admin” e a “senha” personalizada.', '\xa0Por padrão, as credenciais de acesso são:Login: admin;Password: admin.', 'Ao efetuar o login, o seguinte\xa0output será exibido:Terminal - Login efetuado com sucessoPara mais informações a respeito de CLI, verifique\xa0UTM - INTERFACE BLOCKBIT CLI - LINHA DE COMANDOS.', '']

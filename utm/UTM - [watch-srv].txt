@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462912
+24
+['', 'UTM - [watch-srv]', '']
+['', 'Monitora em tempo real a utilização de processamento e memória de cada serviço.Modo de uso:Command Line Interface – watch-srv', '']

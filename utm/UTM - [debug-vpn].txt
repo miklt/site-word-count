@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462406
+64
+['', 'UTM - [debug-vpn]', '']
+['', 'Exibe os logs de debug do serviço VPN IPSEC em tempo real. Para utilizar este comando é necessário passar o argument -t e definir qual tipo de VPN será debugada:Modo de uso:Command Line Interface – debug-vpn -t ipsecExemplo: Caso o serviço não estiver habilitado e configurado, será apresentada a mensagem abaixo:Command Line Interface – debug-vpn – Log not found', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175586
+115
+['', 'IPv4 - Menu de ações - Delete Policies', '']
+['', 'O botão “Delete Policies” deleta as Políticas selecionadas. Para deletar, siga os passos:1.\xa0Selecione a(s) Política(s) que deseja deletar. Para selecionar, clique com o mouse no checkbox. Nos pacotes selecionados o checkbox mudará da cor cinza para azul []. Ex.: Test 1 e Test 2;Políticas selecionadas para serem deletadas2. No menu de ações [], clique na opção “Delete Policies”;Policies IPv4 - Menu de Ações - Delete Policies3. Surgirá a tela perguntando se deseja deletar os itens:Policies IPv4 - Are you sure you want to delete the following policiesCaso desejar cancelar, clique no botão Cancel[]. Para concluir, clique no botão Delete[].Policy Deleted successfullyAs\xa0Policies foram removidas com sucesso.', '']

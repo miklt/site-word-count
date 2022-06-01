@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175267
+79
+['', 'IPv4 - Menu de ações - Create Group', '']
+['', 'Através da opção “Create Group” é possível criar um novo grupo. Para acessar, clique no menu de ações [].1.\xa0Clique na opção “Create Group”;IPv4 - Menu de ações - Create Group2. A tela “Create Group” será exibida. Adicione o nome do grupo desejado:IPv4 – Create GroupApós nomear o grupo, caso deseje cancelar clique no botão Cancel[]. Para concluir a criação do grupo clique no botão Save[].Group created successfullyO grupo foi criado com sucesso.', '']

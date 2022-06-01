@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Domains
+64
+['', 'Users - Domains', '']
+['', 'Para adicionar um usuário, será necessário primeiro, adicionar um domínio, nesta tela é possível efetuar estas adições.No topo superior do painel “Domains”, temos a barra de buscas, através dela é possível pesquisar os domínios que forem adicionados.Users - Authentication DomainsEsta tela compõe os seguintes recursos:Add Domain;Edit Domain;Remove Domain;Actions Menu.A seguir iremos analisar cada componente desta tela.', '']

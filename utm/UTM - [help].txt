@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462549
+17
+['', 'UTM - [help]', '']
+['', 'Lista todos os comandos disponíveis na interface CLI.Modo de uso:Command Line Interface – help', '']

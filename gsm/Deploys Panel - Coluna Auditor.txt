@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Coluna+Auditor
+25
+['', 'Deploys Panel - Coluna Auditor', '']
+['', 'A coluna Auditor exibe o nome do Owner do Deploy e o auditor cadastrado, responsável por aprová-la.Deploys Panel – Auditor', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541721
+57
+['', 'Windows Server – Connection Test', '']
+['', 'Feita a adição de uma conexão, é possível efetuar um teste de conexão ao clicar no ícone\xa0connection test [], é equivalente ao botão\xa0[] do painel de adição.Caso a conexão tenha sido bem sucedida a seguinte janela será exibida:Authentication –\xa0Connection SuccessfulCaso a conexão falhe a seguinte janela será exibida:Authentication -\xa0Connection Fail', '']

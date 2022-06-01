@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816362
+114
+['', 'Blacklist - Menu de Ações - Create', '']
+['', 'Através da opção “Create” é possível criar uma lista de IPs. Para acessar, clique no\xa0menu de ações [].1.\xa0Clique na opção “Create”;Blacklist - Menu de Ações - Create2. A tela “Blacklist” será exibida. Conforme demonstrado na imagem abaixo:Blacklist - Import BlacklistVersion:\xa0Determina entre IPv4 e IPv6, qual será utilizado na Blacklist;Address:\xa0Neste campo, deve-se digitar o endereço IP que será adicionado na Blacklist;Mask:\xa0Neste campo, digite a máscara de rede;List:\xa0Clique no botão [], caso pretenda remover um IP da lista clique em [].Caso deseje cancelar clique no botão\xa0Cancel[]. Para concluir a adição clique no botão\xa0Save[].Address added successfullyAs configurações foram feitas com sucesso.', '']

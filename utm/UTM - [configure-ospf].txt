@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462272
+54
+['', 'UTM - [configure-ospf]', '']
+['', 'Configura o roteamento dinâmico do OSPF.Modo de uso:', 'Por padrão a senha de usuário e de modo privilegiado é admin.', 'Command Line Interface – configure-ospfNa interface web, em [System] >> [Network] >> [Dynamic Routing], ao clicar no\xa0ícone\xa0 [], é possível visualizar o exemplo de configuração:Command Line Interface – Exemplo de configuração OSPF', '']

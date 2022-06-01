@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration+-+Aba+Audit+Logs
+97
+['', 'Administration - Aba Audit Logs', '']
+['', 'Este recurso tem como finalidade principal “Auditar” todas as operações realizadas no sistema, desde “Visualização”, “Configuração de um serviço” até "Políticas". Além disso, é possível acessar as “Definições” e ou “Alterações” de uma política de compliance realizada por qualquer um dos administradores do sistema, seja o “Super Administrador” ou “Administrador Comum”.Através deste painel\xa0é possível aplicar filtros por: “Data inicial/final”, “Administradores”, “Interfaces” e ainda definir o limite que deseja exibir por página.Para acessar, clique na Aba Audit Log.Aba\xa0Audit LogsSurgirá a tela\xa0demonstrada pela imagem abaixo:Administration - Audit Logs', '']

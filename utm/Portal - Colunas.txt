@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Portal+-+Colunas
+97
+['', 'Portal - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Application Control:Authentication – PortalA seguir explicaremos cada coluna:Caixa de Seleção[]: Seleciona o profile;Profiles: Apresenta o nome do portal\xa0cadastrado;IPv4 Address: Apresenta o IPv4 do portal;IPv6 Address: Apresenta o IPv6 do portal;Actions: A coluna “Actions” é composta por vários botões:Enable[]/Disable[]: Permite habilitar ou desabilitar o\xa0portal adicionado no botão\xa0Add Profile;Edit\xa0[]: Permite editar as configurações do\xa0portal\xa0adicionado na opção\xa0Add Profile\xa0do menu de ações;Delete\xa0[]: Deleta o profile, basicamente é o equivalente a Remove Profile do menu de ações.', '']

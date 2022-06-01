@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816282
+58
+['', 'Intrusion Prevention - Aba Whitelist - Menu de Ações', '']
+['', 'No topo direito da tela temos o menu de ações:Intrusion Prevention\xa0– Botão do Menu de AçõesAo clicar neste botão o menu abaixo é exibido:Intrusion Prevention - Whitelist - Menu de AçõesO menu é composto das seguintes opções:Import Whitelist;Create;Delete.A seguir cada opção do menu de ações será detalhada.', '']

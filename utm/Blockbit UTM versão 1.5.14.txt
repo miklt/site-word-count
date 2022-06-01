@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=22679387
+64
+['', 'Blockbit UTM versão 1.5.14', '']
+['', 'Release Notes04 Nov 2020\xa0Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit UTM 1.5.14:CódigoDescriçãoUTM-830Correções na criação de redirecionamento com range de portas (TCP ou UDP)UTM-2124Correção no sincronismo de usuários do ADUTM-2707Correção na execução do serviço de deploy após conexão com o GSM', '']

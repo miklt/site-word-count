@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12474977
+27
+['', 'UTM - [debug-ppp]', '']
+['', 'Exibe os logs de debug das interfaces que usem Point-to-Point Protocol\xa0em tempo real.Modo de uso:Command Line Interface – debug-ppp', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175626
+85
+['', 'Políticas IPv6', '']
+['', 'Esta seção irá analisar cada componente da interface de criação de políticas IPv6.\xa0As definições são idênticas para\xa0IPv4\xa0e\xa0IPv6, sofrendo alterações somente em seus endereçamentos e em algumas características proprietária a cada versão do protocolo.Caso não esteja já selecionado, clique na opção "IPv6";Opção\xa0IPv6Surgirá a Tela de “Policies IPv6”, conforme demonstrado pela imagem a seguir:IPv6Esta seção irá se aprofundar em:Criação de grupos de políticas;Cadastro e Remoção de políticas.A seguir, vamos analisar cada componente deste painel.', '']

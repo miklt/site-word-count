@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/When
+84
+['', 'When', '']
+['', 'Determina o momento em que o pacote será instalado, consiste em:\xa0Install Package\xa0–\xa0When.Date and Time: Determina a data e horário desejados. Para selecionar o horário, selecione a data desejada e clique na opção "select time" para determinar o horário desejado. Caso queira inserir a data e horário atuais, clique na opção "Now", finalmente para salvar suas alterações clique no botão[].Para retornar ao painel Where , clique no botão [],\xa0para continuar com os procedimentos e acessar o painel Who, clique no botão [].', '']

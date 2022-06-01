@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12478164
+85
+['', 'Blockbit UTM versão 1.5.10', '']
+['', 'Nova Funcionalidade:\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0Implementação de uma MIB de SNMP para monitoramento da descrição da interface de rede.CódigoDescriçãoUTM-859Melhora na estabilidade do serviço de proxy em servidores com muitas interfaces.UTM-957Correção aplicada na restauração de snapshots.UTM-1063Correção aplicada no serviço de High Availability com interface LAG.UTM-1087Correção aplicada na edição do ID da interface VLAN.UTM-1280Correção ao habilitar e desabilitar políticas nos links configurados no perfil de SDWAN.UTM-1584Correção no serviço de envio de logs.', '']

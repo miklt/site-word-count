@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541350
+74
+['', 'Users - Colunas – Edit User', '']
+['', 'Ao clicar no botão edit[] é possível editar as informações localizadas no usuário selecionado.Users – Add New UserO botão [] permite que o usuário determine uma senha no próximo login. Ao clicar nesse botão, a seguinte mensagem será exibida:Users – Password Expiration Confirmation.Clique em []\xa0para forçar o usuário a determinar uma senha no próximo login, caso contrário, clique em [].Após finalizar as devidas alterações clique no botão [] para salvá-las.', '']

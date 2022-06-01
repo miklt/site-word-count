@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462537
+23
+['', 'UTM - [fwreload]', '']
+['', 'Recarrega o firewall.Modo de uso:Command Line Interface – fwreload', 'ATENÇÃO: Ao executar esse comando, uma breve interrupção nos acessos ocorrerá.', '', '']

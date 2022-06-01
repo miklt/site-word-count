@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26815398
+42
+['', 'Tunnels - Botão Edit', '']
+['', 'Ao criar um túnel através do botão\xa0[], ele é adicionado sem nenhuma configuração em particular, para efetuar essa configuração é necessário clicar no botão [].Os tipos de túnel disponíveis são:Tunnels - Site-to-Site;Tunnels - Full-Mesh;Tunnels - Star.', '']

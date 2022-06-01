@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Users
+53
+['', 'Users - Users', '']
+['', 'Através desta tela é possível adicionar, importar e gerenciar usuário que já foram adicionados.', 'Para visualizar os usuários autenticados, faça uma busca utilizando o filtro "#online".', 'Users - UsersEsta tela compõe os seguintes recursos:Import User;Add User;Actions Menu;Edit User;Remove User.A seguir iremos analisar cada componente desta tela.', '']

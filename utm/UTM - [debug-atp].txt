@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12474960
+23
+['', 'UTM - [debug-atp]', '']
+['', 'Exibe os logs de debug do Advanced Threat Protection\xa0em tempo real.Modo de uso:Command Line Interface – debug-atp', '']

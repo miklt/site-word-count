@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462961
+82
+['', 'Verificação de ambiente para instalação do Blockbit GSM', '']
+['', 'Para realizar a instalação do Blockbit GSM é necessário que você esteja familiarizado com as soluções Blockbit, este guia tem como principal objetivo o fornecimento de informações a respeito da configuração e realização do gerenciamento do Blockbit GSM.Antes de prosseguir com a instalação, verifique os requisitos de instalação.Lembre-se que oferecemos suporte total por meio de nossos parceiros e de nossos canais de atendimento, que terão a maior satisfação em atendê-lo.', '']

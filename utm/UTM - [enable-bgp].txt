@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462468
+18
+['', 'UTM - [enable-bgp]', '']
+['', 'Habilita o serviço de roteamento dinâmico BGP.Modo de uso:Command Line Interface – enable-bgp', '']

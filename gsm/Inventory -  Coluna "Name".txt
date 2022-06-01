@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816804
+104
+['', 'Inventory -  Coluna "Name"', '']
+['', 'A coluna “Name” apresenta as devices que foram anteriormente cadastradas, ordenadas em seus respectivos grupos.Ao lado do nome de cada device cadastrada existe um símbolo que indica o status da conexão entre o Blockbit GSM e o\xa0Blockbit UTM.Se o símbolo vermelho estiver sinalizado, significa que aquele device não está conectada:Inventory – Device sem conexão.Se o símbolo verde estiver sinalizado, significa que aquele device está conectada corretamente:Inventory – Device conectada – Online.Caso queira verificar o status basta colocar o mouse em cima do botão de status para que uma mensagem seja exibida:Inventory - Connection error.Inventory – Connection Established.', '']

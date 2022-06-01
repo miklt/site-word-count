@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462361
+48
+['', 'UTM - [debug-events]', '']
+['', 'Exibe os logs dos eventos do sistema em tempo real.Modo de uso:Command Line Interface – debug-eventsExemplo:Command Line Interface – debug-events - exemploExemplo 2: Caso não tenha nenhum registro de log, será retornada à informação abaixo:Command Line Interface – debug-events – log not found', '']

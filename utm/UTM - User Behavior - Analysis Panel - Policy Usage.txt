@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+User+Behavior+-+Analysis+Panel+-+Policy+Usage
+44
+['', 'UTM - User Behavior - Analysis Panel - Policy Usage', '']
+['', 'Em “Policy Usage” temos:“Policy Tags” que demonstra quais as Tags de política que foram mais aplicadas a esse usuário, em “Top Policies” temos as políticas mais aplicadas a esse usuário em específico.Analysis Panel - Policy Usage', '']

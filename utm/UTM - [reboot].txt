@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462685
+12
+['', 'UTM - [reboot]', '']
+['', 'Reinicializa o sistema.Modo de uso: Command Line Interface – reboot', '']

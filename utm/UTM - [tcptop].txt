@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462838
+56
+['', 'UTM - [tcptop]', '']
+['', 'Extrai e exibe informações de tráfego das interfaces de rede, tais como: Total de pacotes capturados, de pacotes recebidos, de pacotes bloqueados pelo kernel e de pacotes trafegados pelos TOP 10 endereços IP.Modo de uso:Command Line Interface – tcptopExemplo: Exibindo informações de tráfego top 10 na interface eth0:Command Line Interface – tcptop – Exemplo', '']

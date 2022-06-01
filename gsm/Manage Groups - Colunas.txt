@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Manage+Groups+-+Colunas
+93
+['', 'Manage Groups - Colunas', '']
+['', 'A seguir explicaremos cada coluna da janela Manage Groups:Manage Groups - Colunas.A seguir explicaremos cada coluna:Caixa de Seleção[]:\xa0Seleciona o grupo.Name:\xa0Apresenta o nome do grupo cadastrado;Description:\xa0Apresenta a descrição do grupo cadastrado;Devices:\xa0Quantia de devices\xa0cadastrados no grupo;Actions:\xa0A coluna “Actions” é composta por dois botões:Botão\xa0Edit\xa0[]:\xa0Edita dados do grupo cadastrado;Botão\xa0Delete\xa0[]:\xa0Remove o grupo.Clique no botão [] no canto superior direito ou em Done [] para fechar esta janela.Para mais informações sobre como Criar um Device, consulte esta página.', '']

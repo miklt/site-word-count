@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462488
+19
+['', 'UTM - [enable-sip]', '']
+['', 'Ativa o protocolo SIP (Protocolo de Comunicação VOIP).Modo de uso:Command Line Interface – enable-sip', '']

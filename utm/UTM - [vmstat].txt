@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462889
+28
+['', 'UTM - [vmstat]', '']
+['', 'Relata informações sobre processos, memória, paginação, I/O de blocos e atividades da CPU.Modo de uso:Command Line Interface – vmstatExemplo:Command Line Interface – vmstat - Exemplo', '']

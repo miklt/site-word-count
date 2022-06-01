@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12463107
+61
+['', 'Deploys Panel - Botão "Cancel"', '']
+['', 'Utilizando-se do botão “Cancel” o auditor é capaz de rejeitar a instalação do pacote. Com ele também é possível deixar registrado um comentário informando o motivo da rejeição do Deploy.Para acessar, clique no botão “Cancel”.Botão “Cancel”Surgirá a tela Justify.Justify Action CancellationClique no botão Save[] para salvar ou Cancel[] para fechar a tela.', '']

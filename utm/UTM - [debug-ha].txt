@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462378
+23
+['', 'UTM - [debug-ha]', '']
+['', 'Exibe os logs de debug do serviço de Alta Disponibilidade (H.A.).Modo de uso:Command Line Interface – debug-ha', '']

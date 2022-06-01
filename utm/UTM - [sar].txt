@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462730
+18
+['', 'UTM - [sar]', '']
+['', 'Utilizado para exibir os relatórios de atividades do sistema.Modo de uso:Command Line Interface – sar', '']

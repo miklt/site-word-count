@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462795
+39
+['', 'UTM - [show-uuid]', '']
+['', 'Utilizado para exibir o número de identificação do\xa0Blockbit UTM. Esse ID é utilizado na identificação do hardware para validação da licença de uso.Modo de uso: [Saída padrão do comando]:Command Line Interface – show-uuid', '']

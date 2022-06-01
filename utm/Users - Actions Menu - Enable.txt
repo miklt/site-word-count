@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Actions+Menu+-+Enable
+48
+['', 'Users - Actions Menu - Enable', '']
+['', 'Para ativar os usuários selecionados, use a função “Enable”.Para tanto clique no menu de ação\xa0[], o menu abaixo será exibido;Actions Menu - EnableApós selecionar "Enable". A seguinte mensagem de confirmação aparecerá:Users – Enable UsersClique em []\xa0para ativar o usuário, caso contrário, clique em [].', '']

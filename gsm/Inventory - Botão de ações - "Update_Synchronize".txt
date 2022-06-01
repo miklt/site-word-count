@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816836
+130
+['', 'Inventory - Botão de ações - "Update/Synchronize"', '']
+['', 'O botão de ação “Update/Synchronize” permite sincronizar ou fazer update da device:Botão “Update/Synchronize”.Ao clicar no botão Update/Synchronize[]. A seguinte janela será exibida:Figura 86 – Update/Sync Device.A seguir analisaremos ambas opções:Update: Esta opção tem como função, efetuar a atualização da device para a versão mais atual disponível.Ex.: Um UTM 14.6 sendo atualizado para um UTM 1.5.2;Synchronize: A função desta opção é sincronizar as informações da device em questão com a aba “Device Manager”, permitindo a exibição do Status da Licença, a versão e diversas outras informações;Caso deseje cancelar clique no botão\xa0Cancel[]. Ao clicar no botão save[] a atualização ou sincronização será efetuada.A sincronização e atualização foram realizadas com sucesso.', '']

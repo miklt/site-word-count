@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462719
+59
+['', 'UTM - [route]', '']
+['', 'Exibe e manipula a tabela de roteamento de endereços\xa0IP.Modo de uso:Command Line Interface – route', 'Rotas estáticas adicionadas pelo console CLI (linha de comando) não são salvas ou carregadas após o boot.', 'Exemplo 1:Command Line Interface – route – Exemplo 1Exemplo 2: Configurando um roteamento estático para uma rede estendida:Command Line Interface – route – Exemplo 2', '']

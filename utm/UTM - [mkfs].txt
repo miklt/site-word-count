@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462646
+28
+['', 'UTM - [mkfs]', '']
+['', 'Utilizado para executar uma formatação.\xa0Será necessário determinar o device que será formatado. Ex.: mkfs -t ext4 /dev/sdb;Modo de uso:Command Line Interface – mkfs', '']

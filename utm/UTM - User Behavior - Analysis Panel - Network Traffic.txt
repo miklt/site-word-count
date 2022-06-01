@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+User+Behavior+-+Analysis+Panel+-+Network+Traffic
+69
+['', 'UTM - User Behavior - Analysis Panel - Network Traffic', '']
+['', 'Abaixo de “Network Traffic” temos:“Total Traffic”, exibindo o total de tráfego do usuário em Gigabytes, em “Top Services” é exibida uma listagem com os 10 serviços mais utilizados pelo usuário em questão, “Top source” demonstra as maiores fontes de acesso do utilizador e “Top Destination” uma listagem de IPs dos destinos mais acessados pelo usuário.User Behavior - Analysis Panel - Network Traffic', '']

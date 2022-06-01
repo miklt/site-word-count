@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542311
+41
+['', 'Add Profile – Terms of Use', '']
+['', 'A área [Terms of Use] tem como objetivo possibilitar a criação dos termos de uso que serão exibidos no portal, conforme demonstrado pela imagem a seguir:Authentication – Terms of useA seguir, analisaremos o painel\xa0Customize Logo.', '']

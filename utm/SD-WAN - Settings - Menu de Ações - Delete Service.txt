@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26815948
+132
+['', 'SD-WAN - Settings - Menu de Ações - Delete Service', '']
+['', 'Através do botão “Delete Service” é possível deletar os Serviços selecionados. Para deletar pelo menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) Service(s) deseja deletar. Para selecionar, basta clicar com o mouse no checkbox que fica localizado ao lado do Name. Nos services selecionados o checkbox mudará da cor cinza para azul []. Ex.: Test;SD-WAN – Seleção dos Services para deletar2. Entre no Menu Actions e clique na opção “Delete Service”.SD-WAN – Delete Service3. Surgirá a mensagem de notificação questionando se deseja realmente deletar os profiles\xa0selecionados:SD-WAN – Mensagem se deseja deletar os ServicesCaso desejar cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Saved successfullyApós realizar esses procedimentos, os services\xa0terão sido deletados com sucesso.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541381
+132
+['', 'Users - Groups – Add Group', '']
+['', 'Para os casos nos quais se utilizam “domínios” do tipo local, é recomendável pelas boas práticas de administração, definir também “grupos” de usuários de domínios, este recurso visa facilitar a gerência e simplificar a definição das políticas de compliance que serão aplicadas posteriormente.Groups\xa0- Add Local GroupsClique em Add [] preencha os campos com os respectivos dados:Groups - Add GroupsName: Informe o nome do grupo. Ex.: internet_acess@blockbit.com;Domain: Informe o domínio do qual o grupo criado fará parte. Ex.: blockbit.com;Domain users: Lista de usuários disponíveis para serem adicionados no grupo;Members group: Lista de usuários membro do grupo;Description: Informe a descrição do grupo. Ex.: Group for an internet access.Groups - Add Group - ExampleApós finalizar as devidas alterações clique no botão [] para salvar as alterações.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Logging+-+Rotation
+91
+['', 'Logging - Rotation', '']
+['', 'Neste painel você configura o funcionamento dos\xa0Logs de sistema e define a rotação e o limite dos\xa0registros.Logging - SettingsLog rotation by size: Define a rotação do log por porcentagem do tamanho de disco. Ex.: 70%;Log rotation by time: Define a rotação do log por tempo de existência. É definido em dias. Ex.: 7 dias;Log limit by session: Limita os logs por sessão. É definido em segundos, minutos ou hora. Ex.: 1 minuto.Clique em [] para reiniciar os serviços de firewall e ativar as configurações efetuadas.', '']

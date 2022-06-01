@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462518
+29
+['', 'UTM - [free]', '']
+['', 'Exibe o status de uso de memória RAM do sistema.Modo de uso:Command Line Interface – freeExemplo: Verificando o consumo de memória:Command Line Interface – free – Exemplo', '']

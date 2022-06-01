@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/GSM+-+INSTALL+PACKAGE
+58
+['', 'GSM - INSTALL PACKAGE', '']
+['', 'Através do botão “Install Package” é possível realizar a instalação do pacote de configurações para as devices integradas ao Blockbit GSM.Botão “Install Package”.Ao clicar no botão surgirá a tela de Install Package:Install Package.A janela Install Package é composta de:What;Where;When;Who.Abaixo analisaremos cada componente do painel “Install Package”:', '']

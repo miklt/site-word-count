@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541491
+49
+['', 'Users - Domains – Actions Menu', '']
+['', 'No topo direito do painel “Domains”, temos o menu de ações, que pode ser exibido ao clicar em\xa0[], conforme ilustrado pela imagem abaixo:Domains - Actions MenuO menu é composto pelas seguintes opções:Select e Select all;Remove.A seguir vamos analisar cada uma destas opções.', '']

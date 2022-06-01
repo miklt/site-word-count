@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Manage+Groups+-+Delete+Groups
+94
+['', 'Manage Groups - Delete Groups', '']
+['', 'No Blockbit GSM é possível deletar grupos de device. Siga os seguintes passos:1.\xa0Selecione o grupo que se deseja deletar clicando na seleção[];2. Clique no ícone de Menu de ações[];3. Clique na opção “Delete Groups”;Inventory – Menu de ações – Delete Groups.4. Surgirá uma mensagem de confirmação verificando se deseja deletar o grupo selecionado:Inventory - Delete groups message.Clique no botão Delete[]\xa0ou clique em Cancel[] para voltar ao painel anterior.Group deleted successfullyO grupo foi removido com sucesso.A seguir vamos analisar os componentes das colunas.', '']

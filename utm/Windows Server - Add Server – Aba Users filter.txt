@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541693
+115
+['', 'Windows Server - Add Server – Aba Users filter', '']
+['', 'Nesta aba configura-se os campos que se referem à base de pesquisa de usuários e os seus respectivos filtros na base LDAP do servidor Windows AD.Authentication\xa0– Add Windows Server – User filterConfigure os campos “Base”, “Filter”, “Attribute login”, “Attribute name”, “Attribute email” e “Attribute member” de acordo com os dados da base LDAP do respectivo servidor Windows.Estes campos são preenchidos automaticamente ao clicar no botão\xa0[].', 'Para a configuração de um servidor Windows AD com LDAP, é necessário alterar manualmente os campos para possuírem os valores abaixo:Filter: (&(objectclass=user)(objectclass=person)(!(objectclass=computer)))Attribute login: userPrincipalName', 'Para continuar configurando, acesse a próxima aba lateral:\xa0Group Filter.', '']

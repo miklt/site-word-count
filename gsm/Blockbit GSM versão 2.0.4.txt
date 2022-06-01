@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17176880
+132
+['', 'Blockbit GSM versão 2.0.4', '']
+['', 'Release Notes22 Jun 2020\xa0O GSM 2.0.4 agora permite integrar o sistema com o servidor de autenticação RADIUS.Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit GSM 2.0.4:CódigoDescriçãoGSM-61Correção na sincronização de usuários do UTM no GSM.GSM-708GSM-729GSM-743GSM-748GSM-749GSM-752GSM-756GSM-755Correções aplicadas no deploy de configurações.GSM-730Correção aplicada no campo “Rede” em Device Community.GSM-741GSM-746GSM-756Correções aplicadas no Zero Touch Provisioning.GSM-742Correção nas regras de zone protection.GSM-745Correção na remoção dos devices em no painel inventory.GSM-747Correção na integração entre UTM e Analyzer.GSM-759Integração do sistema com servidor de autenticação RADIUS.GSM-783Correção aplicada no arquivo CSV do log sessions.', '']

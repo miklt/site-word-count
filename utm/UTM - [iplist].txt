@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462607
+23
+['', 'UTM - [iplist]', '']
+['', 'Lista uma ou todas as interfaces de rede, zona e status da conexão física.Modo de uso:Command Line Interface – iplist', '']

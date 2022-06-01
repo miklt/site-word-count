@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12476599
+83
+['', 'Blockbit UTM versão 1.5.9', '']
+['', 'Novas FuncionalidadesO sistema de gerência de interfaces de rede permite adicionar e remover endereços de um mesmo device, pode ser aplicado par aos seguintes tipos de device:Física;Virtual;VLAN;LAG.A interface de backup agora possui um exportador seletivo de configurações para importações no UTM 2.0, permitindo a exportação de:Serviços (Seleção por serviços, Objects, Dynamic routing e SNMP "CLI");Políticas IPVA ou IPV6 (Profiles/Políticas);Sistema.Suporte à integração com o GSM 2.0.', '']

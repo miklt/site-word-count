@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+SERVICES
+56
+['', 'UTM - SERVICES', '']
+['', 'Através do item Services é possível efetuar o gerenciamento de todos os serviços disponíveis no BLOCKBIT UTM.Ative um serviço através do botão\xa0[], para desativar um serviço utilize o botão\xa0[].ServicesContém as opções:Firewall;Proxy;Web Cache;Web Filter;Application Control;Intrusion Prevention;Threat Protection;SD-WAN;DHCP;DNS;DDNS;VPN IPSEC;VPN SSL.', '']

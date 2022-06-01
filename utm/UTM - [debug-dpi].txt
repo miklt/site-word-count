@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12474948
+28
+['', 'UTM - [debug-dpi]', '']
+['', 'Exibe os logs de debug do application control\xa0em tempo real.Modo de uso:Command Line Interface – debug-dpiExemplo:Command Line Interface – debug-dpi\xa0- exemplo', '']

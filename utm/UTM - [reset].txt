@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462711
+17
+['', 'UTM - [reset]', '']
+['', 'Reinicializa as variáveis da sessão corrente no terminal.Modo de uso:Command Line Interface – reset', '']

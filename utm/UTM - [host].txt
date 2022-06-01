@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462557
+33
+['', 'UTM - [host]', '']
+['', 'Este comando serve para efetuar pesquisas de DNS, sendo capaz de converter nomes em endereços IP e vice-versa.Modo de uso:Command Line Interface – hostExemplo:Command Line Interface – host - exemplo', '']

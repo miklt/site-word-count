@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=24589865
+55
+['', 'Blockbit GSM versão 2.0.7', '']
+['', 'Release Notes14 Dec 2020\xa0Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit GSM 2.0.7:CódigoDescriçãoGSM-1266Melhorias aplicadas nos caracteres aceitos no campo senha no cadastro de DevicesGSM-1269Correção no agendamento de deploysGSM-1293Melhorias no deploy de custom branding', '']

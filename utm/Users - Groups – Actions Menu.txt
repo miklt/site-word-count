@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541390
+50
+['', 'Users - Groups – Actions Menu', '']
+['', 'No topo direito do painel “Groups”, temos o menu de ações, que pode ser exibido ao clicar no botão [], conforme ilustrado pela imagem abaixo:Groups – Action MenuO menu é composto pelas seguintes opções:Select e Select all;Remove.A seguir vamos analisar cada uma destas opções.', '']

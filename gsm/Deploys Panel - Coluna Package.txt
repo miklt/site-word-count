@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Coluna+Package
+52
+['', 'Deploys Panel - Coluna Package', '']
+['', 'A coluna Package exibe o nome do pacote aplicada no deploy.Para exibir detalhes do Pacote aplicado no deploy, clique no nome do pacote. Surgirá a tela de Task view:Deploys Panel - Task viewPara fechar a janela, clique no botão Close[] ou\xa0clique em []\xa0no topo da janela.', '']

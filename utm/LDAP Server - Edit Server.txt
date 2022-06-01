@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/LDAP+Server+-+Edit+Server
+47
+['', 'LDAP Server - Edit Server', '']
+['', 'É possível editar as informações localizadas no servidor selecionado na caixa de seleção abaixo de “LDAP Server” e clicando no botão\xa0edit [].A seguinte janela será exibida:LDAP Server – Edit Domain.Após finalizar as devidas alterações clique no botão\xa0[] para salvar as alterações.', '']

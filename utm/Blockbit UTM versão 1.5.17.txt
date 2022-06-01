@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=33227501
+86
+['', 'Blockbit UTM versão 1.5.17', '']
+['', 'Release Notes24 Aug 2021\xa0Melhorias apresentadas no lançamento do Blockbit UTM 1.5.17:CódigoDescriçãoT2-22Melhoria feita no tráfego da VPN via VOIP.T2-24Correção feita no recarregamento dos túneis VPN.T2-242Melhorias foram realizadas de maneira geral nas aplicações de segurança, tais como Nexus e Apache.T2-248Melhoria na comunicação entre servidores master e slave pela interface Heartbeat.T1-249T1-296Melhoria feita no processo de limpeza dos Logs de SDWAN.T2-250Melhoria feita no sistema de atualização de antimalware.', '']

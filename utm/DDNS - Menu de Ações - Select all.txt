@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12458865
+34
+['', 'DDNS - Menu de Ações - Select all', '']
+['', 'Ao clicar em “Select All” no menu de ações todos os itens\xa0serão selecionados.DDNS\xa0– Select AllIsso permite que alterações que afetem todos os itens, sejam facilmente implementadas.', '']

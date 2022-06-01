@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12461792
+119
+['', 'Times - Menu de ações - Create Group', '']
+['', 'Através do botão “Create Group” é possível criar um novo\xa0grupo de objeto. Para acessar, siga os passos:1.\xa0No menu\xa0de ações [], clique na opção “Create Group”;Objects\xa0–\xa0Times\xa0–\xa0Create Group2. Preencha as informações da tela\xa0Times Group Object:Objects\xa0–\xa0Times Group ObjectName:\xa0Nome do grupo de objetos. Ex.:\xa0Work hours time group;Description:\xa0Este campo é destinado para a descrição do grupo. Ex.:\xa0Work hours group;Objects:\xa0Permite selecionar os objetos que foram adicionados previamente em\xa0Objects - Times - Menu de ações - Create Object. Os objetos adicionados neste campo serão inseridos como tags.Clique no botão\xa0Cancel[]\xa0para Cancelar ou no\xa0botão\xa0Save[]\xa0para salvar.Saved successfullyO grupo foi criado com sucesso.', '']

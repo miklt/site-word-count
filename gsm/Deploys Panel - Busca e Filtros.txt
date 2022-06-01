@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Busca+e+Filtros
+127
+['', 'Deploys Panel - Busca e Filtros', '']
+['', 'Para localizar um Deploy em específico, há uma barra de busca dividida em: “Scheduled”, “Owner”, “Auditor”, “Status”, ”Package” e o botão de “Search”.Nesta sessão iremos analisar o funcionamento do sistema de busca de deploys.Deploys Panel – Busca de deploysDa esquerda para a direita temos:Scheduled: Filtra por data/hora inicial ou final, referindo-se a data para quando o Deploy foi agendado;Owner: Filtra pelo usuário que criou o Deploy;Auditor: Filtra por auditor que aprovou o Deploy;Status: Filtra pelo status do Deploy, que pode ser dos tipos: Success, Accept, Running, Pending, Error ou Cancelled;Package: Filtra pelo tipo do Deploy, que pode ser: Policy Pack, Device Template ou Device Community.Para executar a busca, clique no botão de search[].\xa0', '']

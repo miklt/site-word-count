@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Coluna+Status
+101
+['', 'Deploys Panel - Coluna Status', '']
+['', 'A coluna “Status” exibe o status que um determinado deploy se encontra: Pending, Running, Cancelled, Success e Error.Para exibir detalhe do Status de cada device que será aplicado em um determinado deploy, clique no nome do Status e surgirá a tela “Deploy Information”:Deploys Panel – Device StatusOs status exibidos nessa coluna e nessa tela são idênticos aos já citados anteriormente.Na coluna “Message” são exibidas as mensagens relacionadas a eventuais falhas (caso o status “error” surja), a imagem abaixo exemplifica a função dessa coluna:Deploys Panel – Error MessageA seguir explicaremos os botões e seus respectivos status.', '']

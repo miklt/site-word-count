@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Domains+-+Add+Domain
+91
+['', 'Users - Domains - Add Domain', '']
+['', 'Para adicionar um domínio siga os passos a seguir:Ao clicar em []\xa0a seguinte janela será exibida:Domains - Add DomainDomain:\xa0Digite o nome do domínio;Default domain []:\xa0Ao checar esta caixa de checagem, este domínio será determinado como o domínio padrão;Password expiry time:\xa0Determina o tempo necessário para que a senha expire;Strong password []:\xa0Caso esta caixa de checagem esteja habilitada, obriga que os usuário utilizem uma senha forte.Por fim, clique em\xa0[] para salvar o domínio.', 'Cheque um exemplo de como adicionar domínios, nesta página.', '', '']

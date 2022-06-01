@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=33227525
+109
+['', 'Blockbit GSM Versão 2.0.11', '']
+['', 'Release Notes24 Aug 2021\xa0Atualizações e melhorias apresentadas no BLOCKBIT GSM Versão 2.0.11.CódigoDescriçãoT1-87Melhoria feita na criação de regras de Zone Protection através de Device Template.\xa0T1-201Correção feita na exibição de configurações de e-mail nos Logs de auditoria.T1-230Melhoria feita no deploy de Pacotes de Políticas.T2-129Melhoria feita na exibição dos Logs por data.T2-145Correção feita na restauração de Backup.T2-282Atualização feita em Rpc.statd, Open SSH e Nginx; melhorado o módulo de criptografia DH Key Exchange (PCI DSS).T2-391Melhoria feita na configuração de Policy Templates e seleção de políticas IPV4 e IPV6.', '']

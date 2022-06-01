@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=24590132
+89
+['', 'Blockbit UTM versão 1.5.15', '']
+['', 'Release Notes14 Dec 2020\xa0Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit UTM 1.5.15:CódigoDescriçãoUTM-628Correção aplicada no download de arquivos permitidos na quarentena de MalwaresUTM-695Correção na exibição das informações em Administrator - Audit LogsUTM-831Correção na edição de objetos de endereço pertencentes a um grupoUTM-913Correção aplicada na entrega de link por DHCPUTM-920Melhorias na funcionalidade do formulário de cadastro de DHCPUTM-2124Correção no processo de sincronismo de usuários do AD', '']

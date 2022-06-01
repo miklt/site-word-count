@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462266
+31
+['', 'UTM - [configure-ospf6]', '']
+['', 'Configura o roteamento dinâmico do OSPF para IPv6.Modo de uso:', 'Por padrão a senha de usuário e de modo privilegiado é admin.', 'Command Line Interface – configure-ospf6', '']

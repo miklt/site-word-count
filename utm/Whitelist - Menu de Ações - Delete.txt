@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816319
+125
+['', 'Whitelist - Menu de Ações - Delete', '']
+['', 'Através do botão “Delete” é possível deletar os IPs selecionados. Para deletar pelo menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) IP(s) deseja deletar. Para selecionar, basta clicar com o mouse no checkbox que fica localizado ao lado do IP. Nos profiles selecionados o checkbox mudará da cor cinza para azul [];Whitelist - Seleção dos IPs para deletar2. Entre no menu de ações\xa0[] e clique na opção “Delete Profile”.Whitelist\xa0– Delete Profile3. Surgirá a mensagem de notificação questionando se deseja realmente deletar os Profiles\xa0selecionados:Whitelist\xa0– Mensagem se deseja deletar os profilesCaso desejar cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Address removed successfullyApós realizar esses procedimentos, os IPs\xa0terão sido deletados com sucesso.', '']

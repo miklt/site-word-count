@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462950
+147
+['', 'Blockbit GSM versão 1.2.3', '']
+['', 'A tabela a seguir lista as melhorias realizadas no release do BLOCKBIT GSM versão 1.2.3CódigoDescriçãoGSM-7Correção na opção de deletar itens selecionados.GSM-10Correção na exibição de relatórios no Analyzer.GSM-12Correção no campo descrição em device template.GSM-14Correção nas configurações de rede nas abas geral e e-mail.GSM-18Melhorias no limite de busca do Analyzer.GSM-121Correção na listagem de perfil do SD-WAN.GSM-125Correção na Action View na janela de reports.GSM-126Correção na migração do GSM 1.1 para 1.2.1.GSM-127Melhorias no limite de linhas dos relatórios do Analyzer.GSM-128Correção no versionamento do GSM.GSM-129Correção aplicada no deploy de device template.GSM-130Correção aplicada na habilitação de serviços ao fazer deploy de device template.GSM-146Correção aplicada na habilitação da default policy ao fazer deploy de device template.', '']

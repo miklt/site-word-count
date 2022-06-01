@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Threat+Protection+-+Top+Infected+Domains
+87
+['', 'UTM - Threat Protection - Top Infected Domains', '']
+['', 'Em “Top Infected Domains” temos um gráfico de linha exibindo a quantia de domínios infectados detectados por dia, ao passar o mouse sobre cada parte do gráfico, ele o destacará e exibirá um número com a quantia de detecções do dia selecionado. Logo abaixo do gráfico, temos uma listagem dos dez domínios\xa0mais recorrentes ordenados por quantia de detecções.Para mais informações a respeito da barra de busca\xa0presente no topo deste gráfico cheque esta\xa0página.Threat Protection – Top Infected Sites', '']

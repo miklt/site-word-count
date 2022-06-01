@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462439
+32
+['', 'UTM - [disable-ospf]', '']
+['', 'Desabilita o serviço de roteamento dinâmico OSPF tanto para IPv4 como também para IPv6.Modo de uso:Command Line Interface – disable-ospf', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

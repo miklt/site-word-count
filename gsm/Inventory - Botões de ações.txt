@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816813
+49
+['', 'Inventory - Botões de ações', '']
+['', 'Ainda na Coluna Device Name, logo a direita do nome do device, existem três botões de ação: Access CLI (Command Line Interface)[], Access Interface Web[] e Synchronize[]:Botões de ação – Device Name.A seguir estaremos apresentando cada um deles.Access CLI;Access Interface Web;Synchronize.', '']

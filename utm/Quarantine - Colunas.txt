@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Quarantine+-+Colunas
+106
+['', 'Quarantine - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Quarantine:Intrusion Prevention – QuarantineA seguir explicaremos cada coluna:Caixa de Seleção[]: Seleciona o item;Actions: A coluna “Actions” é composta pelos botões:[] Ao clicar sobre o botão o sistema irá adicionar o endereço IP na whitelist, é o equivalente à opção Move to Whitelist do menu de ações;[] Ao clicar sobre o botão o sistema irá adicionar o endereço IP na blacklist, é o equivalente à opção Move to Blacklist do menu de ações;[] Ao clicar sobre o botão o sistema irá remover o endereço da quarentena, é o equivalente à opção\xa0Remove do menu de ações.', '']

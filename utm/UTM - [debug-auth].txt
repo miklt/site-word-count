@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462343
+32
+['', 'UTM - [debug-auth]', '']
+['', 'Exibe os logs de debug das autenticações (login, logout, keepalive e erros) em tempo real.Modo de uso:Command Line Interface – debug-authExemplo:Command Line Interface – debug-auth - exemplo', '']

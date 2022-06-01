@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/SD-WAN+-+Tipos+de+Perfil
+124
+['', 'SD-WAN - Tipos de Perfil', '']
+['', 'Nas páginas a seguir iremos analisar a fundo cada particularidade dos modos de operação do SD-WAN.O SD-WAN contempla 4 modos de operação diferentes, para determinar qual deles será utilizado no perfil, siga as instruções abaixo:Clique no botão de editar ou crie um perfil de SD-WAN selecionando a opção Create Profile no menu de ações, a tela abaixo será exibida.SD-WAN – Add profile.2. Para determinar o modo de operação do SD-WAN, clique na caixa de seleção “Type” e determine a opção desejadaSD-WAN - TypeConforme, demonstrado na imagem acima, o SD-WAN contempla os seguintes modos de operação:Load Balance;Failover;Spillover;Dynamic Selection.A analisaremos as distinções entre cada um destes tipos.', '']

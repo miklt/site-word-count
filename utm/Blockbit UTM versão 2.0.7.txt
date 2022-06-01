@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=24589854
+117
+['', 'Blockbit UTM versão 2.0.7', '']
+['', 'Release Notes14 Dec 2020\xa0Revisão no Layout em Port Forwarding, além do design e a usabilidade terem sido melhorados, a performance foi aperfeiçoada trazendo agilidade a essa tela.\xa0Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit UTM 2.0.7:CódigoDescriçãoUTM-913Correções aplicadas na entrega de link por DHCPUTM-2124Correção no processo de sincronismo de usuários com Servidores LDAP e Microsoft Active DirectoryUTM-2642Correção aplicada na checagem de políticas de perfil SSLUTM-2701Correções na remoção das configurações de VPN IPSEC RAS ao desabilitá-laUTM-2709Correções aplicadas na reserva de IP em ranges DHCPUTM-2845Correção na remoção de IPs utilizados em política SNAT', '']

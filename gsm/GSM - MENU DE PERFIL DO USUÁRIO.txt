@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12463021
+78
+['', 'GSM - MENU DE PERFIL DO USUÁRIO', '']
+['', 'O menu de perfil do usuário encontra-se localizado no canto superior direito da tela. Para acessar basta clicar no ícone user[].', 'Na tela abaixo o menu do usuário aparece com o nome “admin”, isso ocorre pois foi esse o nome cadastrado no item “Name” no capítulo Assistente de Instalação.', 'Menu de perfil do usuárioO menu de perfil do usuário é composto das opções:Profile;Logout.A seguir eles serão explicados detalhadamente.', '']

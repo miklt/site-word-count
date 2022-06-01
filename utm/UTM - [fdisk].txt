@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462511
+49
+['', 'UTM - [fdisk]', '']
+['', 'Utilizado para gerenciamento de partições de discos rígidos. É possível listar e identificar dispositivos de armazenamento do tipo HDD-SSD, criar partições físicas, lógicas, excluir, exibir informações e etc.Modo de uso:Command Line Interface – fdiskExemplo: Listar os discos e partições existentes:Command Line Interface – fdisk – Exemplo', '']

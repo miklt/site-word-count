@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12455486
+57
+['', 'UTM - INSTALAÇÃO', '']
+['', 'O Blockbit UTM pode ser instalado em dois tipos de Appliances: Hardware e Virtual, sendo estes compatíveis com as seguintes soluções: VMware, XenServer e\xa0KVM.A seguir, exemplificaremos como instalar o Blockbit UTM usando o software VMware ESXi 6.5.0.Importando a Máquina Virtual;Iniciando Máquina Virtual - Primeiro Acesso;Gravações das imagens nos pendrives.', '']

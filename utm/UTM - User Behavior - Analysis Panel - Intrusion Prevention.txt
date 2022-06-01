@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+User+Behavior+-+Analysis+Panel+-+Intrusion+Prevention
+78
+['', 'UTM - User Behavior - Analysis Panel - Intrusion Prevention', '']
+['', 'Em “Intrusion Prevention” temos:“Total Alerts” exibindo o total de alertas referentes a esse usuário, em “Impacts” temos os níveis de impacto dos alertas previamente citados, “Intrusion Protection” exibe um gráfico de rosca onde é possível de se ver os tipos de invasão detectados pelo sistema e por fim, em “Top Alerts” temos uma listagem dos 5 alertas referentes a esse usuário e quantas vezes eles ocorreram.Analysis Panel - Intrusion Prevention', '']

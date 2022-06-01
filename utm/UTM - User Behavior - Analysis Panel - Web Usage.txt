@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+User+Behavior+-+Analysis+Panel+-+Web+Usage
+86
+['', 'UTM - User Behavior - Analysis Panel - Web Usage', '']
+['', 'Em “Web Usage” temos:“Total Traffic” demonstrando um total do tráfego de rede do usuário, “Sites Allowed” mostrando o total de acessos a sites permitidos efetuados pelo usuário, “Sites Denied” mostrando o total de acessos a sites recusados efetuados pelo usuário, “Top Categories” uma lista de acessos do usuário por categoria e por fim, em “Top destination” uma lista de acessos do usuário por destino exibindo o IP e quantia de acessos a esse mesmo.Analysis Panel - Web Usage', '']

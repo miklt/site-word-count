@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/VPN+SSL+-+Aba+Server
+62
+['', 'VPN SSL - Aba Server', '']
+['', 'O Blockbit UTM Fornece dois modelos de implementações do tipo VPN SSL Tunnel.Multiclientes >> Servidor;Servidor >> Servidor (Site-to-Site).Para configuração e habilitação VPN SSL Server, acesse a aba Server:Aba ServersA tela abaixo será exibida:VPN SSL - ServersEsta tela é composta pelos seguintes painéis:Authentication;Network;Tunnels;Advanced;Cryptography.A seguir analisaremos os componentes desta tela.', '']

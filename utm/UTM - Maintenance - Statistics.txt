@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+Statistics
+81
+['', 'UTM - Maintenance - Statistics', '']
+['', 'Na aba statistics é possível visualizar o tamanho do diretório e a data da última alteração, o diretório logs está dividindo em 5 subdiretórios, são eles: “Network Traffic”, “Web Traffic”, “Antimalware”, “Threat Protection” e “Intrusion Prevention” dessa forma será possível apagar todo o conteúdo do diretório ou somente de um subdiretório especifico.Maintenance - Statistics filesPara excluir, basta clicar sobre o\xa0botão\xa0[], conforme tela abaixoMaintenance - Statistics files - DeleteApós clicar no botão [] serão removidos os dados do diretório de statistics.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462564
+39
+['', 'UTM - [hostname]', '']
+['', 'Exibe ou altera o nome de host do seu dispositivo BLOCKBIT UTM.Modo de uso:Command Line Interface – hostnameExemplo: Utilizando o comando para exibir o nome atual do seu dispositivo BLOCKBIT UTM:Command Line Interface – hostname - Exemplo', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462908
+21
+['', 'UTM - [watch-mem]', '']
+['', 'Monitora em tempo real a utilização da memória do servidor.Modo de uso:Command Line Interface – watch-mem', '']

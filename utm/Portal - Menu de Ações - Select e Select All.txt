@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542326
+61
+['', 'Portal - Menu de Ações - Select e Select All', '']
+['', 'Ao clicar na opção “Select”, os ícones de remoção serão trocados por caixas de seleção que podem ser utilizadas para fazer uma deleção em massa através do menu de ações.Já a opção “Select All” seleciona todos os itens.Portal – Select AllIsso permite que alterações que afete todos os itens, sejam facilmente implementadas.', '']

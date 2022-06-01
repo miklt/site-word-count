@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Groups
+61
+['', 'Users - Groups', '']
+['', 'Através desta tela é possível criar grupos de domínio de usuário.No topo superior do painel “Groups”, temos a barra de buscas, através dela é possível efetuar uma busca através de usuário, domínio, nome ou descrição.Users - GroupsEsta tela compõe os seguintes recursos:Add Group;Edit Group;Remove Groups;Actions Menu.A seguir iremos analisar cada componente desta tela.', '']

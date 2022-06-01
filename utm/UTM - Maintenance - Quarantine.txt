@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+Quarantine
+52
+['', 'UTM - Maintenance - Quarantine', '']
+['', 'Na aba Quarantine é possível visualizar o tamanho do diretório temporário e a sua última alteração.\xa0Maintenance - Quarantine filesAo clicar sobre o botão [], é possível apagar os dados do diretório conforme a tela abaixo.Maintenance - Quarantine files - DeleteApós clicar no botão [] serão removidos os dados do diretório de quarentena.', '']

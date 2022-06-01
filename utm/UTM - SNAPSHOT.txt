@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+SNAPSHOT
+136
+['', 'UTM - SNAPSHOT', '']
+['', 'A opção Snapshot, oferece uma forma mais rápida e compacta para salvar as configurações do\xa0Blockbit UTM.No Snapshot é feito um dump do banco de dados do UTM e arquivos de configuração dos serviços:Arquivos de configuração de serviços do sistema operacional:Rede;Serviços;Banco de dados;Proxy;E outros.Arquivos de configuração dos serviços do UTM;Arquivos de configuração do banco de dados;Quarentena do Antimalware.', 'No snapshot não são incluídos arquivos específicos que poderiam causar problemas ao restaurar em uma instalação nova ou em outra máquina.', 'Para tanto, clique na opção “Snapshot”:SnapshotA seguinte janela será exibida:Painel SnapshotPara criar um snapshot basta clicar na opção [] para fazer download do arquivo.Após ter criado um snapshot, para restaurá-lo clique na opção []\xa0e após fazer upload do arquivo, clique no botão [].', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Inventory
+110
+['', 'Aba Inventory', '']
+['', 'No Blockbit GSM é possível realizar inventário de todos os seus dispositivos facilmente, tais como: Status, Licença, Versão e Atualizações dos devices integrados.A aba “Inventory” é composta por sete colunas: “Name”, "Group", "Model", “License Status”, “Version”, “Template”, “Policy IPV4”, “Policy IPV6” e “Actions”. Os dispositivos estão divididos em grupos e além disso,\xa0no topo da tela estão localizados a barra de busca e no canto superior direito da tela está o menu de ações.Aba "Inventory"Esta seção irá demonstrar como:Cadastrar,\xa0Editar\xa0e\xa0Remover devices;Administrar grupos de devices;Sincronizar os devices com o GSM;Etc.A seguir, analisaremos as funções localizadas no topo deste painel.', '']

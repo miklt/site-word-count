@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+Logs
+81
+['', 'UTM - Maintenance - Logs', '']
+['', 'Na aba logs é possível visualizar o tamanho do diretório e a data da última alteração, o diretório logs está dividindo em alguns subdiretórios, são eles: “Network Traffic”, “Web Traffic”, “Antimalware”, “Threat Protection”, “Intrusion Prevention”, "Authentication" e "VPN" dessa forma é possível apagar todo o conteúdo do diretório ou somente um subdiretório especifico.Maintenance - LogsPara excluir, basta clicar sobre o\xa0botão [], conforme a tela abaixo.Maintenance - LogsApós clicar no botão [] serão removidos os dados do diretório de logs.', '']

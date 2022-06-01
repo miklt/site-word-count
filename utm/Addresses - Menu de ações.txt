@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12461518
+54
+['', 'Addresses - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Objects\xa0– Botão do menu de açõesAo clicar neste botão o menu abaixo é exibido:Objects\xa0– Menu de açõesO menu é composto das seguintes opções:Create Object;Create Group;Delete Object.A seguir cada opção do menu de ações será detalhada.', '']

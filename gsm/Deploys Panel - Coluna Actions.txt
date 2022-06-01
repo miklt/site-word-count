@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Coluna+Actions
+38
+['', 'Deploys Panel - Coluna Actions', '']
+['', 'A coluna de ações disponibiliza alguns botões com funcionalidades essenciais para os deploys:Deploys Panel – ActionsExistem cinco botões de ação:Accept;Reinstall;Cancel;Activity;Remove.A seguir, serão apresentadas as funcionalidades de cada botão.', '']

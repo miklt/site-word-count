@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462916
+25
+['', 'UTM - [wc]', '']
+['', 'Contador de quantidade de linhas da saída de um comando.Exemplo: Verificar a quantidade de usuário autenticados no servidor:Command Line Interface – wc', '']

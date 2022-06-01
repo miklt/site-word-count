@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462715
+41
+['', 'UTM - [rewizard]', '']
+['', 'Utilizado para aplicar um reset (anular) nas configurações do dispositivo BLOCKBIT GSM. Este comando só deve ser usado em casos de real necessidade de reconfiguração total do sistema.Modo de uso [Saída padrão do comando]:Command Line Interface – rewizard', '']

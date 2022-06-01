@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Where
+82
+['', 'Where', '']
+['', 'Determina o local onde o pacote será instalado, consiste em:Install Package – Where.Devices & Devices group: Seleciona o Device ou Device group nos quais os pacotes serão instalados. Selecione a opção desejada para adicionar o item. Caso escolha o item errado, clique no\xa0[] ou selecione o item novamente da lista para desmarcá-lo. É possível selecionar múltiplos grupos ou dispositivos;Para voltar ao painel\xa0What , clique no botão [], para continuar com os procedimentos\xa0 e acessar o painel When, clique no botão [].', '']

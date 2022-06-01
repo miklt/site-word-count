@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Sessions+-+Event+View
+30
+['', 'Sessions - Event View', '']
+['', 'O botão Event View[] exibe detalhes mais aprofundados do evento em questão, conforme exibido na imagem abaixo:Sessions - Event ViewClique em\xa0[] ou em\xa0[] para fechar esta janela.', '']

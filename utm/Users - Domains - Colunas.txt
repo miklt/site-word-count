@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Domains+-+Colunas
+73
+['', 'Users - Domains - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Users:Authentication - DomainsSelect []: Permite selecionar um\xa0grupo;Name: Exibe o nome do domínio cadastrado;Default[]: Habilite para selecionar um domínio padrão,\xa0para mais informações a respeito desta opção, cheque esta página;Editar []:\xa0Permite editar as configurações do\xa0domínio\xa0adicionado, para mais informações a respeito desta opção, cheque esta página;Excluir []:\xa0Deleta o domínio, é o equivalente a opção Remove\xa0do menu de ações.\xa0', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12461479
+68
+['', 'Aba Revokation - Importar Lista de Revogação', '']
+['', 'Para importar uma lista de revogação de Certificados Digitais Assinados, clique em\xa0[], a seguinte janela será exibida:Revokation - Import revokation listPreencha o campo Name\xa0com o nome correspondente para identificação da CA Remota.Clique em []\xa0e selecione o certificado desejado, depois clique em [].O arquivo “.crl” contém as informações de identidade, e a lista dos certificados revogados e a data de revogação.', '']

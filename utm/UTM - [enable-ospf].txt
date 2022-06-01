@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462472
+24
+['', 'UTM - [enable-ospf]', '']
+['', 'Habilita o serviço de roteamento dinâmico OSPF tanto para IPv4 como também IPv6.Modo de uso:Command Line Interface – enable-ospf', '']

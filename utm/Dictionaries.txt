@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Dictionaries
+120
+['', 'Dictionaries', '']
+['', 'Os objetos do tipo\xa0Dictionary\xa0são compostos\xa0por “listas de palavras” ou conjunto de combinações de “expressões regulares”, sendo também possível criar grupos contendo diversos objetos de “Dictionary”.Por padrão, o sistema traz alguns objetos pré-cadastrados. Ex.: “Alphanumeric”, “Email Address”, “Link HTML”, “URL”.Todos esses objetos estão disponíveis para serem usados nos processos de configuração e definições das\xa0políticas.Para acessar a tela, clique na aba “Dictionaries”.Aba\xa0DictionariesSurgirá a tela "Dictionaries". Ela é composta pelas colunas “Select”, “Name”, “Description”, "Type", "Used" e “Actions”. Além disso, no topo da tela está localizada a barra de busca e o menu de ações à direita.Objects – DictionariesExplicaremos em detalhes o menu de ações\xa0e posteriormente\xa0as colunas da aba "Dictionaries".', '']

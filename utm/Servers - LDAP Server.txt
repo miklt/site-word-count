@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Servers+-+LDAP+Server
+86
+['', 'Servers - LDAP Server', '']
+['', 'Através desta tela é possível configurar o servidor de autenticação do LDAP.Authentication - LDAP Server esmaecidoCaso todas as opções estejam esmaecidas como no caso da imagem acima, selecione o ícone activate\xa0[],\xa0localizado no lado direito da opção “LDAP Server”. Clique nele de modo a ativá-lo, ele deverá ficar da seguinte forma: activate []. Feito isso, as opções ficarão disponíveis para a edição e o servidor LDAP Server poderá ser configurado corretamente.Para adicionar um LDAP Server, cheque esta página LDAP Server - Add Server.', '']

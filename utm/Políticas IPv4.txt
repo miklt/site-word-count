@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175250
+72
+['', 'Políticas IPv4', '']
+['', 'Esta seção irá demonstrar o processo de criação de políticas IPv4, além de explicar com profundidade os conceitos de como elas atuam no UTM.Caso não esteja já selecionado, clique na opção "IPv4";Opção\xa0IPv4Surgirá a Tela de “Policies IPv4”, conforme demonstrado pela imagem a seguir:IPv4Esta seção irá se aprofundar em:Criação de grupos de políticas;Cadastro e Remoção de políticas.A seguir, vamos analisar cada componente deste painel.', '']

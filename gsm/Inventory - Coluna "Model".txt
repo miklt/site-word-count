@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816861
+46
+['', 'Inventory - Coluna "Model"', '']
+['', 'A coluna “Model” apresenta os modelos dos\xa0devices cadastrados.Inventory – Model.Ao clicar em um dos modelos, todos os appliances\xa0do modelo clicado serão exibidos, conforme demonstrado abaixo:\xa0Inventory – Model - Selected.Caso o modelo seja clicado novamente, a tela anterior será exibida novamente.', '']

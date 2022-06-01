@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816528
+115
+['', 'UTM - [upgrade-blockbit]', '']
+['', 'Este comando é utilizado para efetuar verificação, download e upgrade do Blockbit UTM para a versão mais atual.', 'ATENÇÃO:\xa0Recomandamos SEMPRE que seja feito um\xa0BACKUP COMPLETO\xa0da última versão sistema e dos relatórios antes da execução de qualquer procedimento de\xa0update\xa0ou upgrade e que os arquivos sejam salvos em um lugar seguro.', 'Ao rodar o comando, o sistema requisitará\xa0que usuário confirme que todos os relatórios foram exportados e que um backup do sistema foi gerado. Para que o comando seja executado, será necessário essa confirmação\xa0dupla do usuário.', 'ATENÇÃO:\xa0Ao finalizar a execução deste comando, será necessário reiniciar o seu UTM.', 'Modo de uso:Command Line Interface – upgrade-blockbit', '']

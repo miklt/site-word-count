@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Web+Filter+-+Top+Domains
+92
+['', 'UTM - Web Filter - Top Domains', '']
+['', 'Na lista “Top Domains”, temos uma listagem dos nomes dos dez domínios classificadas por ordem de maior quantia de acessos e seu respectivo tráfego em Megabytes. Por fim, ao clicar em um desses endereços, você\xa0será redirecionado para\xa0Events\xa0usando o item que foi clicado como filtro, criando assim, um relatório mais específico de modo a ter uma visão mais precisa a respeito do domínio selecionado.Para mais informações a respeito\xa0da barra de busca\xa0presente no topo deste gráfico cheque esta\xa0página.Web Filter – Top Domains', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462600
+49
+['', 'UTM - [ipcalc]', '']
+['', 'Utilizado para cálculo de máscara de rede/sub-redes IPv4 e IPv6. Possui opções para identificar o prefixo (máscara), o endereço de rede e de broadcast.Modo de uso:Command Line Interface – ipcalcExemplo: Calcular uma subnet, seu endereço de rede e broadcast:Command Line Interface – ipcalc – Exemplo', '']

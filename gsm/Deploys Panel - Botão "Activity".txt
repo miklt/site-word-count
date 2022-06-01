@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12463117
+43
+['', 'Deploys Panel - Botão "Activity"', '']
+['', 'O botão “Activity” exibe o histórico de atividades referentes aos Deploys.Para acessar, clique no botão “Activity”.Botão de Ações Deploys Panel – "Activity"Surgirá a tela Task Activity:Botão “Deploy Activity”Clique no botão Close[] para fechar a tela.', '']

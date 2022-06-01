@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462553
+24
+['', 'UTM - [history]', '']
+['', 'Ao utilizar-se desse comando, é exibido um histórico de todos os últimos comandos utilizados.Modo de uso:\xa0Command Line Interface – history', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462863
+76
+['', 'UTM - [traceroute]', '']
+['', 'Traça um caminho para um endereço de rede designado. O comando “traceroute” suporta alguns parâmetros avançados (o que o diferencia do “tracepath”) incluindo a seleção dos protocolos: TCP, UDP ou ICMP.Modo de uso:Command Line Interface – traceroute_1Command Line Interface – traceroute_2Command Line Interface – traceroute_3Exemplo: Testes para traçar o roteamento ou caminho até o endereço IP de DNS do Google, IP 8.8.8.8 no protocolo UDP (17):Command Line Interface – traceroute – Exemplo 1', '']

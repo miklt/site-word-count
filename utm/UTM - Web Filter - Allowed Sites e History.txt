@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Web+Filter+-+Allowed+Sites+e+History
+88
+['', 'UTM - Web Filter - Allowed Sites e History', '']
+['', 'O painel “Allowed Sites” exibe um total de páginas que seguindo as políticas tiveram seu acesso autorizado. Logo abaixo, é mostrado o histórico em um gráfico de barras exibindo a quantia de acessos por dia.Para mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.Web Filter – Allowed SitesAo passar o mouse por cima do gráfico, um resumo do período é exibido, conforme demonstrado na imagem abaixo:Web Filter – Allowed Sites - Resumo do Período', '']

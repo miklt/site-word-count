@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462822
+16
+['', 'UTM - [sync-users]', '']
+['', 'Executa o sincronismo de usuários.Modo de uso:Command Line Interface – sync-users', '']

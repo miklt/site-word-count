@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462734
+32
+['', 'UTM - [service-disable]', '']
+['', 'Desabilita um determinado serviço para não ser carregado automaticamente ao reiniciar o servidor.Modo de uso:Command Line Interface – service-disableService Names:Command Line Interface – service-disable – service-names', '']

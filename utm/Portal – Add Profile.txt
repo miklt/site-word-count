@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542116
+119
+['', 'Portal – Add Profile', '']
+['', 'Através deste botão podemos definir toda a configuração de um perfil de portal, assim sendo essa feature possibilita que sejam criados múltiplos acessos de acordo com o tipo de usuário que efetuará o login.', 'É recomendável criar uma configuração de portal especificamente para convidados, de forma a distinguir e controlar os acessos "externos". Além de facilitar a implementação de regras e políticas que se apliquem especificamente aos usuários que não sejam funcionários da empresa.', 'Para criar um portal, clique no botão\xa0[]. A tela abaixo será exibida:Portal - Add profileEsta tela é composta pelos seguintes painéis:Properties;Guest Registration;Personal Information;Social Login;Available Options;Terms of Use;Customize Logo.A seguir analisaremos cada um destes painéis.', '']

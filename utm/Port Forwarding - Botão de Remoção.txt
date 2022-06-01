@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26813836
+84
+['', 'Port Forwarding - Botão de Remoção', '']
+['', 'Através do botão de remoção é possível deletar vários itens\xa0ao mesmo tempo. Siga os seguintes passos:1.\xa0Selecione os itens\xa0que deseja deletar clicando no ícone de seleção[];Port Forwarding\xa0- Seleção para deleção2. Clique no botão de remoção[] e uma tela perguntado se deseja deletar o item\xa0selecionado:Port Forwarding\xa0- Remove itensCaso deseje cancelar clique no botão []. Para concluir a deleção clique no botão [].Successfully removedO item foi deletado com sucesso.À seguir detalharemos o conteúdo das colunas.', '']

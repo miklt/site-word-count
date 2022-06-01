@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/DDNS+-+Colunas
+87
+['', 'DDNS - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba Dynamic DNS:Dynamic DNSHost:\xa0Exibe o Host do DDNS que foi cadastrado através do\xa0Botão de Adição;IP Address: Exibe o endereço de IP utilizado pelo serviço de DDNS;Interface:\xa0Determina a interface do DDNS, podendo ser uma específica ou a que foi selecionada dinamicamente;Action: Disponibiliza as seguintes ações essenciais:Edit[]: Permite editar as configurações adicionadas através do\xa0Botão de Adição\xa0;Delete[]: Permite remover um dos itens, é o equivalente à opção Remove do menu de ações.', '']

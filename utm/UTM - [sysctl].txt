@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462826
+29
+['', 'UTM - [sysctl]', '']
+['', 'Modifica parâmetro do kernel em tempo de execução.Modo de uso:Command Line Interface – sysctl', 'Parâmetros alterados por esse comando não são mantidos após reiniciar o servidor.', '', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175322
+88
+['', 'IPv4 - Menu de ações - Create Policy', '']
+['', 'O botão “Create Policy” cria as políticas no grupo de políticas selecionando, para que ele esteja disponível, é necessário que um grupo tenha sido criado previamente (cheque esta página\xa0para mais informações).Para criar uma política, siga os passos:No menu de ações [], clique na opção “Create Policy”;IPv4 - Menu de Ações - Create Policy2. Surgirá a tela Policy Form;IPv4 – Policy FormEsta janela é organizada pelas seguintes abas:Properties;Connection;Inspection;Routing;Advanced.A seguir explicaremos cada um dos campos desta janela.', '']

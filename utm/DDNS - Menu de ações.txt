@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12458862
+58
+['', 'DDNS - Menu de ações', '']
+['', 'No topo direito da tela, ao lado do botão\xa0de adição temos o menu de ações:DDNS\xa0– Botão do menu de açõesAo clicar neste botão o menu abaixo é exibido:DDNS\xa0– Menu de açõesO menu é composto das seguintes opções:Select;Select All;Remove.A seguir cada opção do menu de ações será detalhada.', '']

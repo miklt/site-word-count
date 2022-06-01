@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Live+Sessions+-+Users
+103
+['', 'Live Sessions - Users', '']
+['', 'O painel disponível na aba Live Users tem como função efetuar monitoramento dos acessos, porém especificamente focado nos usuários.Assim como em "Connections", é possível aplicar filtros de forma a gerar relatórios mais específicos.', 'Este painel não exibe todos os usuários autenticados e sim os usuários que possuam conexões ativas ou estabelecidas com o UTM.\xa0 \xa0 \xa0 \xa0 Para visualizar todos os usuários autenticados, consulte esta página.', 'Para acessar, clique na aba\xa0"Users".Aba UsersSurgirá a tela “Users”, conforme demonstrado pela imagem abaixo:Live Session - UsersEsta sessão irá abordar:\xa0Componentes deste painel;Como executar o monitoramento;A seguir, analisaremos os componentes deste painel.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462815
+23
+['', 'UTM - [speedtest]', '']
+['', 'Teste de velocidade do link para download e upload.Modo de uso:Command Line Interface – speedtestExemplo:Command Line Interface – speedtest - exemplo', '']

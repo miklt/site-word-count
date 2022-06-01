@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26814651
+63
+['', 'Static Routing - Menu de ações', '']
+['', 'No topo direito da tela, ao lado do botão\xa0de Adição de Rotas\xa0temos o menu de ações:Static Routing – Botão do menu de açõesAo clicar neste botão o menu abaixo é exibido:Static Routing\xa0– Menu de açõesO menu é composto das seguintes opções:Select;Select All;Remove.A seguir cada opção do menu de ações será detalhada.', '']

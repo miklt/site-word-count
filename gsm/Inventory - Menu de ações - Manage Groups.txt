@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816629
+70
+['', 'Inventory - Menu de ações - Manage Groups', '']
+['', 'Para gerenciar os grupos de device. Siga os seguintes passos:1. Clique no ícone de Menu de ações[];2. Clique na opção “Manage Groups”;Inventory – Menu de ações\xa0– Manage Groups3. A tela de administração dos grupos será exibida:Inventory – Menu de ações\xa0– Manage GroupsA seguir analisaremos cada componente desta janela.Para mais informações a respeito do menu de ações desta janela, clique nesta página.', '']

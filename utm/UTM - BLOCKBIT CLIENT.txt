@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+BLOCKBIT+CLIENT
+63
+['', 'UTM - BLOCKBIT CLIENT', '']
+['', 'Aqui você encontra todos os changelogs e arquivos de instalação do Blockbit Client.Arquivos de InstalaçãoVersãoCompatível com versões UTM\xa0CHECKSUMBlockbit Client 1.2.41.5, 2.0 e 2.1e90053f040257711db69239e302bd709Blockbit_Client_1.2.31.5, 2.0 e 2.16eca2927fd8c94e793b321114a1a5642Blockbit Client\xa01.2.21.5, 2.0 e 2.1530ab6bfc59e686f803839aea7f3dfe2Blockbit Agent1.5b5a101541b8bd027b3f68f8a2321684fChangelogsBlockbit Client Versão 1.2.4Blockbit Client versão 1.2.0', '']

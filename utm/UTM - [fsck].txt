@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462525
+34
+['', 'UTM - [fsck]', '']
+['', 'Utilizado para verificar e corrigir erros em discos e sistemas de arquivos.Modo de uso:Command Line Interface – fsckExemplo: Verificar se existem possíveis erros em determinada partição:Command Line Interface – fsck - Exemplo', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816875
+104
+['', 'Inventory - Coluna "License Status"', '']
+['', 'A coluna “License Status” exibe informações referente as licenças tais como: Status da licença e o número de série da licença.License Status – Número da LicençaOs ícones de status possíveis de serem exibidos são:Active[]: Exibe caso a licença está ativa ou inativa e sua respectiva data de ativação (Begin) e expiração (End);Unknown[]: Identifica que o estado da licença é desconhecido. Caso uma licença já esteja ativa e este ícone continue aparecendo, é recomendável efetuar um sincronismo;Expired[]: Demonstra que a licença expirou. Para reativá-la, entre em contato com a Blockbit;Inactive[]: Demonstra que a licença está inativa.', '']

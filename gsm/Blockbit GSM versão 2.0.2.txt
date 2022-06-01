@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=14221648
+85
+['', 'Blockbit GSM versão 2.0.2', '']
+['', 'Novas FuncionalidadesVárias funcionalidades e correções foram implementadas, a seguir, está um resumo das melhorias feitas no lançamento do Blockbit GSM 2.0.2:\xa0Melhorias e Inclusão de serviços no Device Templates;Inclusão da funcionalidade de Search Global em perfis de Application Control;Melhorias no processo de deploy das policy packages;Melhorias nas funcionalidades do Zero Touch Provisioning;Melhorias nos relatórios do analyzer;Correções aplicadas no Logger-config em modo standalone;Otimização do tamanho do restore do backup;E mais...', '']

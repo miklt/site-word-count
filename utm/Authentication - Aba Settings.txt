@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Authentication+-+Aba+Settings
+60
+['', 'Authentication - Aba Settings', '']
+['', 'O Blockbit UTM permite definir parâmetros globais para autenticação e também permite a determinação de outros recursos do sistema.Para configuração e habilitação dos serviços de\xa0Proxy, clique na aba, conforme demonstrado abaixo:Aba\xa0SettingsA tela abaixo será exibida:Authentication\xa0–\xa0SettingsEsta tela é composta dos seguintes painéis:Certificates;Sessions;Permissions.A seguir analisaremos cada painel desta tela.', '']

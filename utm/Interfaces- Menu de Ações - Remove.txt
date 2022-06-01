@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26815288
+85
+['', 'Interfaces- Menu de Ações - Remove', '']
+['', 'Através do menu de ações\xa0é possível deletar várias interfaces ao mesmo tempo. Siga os seguintes passos:1.\xa0Selecione as interfaces que deseja deletar clicando no ícone de seleção[];Interfaces – Interfaces\xa0selecionadas2. Clique no Menu de ações[] e\xa0selecione a opção “Remove”;Interfaces – Menu de ações – Remove4. Surgirá uma tela perguntado se deseja deletar o device selecionado:Interfaces – Remove interfacesCaso deseje cancelar clique no botão\xa0Cancel[]. Para concluir a deleção clique no botão\xa0Ok[].A interface foi deletada com sucesso.', '']

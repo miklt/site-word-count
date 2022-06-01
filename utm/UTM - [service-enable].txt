@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462741
+31
+['', 'UTM - [service-enable]', '']
+['', 'Habilita um determinado serviço para ser carregado automaticamente ao reiniciar o servidor.Modo de uso:Command Line Interface – service-enableService names:Command Line Interface – service-enable – service-names', '']

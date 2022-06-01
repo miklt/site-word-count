@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12455464
+50
+['', 'Blockbit UTM versão 1.4.4', '']
+['', 'A tabela a seguir lista as melhorias realizadas* no release do Blockbit UTM versão 1.4.4CódigoDescriçãoBB-12839Melhorias na renovação automática dos dados da licençaBB-12852Melhorias na comunicação com o sistema de licenciamento*O sistema do firewall será recarregado, reiniciando todas as conexões ativas.', '']

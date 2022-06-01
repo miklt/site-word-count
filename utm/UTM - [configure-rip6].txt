@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462294
+30
+['', 'UTM - [configure-rip6]', '']
+['', 'Configura o roteamento dinâmico RIP para IPv6.Modo de uso:', 'Por padrão a senha de usuário e de modo privilegiado é admin.', 'Command Line Interface – configure-rip6', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462799
+17
+['', 'UTM - [show-version]', '']
+['', 'Comando para obter informações da versão.Modo de uso:Command Line Interface – show-version', '']

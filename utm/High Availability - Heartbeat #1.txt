@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17176181
+108
+['', 'High Availability - Heartbeat #1', '']
+['', 'A seguir a especificações dos campos deste painel:High Availability - Heartbeat #1Network interface:\xa0Nesta caixa de seleção, clique na interface de rede EthX\xa0dedicada que será utilizada no processo de monitoramento e sincronismo entre os dispositivos H.A.;Secondary device: Selecione o endereço IP de conexão do dispositivo secundário. Usado no processo de monitoramento e sincronismo entre os dispositivos H.A. este campo apresentará os objetos existentes de IP existentes, portanto é recomendável criar um Objeto de endereço IPv4 único para o dispositivo H.A. que será utilizado.', 'Para mais informações a respeito de como criar um Objeto de IP único, consulte este capítulo.', '', '']

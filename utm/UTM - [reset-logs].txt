@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462700
+16
+['', 'UTM - [reset-logs]', '']
+['', 'Deleta todos os logs do UTM.Modo de uso:Command Line Interface – ethtool', '']

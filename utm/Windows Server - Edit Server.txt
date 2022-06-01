@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Windows+Server+-+Edit+Server
+55
+['', 'Windows Server - Edit Server', '']
+['', 'É possível editar as informações localizadas no servidor selecionado na caixa de seleção abaixo de “LDAP Server”, para tanto, selecione o servidor desejado na caixa de seleção e clicando no botão edit [].A seguinte janela será exibida:Authentication - Edit DomainApós finalizar as devidas alterações clique no botão [] para salvar as alterações.', '']

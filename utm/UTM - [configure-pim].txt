@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462283
+54
+['', 'UTM - [configure-pim]', '']
+['', 'Configura o roteamento dinâmico PIM-SM.Modo de uso:', 'Por padrão a senha de usuário e de modo privilegiado é admin.', 'Command Line Interface – configure-pimNa interface web, em [System] >> [Network] >> [Dynamic Routing], ao clicar no\xa0ícone [], é possível visualizar o exemplo de configuração:Command Line Interface – Exemplo de configuração PIM', '']

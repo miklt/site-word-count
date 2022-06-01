@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Traffic+Shaping+-+Velocidade+de+Download+e+Upload+-+Exemplo+Link+DSL+e+IP
+83
+['', 'Traffic Shaping - Velocidade de Download e Upload - Exemplo Link DSL e IP', '']
+['', 'Segue um exemplo de como configurar a\xa0velocidade de Download e Upload:Link DSLLink da interface Eth1:100 Mbps - [Download];100 Mbps - [Upload].Link IPLink da interface Eth2:100 Mbps - [Download];100 Mbps - [Upload].Traffic Shaping – Enable - Editado', 'A ação de QoS “Controle de banda” são aplicados como “Filtros de controles” nas “Políticas de segurança”.', 'Ao finalizar as configurações clique no botão\xa0Save []\xa0e dê um\xa0apply\xa0na fila de ações\xa0[].', '']

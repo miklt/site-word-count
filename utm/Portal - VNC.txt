@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Portal+-+VNC
+108
+['', 'Portal - VNC', '']
+['', 'Configure o formulário de acordo com as especificações para conexão com um aplicativo de acesso remoto.Vamos exemplificar a configurando\xa0o acesso ao serviço VNC remote desktop.VPN SSL - Exemplo 2AplicativoTerminal VNC RDesktopIP Local192.168.101.184/32Porta da aplicação5800DescriçãoTerminal VNC Srv (W184)Permissão(Pode ser aplicada por usuário ou grupos).vpn.sup@bbuniversity.comA seguir vamos analisar como efetuar estas configurações:VPN SSL - VNCName: Determina o nome que o acesso possuirá. Ex.: Terminal VNC Srv (W184);Address: Determina o Endereço IP do acesso. Ex.: 192.168.101.184;Port: Determina a porta que será utilizada. Ex.: 5800.A seguir analisaremos como configurar um acesso SSH.', '']

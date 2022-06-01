@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/System+-+Aba+Storages
+52
+['', 'System - Aba Storages', '']
+['', 'Para acessar a interface de gerenciamento dos Armazenamentos, clique na aba "Storages":Aba StoragesSurgirá a tela, conforme demonstrado pela imagem abaixo:System - Backup StoragesNessa seção iremos expor os tipos de armazenamentos suportados pelo sistema e suas aplicações:SMB;NFS;SSH;Disc.A seguir analisaremos cada tipo de armazenamento detalhadamente.', '']

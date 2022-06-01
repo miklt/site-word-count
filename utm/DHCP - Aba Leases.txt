@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/DHCP+-+Aba+Leases
+48
+['', 'DHCP - Aba Leases', '']
+['', 'Este recurso permite ao administrador visualizar os hostnames, MacAddress, Usuários, endereços IP e a Data do recebimento do IP distribuídos pelo servidor DHCP do Blockbit UTM.Para visualizar esta janela, clique na aba "Leases", como demonstrado abaixo.Aba\xa0LeasesSurgirá a tela\xa0a seguir:DHCP - Leases', '']

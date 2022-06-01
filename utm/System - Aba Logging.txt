@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/System+-+Aba+Logging
+37
+['', 'System - Aba Logging', '']
+['', 'Caso a aba não esteja selecionada, clique em\xa0"Logging".Aba\xa0LoggingSurgirá a tela demonstrada abaixo:\xa0System - LoggingEsta tela é dividida pelos seguintes painéis:Rotation;Persistence;Log Forwarding.A seguir analisaremos cada componente desta tela.', '']

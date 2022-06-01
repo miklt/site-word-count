@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/SD-WAN+-+Aba+Settings
+76
+['', 'SD-WAN - Aba Settings', '']
+['', 'Nesta aba é possível criar e configurar serviços de SD-WAN,\xa0através desta aba é\xa0 possível configurar a saída do Firewall para algum serviço, sem haver a necessidade da criação de uma política. Para tanto, clique na aba "Settings".Aba\xa0SettingsSurgirá a tela a seguir, conforme demonstrado pela imagem abaixo:\xa0SD-WAN - SettingsEsta sessão irá abordar como\xa0cadastrar, editar e remover serviços de SD-WAN;A seguir, analisaremos cada função deste painel.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462399
+45
+['', 'UTM - [debug-threats]', '']
+['', 'Exibe os logs de debug dos tratamentos de ATP e IPS em tempo real.Modo de uso:Command Line Interface – debug-threatsExemplo: Caso não tiver nenhum registro de log, será retornada a informação abaixo:Command Line Interface – debug-threats – log not found', '']

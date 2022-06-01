@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462571
+55
+['', 'UTM - [ifconfig]', '']
+['', 'Configura e mantém as configurações da interface, pode ativar, desativar e listar o status de cada uma das interfaces. Também pode ser utilizado para otimizar a configuração do sistema.Modo de uso:Command Line InterfaceExemplo: Exibindo as informações sobre todas as interfaces de rede, tanto ativas quanto desabilitadas:Command Line Interface – ifconfig - Exemplo', '']

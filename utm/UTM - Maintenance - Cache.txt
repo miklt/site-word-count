@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+Cache
+73
+['', 'UTM - Maintenance - Cache', '']
+['', 'Na aba cache é possível visualizar o tamanho do diretório e a data da última alteração.Maintenance - CacheAo clicar sobre o botão [], é possível apagar os dados do diretório conforme a tela abaixo.Maintenance - Cache\xa0- Delete', 'Ao selecionar a opção de apagar o Cache, o sistema irá exibir um alerta informando que o serviço de proxy será reinicializado.', 'Após clicar no botão [] serão removidos os dados do diretório de cache.', '']

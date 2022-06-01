@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/SD-WAN+-+Settings+-+Colunas
+109
+['', 'SD-WAN - Settings - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Settings:SD-WAN - Settings - ColunasA seguir explicaremos cada coluna:Caixa de Seleção[]:\xa0Permite a seleção do profile.Description: Apresenta a descrição do profile cadastrado na opção\xa0Create Service\xa0do menu de ações;Profiles:\xa0Apresenta a descrição do profile cadastrado na opção\xa0Create Service\xa0do menu de ações;Enable:\xa0Exibe o estado atual, podendo estar habilitado ou desabilitado;Actions: A coluna “Actions” é composta pelos botões:Botão Edit\xa0[]:\xa0Permite editar as configurações do service\xa0adicionado na opção\xa0Create Service\xa0do menu de ações;Botão Delete\xa0[]: Deleta o\xa0service, é o equivalente a opção Delete Service\xa0do menu de ações.', '']

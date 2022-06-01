@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12461431
+70
+['', 'Users - Botão Adicionar', '']
+['', 'Para a cadastrar um certificado de usuário, clique em [] e preencha o campo Name, e selecione o User\xa0correspondente da lista e associe-o ao\xa0Sistema Operacional da sua conexão de origem de acordo com a lista suportada.Users - New user certificateClique no botão\xa0[] para concluir a adição.Users - New user certificate installed', 'O gerenciamento de certificados suporta “Múltiplos” certificados de usuário para os múltiplos Sistemas Operacionais.', '', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462859
+37
+['', 'UTM - [tracepath]', '']
+['', 'Traça um caminho para um endereço de rede designado, informando o “tempo de vida" (ou lag TTL) e a unidade de transmissão máxima (MTU) ao longo do caminho.Modo de uso:Command Line Interface – tracepath', '']

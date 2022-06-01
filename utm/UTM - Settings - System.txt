@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Settings+-+System
+80
+['', 'UTM - Settings - System', '']
+['', 'O item “System” nos permite: Gerenciar o acesso à interface de administração WEB, definir e aplicar as configurações gerais, administrar o cadastro e permissões dos administradores do sistema, auditar os acessos e as configurações aplicadas, e ainda gerenciar os bloqueios por tentativas de acessos não autorizados.Para acessar esta tela, basta selecionar a opção “System”.Settings - SystemA tela abaixo será exibida:System - LicenseEsta tela é composta pelas seguintes abas:License;Updates;Backups;Storages;Logging;Notifications;High Availability.', '']

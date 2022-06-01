@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542148
+133
+['', 'Social Login - Exemplo: Configuração do Social Login no Google APIs', '']
+['', 'De forma a facilitar a compreensão, nesta sessão será apresentado um exemplo de como configurar o Login Social para permitir o acesso através de uma conta Google.', 'As únicas diferenças na configuração do Login Social são referentes ao cadastro na plataforma escolhida (Google, Facebook ou Twitter). Porém, independente da plataforma, é necessário obter o Application ID e Secret para configurar o painel Social Login.', 'Neste exemplo iremos efetuar os seguintes passos:Cadastro no Google Developers;Configuração do Google APIs;Configuração do Login Social no UTM;Cadastro de usuário por Login Social;Acesso ao portal através do Login Social.Este exemplo não irá entrar em detalhes sobre cada campo do painel de criação de portais, caso deseje mais informações a respeito, consulte esta página.', '']

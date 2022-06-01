@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462807
+62
+['', 'UTM - [show-vpn-info]', '']
+['', 'Exibe os túneis VPN IPSEC que estão no ar, criptografia utilizada, tempo da conexão, rede de origem, rede de destino e pacotes trafegados. Além disso, exibe também o tempo que o serviço está no ar, quantidade de workers e o(s) IP(s) que o serviço está escutando (listen).Modo de uso:Command Line Interface – show-vpn-info', '']

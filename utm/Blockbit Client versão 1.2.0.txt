@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=22679363
+94
+['', 'Blockbit Client versão 1.2.0', '']
+['', 'CódigoDescriçãoAPP-208Implementado o Split Tunneling para direcionamento parcial do tráfego da VPNAPP-209Implementada a funcionalidade de importação de perfis de conexãoAPP-210Implementada a funcionalidade de exportação de logs de conexão VPNAPP-212Implementadas diversas melhorias no layout e nas funcionalidades básicas do aplicativo de forma a aprimorar a usabilidadeAPP-213Adicionado o cadastro de endereços de Gateway secundáriosAPP-214Melhorias aplicadas no fluxo de conexão do ClientAPP-215Adição de funcionalidade para importação automática de configurações no InstaladorAPP-226Implementação de serviço de keepalive de sessãoAPP-227Implementação do exportador de perfis de conexão', '']

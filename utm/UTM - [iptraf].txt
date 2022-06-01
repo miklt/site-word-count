@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462611
+52
+['', 'UTM - [iptraf]', '']
+['', 'Monitor de tráfego de rede com GUI (Graphical User Interface).Modo de uso:Command Line Interface – iptrafExemplo: Ao executar o comando iptraf, é aberto a interface interativa:Command Line Interface – iptraf - ExemploExemplo 2: iptraf -d eth0 – Estatísticas detalhadas em tempo real da interface eth0:Command Line Interface – iptraf – Exemplo 2', '']

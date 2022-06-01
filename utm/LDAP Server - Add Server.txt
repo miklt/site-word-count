@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/LDAP+Server+-+Add+Server
+40
+['', 'LDAP Server - Add Server', '']
+['', 'Para adicionar um novo server clique no botão []. E a tela abaixo será exibida:Authentication\xa0- Add Windows ServerEsta janela contém as seguintes abas laterais:Settings;Users filter;Group filter.A seguir analisaremos cada componente dessa janela.', '']

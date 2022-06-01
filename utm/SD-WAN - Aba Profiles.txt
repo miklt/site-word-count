@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/SD-WAN+-+Aba+Profiles
+114
+['', 'SD-WAN - Aba Profiles', '']
+['', 'A função de monitoramento do SD-WAN é permitir a supervisão de dados específicos da WAN, viabilizando o melhor caminho de rede de acordo com os fatores determinados pelo administrador, isso permite direcionar os recursos mais adequados conforme regras e políticas pré-determinadas ou com base no perfil específico dos usuários.Caso a aba não esteja selecionada, clique em\xa0"Profiles".Aba\xa0ProfilesSurgirá a tela a seguir, conforme demonstrado pela imagem abaixo:\xa0SD-WANEsta sessão irá abordar comoCadastrar, editar e remover perfis de SD-WAN;Particularidades de cada modo de operação;Passo a passo da configuração completa de um SD-WAN.A seguir, analisaremos as funções localizadas no topo deste painel.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462787
+17
+['', 'UTM - [show-license]', '']
+['', 'Exibe informações a respeito da licença.Modo de uso:Command Line Interface – show-license', '']

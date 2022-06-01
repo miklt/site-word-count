@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12455612
+119
+['', 'UTM - NOTIFICAÇÕES', '']
+['', 'Alguns eventos que ocorrerão no Blockbit UTM irão gerar alertas, estes serão exibidos no painel de notificações,\xa0elas são configuradas na aba\xa0Notifications em System no menu Settings, para mais informações consulte esta página.Para visualizar as notificações, clique no ícone\xa0notifications[]\xa0localizado no canto superior direito da tela, ao lado da fila de comandos.Painel de NotificaçõesPara saber ter mais informações a respeito da notificação, deixe o mouse em cima do ícone de informações\xa0[], uma janela com detalhes relevantes será exibida:Painel de Notificações - InformaçõesCaso deseje limpar o painel de notificações, clique no botão Clear[].Painel de Notificações - No item foundPor fim, para fechar a janela clique fora dela ou no\xa0[] localizado no topo da tela.', '']

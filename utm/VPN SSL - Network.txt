@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/VPN+SSL+-+Network
+129
+['', 'VPN SSL - Network', '']
+['', 'A seguir analisaremos cada componente do painel\xa0Network:VPN SSL – NetworkIPv6[]:\xa0Determina se a atribuição será para o\xa0IPv6, a seleção deste campo habilita todos os campos à direita. Este campo é válido tanto para IPv4 quanto para IPv6;Virtual Network:\xa0Define a rede virtual que será utilizada no VPN SSL,\xa0os itens que aparecem neste campo são os objetos de endereço cadastrados em Addresses - Menu de ações - Create Object. Este campo é válido tanto para IPv4 quanto para IPv6;DNS 1:\xa0Determina o endereço do servidor de DNS primário. Este campo é válido tanto para IPv4 quanto para IPv6;DNS 2:\xa0Determina o endereço do servidor de DNS secundário.\xa0Este campo é válido tanto para IPv4 quanto para IPv6.A seguir analisaremos o painel\xa0Tunnels.', '']

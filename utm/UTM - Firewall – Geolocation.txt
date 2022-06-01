@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12456117
+72
+['', 'UTM - Firewall – Geolocation', '']
+['', 'Em “Geolocation” é exibido o destino das conexões dos usuários da rede, o mapa global demonstra através de uma legenda colorida a quantia de acessos feitos pelos usuários. Ao passar o mouse por cima dos países um número total de acessos é exibido, ao fazer o mesmo com a\xa0legenda é possível visualizar uma média, além disso, o país referente a esse valor é destacado no mapa.Firewall – Geolocation', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541934
+74
+['', 'TACACS+ Server – Delete Server', '']
+['', 'Para remover algum servidor, clique no ícone delete [], um painel com todos os servidores criados será exibido, conforme demonstrado na imagem abaixo:Authentication – TACACS+ server – Painel de RemoçãoEscolha o servidor que se deseja ser removido e clique no ícone delete [] para remover o servidor desejado. Uma mensagem de confirmação será exibida:Authentication – TACACS+ server – Mensagem de RemoçãoClique em [] para remover o servidor selecionado, ou em [] para não efetuar nenhuma deleção.', '']

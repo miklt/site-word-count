@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Static+Routing+-+Colunas
+104
+['', 'Static Routing - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba Static Routing:Static RoutingDescription:\xa0Exibe a descrição da rota;Interface: Apresenta a\xa0interface referente à rota;Destination address: Apresenta o endereço de destino da rota\xa0cadastrada;Destination gateway: Exibe o gateway de destino da rota cadastrada;Distance: Exibe a "Distância Administrativa" da rota para acessar o Gateway de destino;Actions: Disponibiliza as seguintes ações essenciais:Botão Enable[]/Disable[]:\xa0 Permite ativar ou desativar as rotas;\xa0Botão Edit[]: Permite editar as configurações da rota\xa0adicionada no\xa0Botão de Adição;Botão Delete[]: Permite remover uma interface.Para mais informações a respeito de Static Routing, acesse esta página.', '']

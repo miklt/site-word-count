@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541501
+66
+['', 'Domains – Actions Menu - Select e Select All', '']
+['', 'Ao clicar na opção “Select”, os ícones de remoção serão trocados por caixas de seleção que podem ser utilizadas para fazer uma deleção em massa através do menu de ações.Domains\xa0– SelectAo clicar em “Select All” no menu de ações todos os itens\xa0serão selecionados.Domains\xa0– Select AllIsso permite que alterações que afetem todos os itens, sejam facilmente implementadas.', '']

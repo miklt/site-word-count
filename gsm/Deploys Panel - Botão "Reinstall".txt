@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12463101
+45
+['', 'Deploys Panel - Botão "Reinstall"', '']
+['', 'O botão “Reinstall” executa a reinstalação dos pacotes.Para acessar, clique no botão “Reinstall”.Botão “Reinstall”Surgirá a tela "Add\xa0Justify Action", em “Comment”, escreva o comentário desejado:Reinstall DeployClique no botão\xa0Save[] para salvar ou Cancel[]para fechar a tela.', '']

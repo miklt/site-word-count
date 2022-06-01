@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462896
+23
+['', 'UTM - [vtysh]', '']
+['', 'Esse comando serve para abrir uma interface shell integrada nas engines de roteamento dinâmico.Modo de uso:Command Line Interface – vtysh', '']

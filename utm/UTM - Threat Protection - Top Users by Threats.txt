@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Threat+Protection+-+Top+Users+by+Threats
+127
+['', 'UTM - Threat Protection - Top Users by Threats', '']
+['', 'Em “Top Users by Threats” temos um gráfico de linha exibindo a quantia de ameaças por dia, ao passar o mouse sobre cada parte do gráfico, ele o destacará e exibirá um número com a quantia de ameaças do dia selecionado. Logo abaixo do gráfico, temos uma listagem dos dez usuários que mais foram afetados por essas ameaças ordenados por quantia de acessos.Para mais informações a respeito do menu de navegação e da barra de busca\xa0presente no topo deste gráfico cheque esta\xa0página.Threat Protection – Top Users by ThreatsAo passar o mouse por cima do gráfico,\xa0é exibido um resumo dos resultados dentro do período selecionado, conforme demonstrado na imagem abaixo:Threat Protection – Top Users by Threats - Resumo', '']

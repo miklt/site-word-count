@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Application+Control+-+Top+Allowed+Applications
+99
+['', 'UTM - Application Control - Top Allowed Applications', '']
+['', 'Em “Top Allowed\xa0Applications” há um gráfico representando as dez aplicações que tiveram seu acesso autorizado em relação ao período de tempo previamente especificado, abaixo desse gráfico, temos uma listagem dos nomes destas dez aplicações classificadas por ordem de maior quantia de acessos e suas respectivas categorias.Ao passar o mouse por cima do gráfico, um resumo do período é exibido, conforme demonstrado na imagem abaixo.Para mais informações a respeito do menu de navegação e da barra de busca presente no topo deste gráfico cheque esta\xa0página.Application Control – Top Allowed\xa0Applications', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26814761
+57
+['', 'Services - Application Control - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Application Control\xa0– Botão do menu de ações.Ao clicar neste botão o menu abaixo é exibido:Application Control\xa0– Menu de açõesO menu é composto das seguintes opções:Create Profile;Delete Profile.A seguir cada opção do menu de ações será detalhada.', '']

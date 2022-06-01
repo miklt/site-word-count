@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+User+Behavior+-+Geolocation+Information
+88
+['', 'UTM - User Behavior - Geolocation Information', '']
+['', 'Em “Hits by Geolocation” é exibido o destino das conexões desse usuário em específico, o mapa global demonstra através de uma legenda colorida a quantia de acessos feitos pelos usuários para cada país.\xa0User Behavior - GeolocationAo passar o mouse por cima dos países um número total de acessos é exibido, ao fazer o mesmo com a legenda é possível visualizar uma média, além disso, o país referente a esse valor é destacado no mapa.User Behavior - Geolocation - Resumo de acessos em um país', '']

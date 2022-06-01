@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12474981
+22
+['', 'UTM - [debug-webfilter]', '']
+['', 'Exibe os logs de debug do serviço Webfilter em tempo real.Modo de uso:Command Line Interface – debug-webfilter', '']

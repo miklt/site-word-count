@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462420
+43
+['', 'UTM - [dig]', '']
+['', 'Exibe informações sobre domínios.Modo de uso:Command Line Interface – digCommand Line Interface – dig 2Exemplo: Verifica o apontamento tipo A do site:Command Line Interface – dig - exemploExemplo 2: Verifica apontamentos MX (Mail Exchanger) do domínio:Command Line Interface – dig – exemplo 2', '']

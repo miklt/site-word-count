@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17176145
+120
+['', 'Topologia de rede - Modo H.A.', '']
+['', 'Inicialmente, é importante definir como será a topologia física da rede antes da implementação, de modo a adequar corretamente a instalação e a configuração das interfaces de rede dos dispositivos Blockbit UTM no modo H.A.Devemos considerar os apontamentos anteriores, lembrando que: Para disponibilizar o serviço de H.A., o sistema requer no mínimo uma interface “heartbeat” dedicada aos testes de “FailOver”.É importante que esta estrutura seja documentada com apontamentos físicos e lógicos conforme a topologia definida na documentação estrutural da rede.', 'Para implementação do modo H.A. é imperativo que os Appliances possuam o mesmo modelo de hardware e estejam devidamente licenciados.', 'Modelo de implementação:Topologia de rede – Modo H.A.', '']

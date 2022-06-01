@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Intrusion+Prevention+-+Aba+Whitelist
+89
+['', 'Intrusion Prevention - Aba Whitelist', '']
+['', 'Na aba whitelist\xa0é possível cadastrar endereços IP\xa0tanto de origem como destino ou até mesmo importar uma lista de endereços IP\xa0para serem considerados confiáveis e darem um bypass\xa0nas assinaturas do Intrusion Prevention.Caso a aba não esteja selecionada, clique em\xa0"Whitelist".Aba\xa0WhitelistSurgirá a tela “Whitelist” do\xa0Intrusion Prevention, conforme demonstrado pela imagem abaixo:\xa0Intrusion Prevention - WhitelistEsta sessão irá abordar como\xa0cadastrar,\xa0editar e\xa0remover\xa0os IPs de Whitelist do\xa0Intrusion Prevention;A seguir, analisaremos as funções localizadas no topo deste painel.', '']

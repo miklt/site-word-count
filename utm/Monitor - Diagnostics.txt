@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Monitor+-+Diagnostics
+49
+['', 'Monitor - Diagnostics', '']
+['', 'O painel\xa0"Diagnostics"\xa0tem como função efetuar a captura de pacotes e consultar como determinado site foi categorizado.Para acessar esta tela, basta selecionar a opção “Diagnostics”.Monitor\xa0-\xa0DiagnosticsA tela abaixo será exibida:Diagnostics - Packet CaptureO painel Diagnostics é composto de duas abas:Packet Capture;Category Lookup.', '']

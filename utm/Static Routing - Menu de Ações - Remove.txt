@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26814669
+95
+['', 'Static Routing - Menu de Ações - Remove', '']
+['', 'Através do menu de ações\xa0é possível deletar várias rotas ao mesmo tempo. Siga os seguintes passos:1.\xa0Selecione as rotas que deseja deletar clicando no ícone de seleção[];Static Routing – Rotas\xa0selecionadas2. Clique no Menu de ações[] e\xa0selecione a opção “Remove”;Static Routing – Menu de ações – Remove4. Surgirá uma tela perguntado se deseja deletar a rota\xa0selecionada:Static Routing – Want to remove the routes?Caso deseje cancelar clique no botão\xa0Cancel[]. Para concluir a remoção da rota clique no botão\xa0Ok[].A rota foi deletada com sucesso.', '']

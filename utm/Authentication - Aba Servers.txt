@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Authentication+-+Aba+Servers
+81
+['', 'Authentication - Aba Servers', '']
+['', 'Nesta tela é possível configurar os servidores para a autenticação de usuários.A configuração dos servidores é simples, mas requer alguns cuidados para não gerar erros ou falhas no sincronismo na floresta do seu servidor Windows AD.Para efetuar essas configurações, clique na aba\xa0Servers:Aba\xa0ServersSurgirá a tela, conforme demonstrado pela imagem abaixo:Authentication - ServersEsta tela possui as seguintes abas laterais:Windows Server;LDAP Server;TACACS+ Server;RADIUS Server.A seguir, cada componente desta tela será analisado.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Settings+-+Authentication
+100
+['', 'UTM - Settings - Authentication', '']
+['', 'O serviço de autenticação do Blockbit UTM é responsável pelo reconhecimento dos usuários e por validar sua identificação, criando sessões de uso, autorizando acessos mascarados e web, sendo estes, definidos nas políticas de segurança.O sistema foi desenvolvido e preparado para gerenciar a autenticação de usuários locais e integrados.Nesta sessão analisaremos:Autenticação - Conceitos Gerais;Tipos de Autenticação;Tipos de Sincronismo.Para acessar esta tela, basta selecionar a opção “Authentication”.Settings - AuthenticationA tela abaixo será exibida:Settings - Authentication - UsersA tela\xa0Authentication\xa0comporta as seguintes abas:Users;Servers;Portal;Settings.A seguir analisaremos os componentes da aba\xa0Users.', '']

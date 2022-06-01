@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462783
+18
+['', 'UTM - [set-irqbalance-static]', '']
+['', 'Habilita o IRQ Balance Estático.Modo de uso:Command Line Interface – set-irqbalance-static', '']

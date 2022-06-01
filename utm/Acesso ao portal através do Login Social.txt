@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542305
+69
+['', 'Acesso ao portal através do Login Social', '']
+['', 'Voltando para tela de autenticação, o usuário agora poderá selecionar o Google\xa0para efetuar login\xa0clicando novamente no botão\xa0[].Authentication PortalCaso o login tenha sido realizado com sucesso a seguinte tela será exibida:Login efetuado com sucessoApós realizar esses procedimentos o login social terá sido habilitado e configurado com sucesso.Para mais informações a respeito da configuração do portal, consulte esta página.', '']

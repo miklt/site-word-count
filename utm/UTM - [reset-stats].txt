@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462704
+31
+['', 'UTM - [reset-stats]', '']
+['', 'Remove todas as sumarizações de serviços específicos ou todos.Modo de uso:Command Line Interface – reset-statsExemplo: Remover todas as sumarizações (estatísticas):Command Line Interface – reset-stats - exemplo', '']

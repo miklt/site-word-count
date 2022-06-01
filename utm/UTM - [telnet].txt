@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462849
+62
+['', 'UTM - [telnet]', '']
+['', 'Utilizado para acesso remoto, testes de simulação de um terminal, de resposta de conexão de um serviço e de envio de uma mensagem de e-mail.Modo de uso:Command Line Interface – telnetExemplo 1:Command Line Interface – telnet – Exemplo 1Exemplo 2: Testes de conexão com um serviço remoto (Terminal Service) em uma porta específica:Command Line Interface – telnet – Exemplo 2', '']

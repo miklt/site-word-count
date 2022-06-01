@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Actions+Menu+-+Disable
+49
+['', 'Users - Actions Menu - Disable', '']
+['', 'Para desativar os usuários selecionados, utilize-se da função “Disable”.Para tanto clique no menu de ação\xa0[], o menu abaixo será exibido;Actions Menu - DisableApós selecionar "Disable". A seguinte mensagem de confirmação aparecerá:Users – Disable UsersClique em []\xa0para desativar o usuário, caso contrário, clique em [].', '']

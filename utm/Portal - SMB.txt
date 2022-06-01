@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Portal+-+SMB
+114
+['', 'Portal - SMB', '']
+['', '\xa0Configure o formulário de acordo com as especificações para conexão com um serviço de compartilhamento\xa0“SMB”.Vamos exemplificar a configuração do  acesso a recursos de compartilhamento de rede SMB.VPN SSL - Exemplo 5AplicativoÁrea de dados compartilhada (SMB)Compartilhamento SMB(Nome do compartilhamento definido no SO).SMB BB_TrainingDescriçãoDocumentações UTMPermissão(Pode ser aplicada por usuário ou grupos).vpn.sup@bbuniversity.comA seguir vamos analisar como efetuar estas configurações:VPN SSL\xa0-\xa0WEBName: Determina o nome que o acesso possuirá. Ex.: Storage Blockbit;SMB share: Determina o nome que o compartilhamento possuirá (cheque o link a seguir para checar como criar um SMB Storage). Ex.: UTM Document.A seguir analisaremos o gerenciamento e definição das permissões.', '']

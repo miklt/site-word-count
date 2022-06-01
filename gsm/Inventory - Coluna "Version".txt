@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816882
+72
+['', 'Inventory - Coluna "Version"', '']
+['', 'A coluna “Version” apresenta as informações de versão e das atualizações do firmware instalados no\xa0device. Ex.: Blockbit\xa0UTM 1.3.0 build 17022114.Inventory – Version', 'O acesso ao Blockbit GSM permite gerenciar devices em versões de firmware diferentes, porém, é altamente recomendado sempre utilizar a versão mais recente e mais atualizada disponível.', 'Para mais informações a respeito do processo de atualização do Blockbit GSM, cheque\xa0System - Aba "Update".', '']

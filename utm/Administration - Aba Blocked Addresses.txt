@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration+-+Aba+Blocked+Addresses
+55
+['', 'Administration - Aba Blocked Addresses', '']
+['', 'Na aba Blocked Addresses\xa0você visualiza a lista de IP/hosts bloqueados por tentativa de acesso não autorizado, e/ou tentativa de acesso persistente, com a possibilidade de remover a regra de bloqueio antes do timeout estabelecido nas configurações e políticas de acesso a interface de gerenciamento WEB.Administration - Blocked Addresses', '']

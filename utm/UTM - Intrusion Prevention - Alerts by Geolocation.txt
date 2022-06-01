@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Intrusion+Prevention+-+Alerts+by+Geolocation
+76
+['', 'UTM - Intrusion Prevention - Alerts by Geolocation', '']
+['', 'Em “Alerts by Geolocation” é exibida a origem das intrusões por geolocalização, o mapa global demonstra através de uma legenda colorida a quantia de acessos feitos pelos usuários. Ao passar o mouse por cima dos países um número total de alertas é exibido, ao fazer o mesmo com a legenda é possível visualizar uma média, além disso, o país referente a esse valor é destacado no mapa.Alerts by Geolocation', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26815069
+82
+['', 'Interfaces - Botão de Adição', '']
+['', 'No topo direito da tela temos o botão de Adição de Interfaces:Interfaces\xa0– Botão de Adição de InterfacesAo clicar neste botão o menu abaixo é exibido:Interfaces\xa0– Botão de Adição de Interfaces - MenuO menu é composto pelas opções:ALIAS;VIRTUAL;VLAN;DSL;LAG;BRIDGE;TUNNEL.A seguir analisaremos cada opção em detalhe.Para mais informações a respeito de como configurar interfaces 3G/4G/LTE, acesse esta página.Para mais informações sobre o menu de ações, acesse esta página.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Rules+-+Colunas
+107
+['', 'Rules - Colunas', '']
+['', 'A aba “Rules” é composta pelas seguintes colunas:Objects – Aba RulesA seguir explicaremos cada coluna da aba\xa0Rules:Selecionar[]: Seleciona as Políticas desejados;Mover\xa0[]:\xa0Define o nível de prioridade que a política possui, as políticas localizadas acima tem prioridade enquanto as abaixo possuem menor prioridade, para mais informações cheque esta página;Name:\xa0Exibe o nome da política;Action: Exibe caso a política seja do tipo Allow ou Deny;Actions: Contém um conjunto de ações essenciais:\xa0Enable[]:\xa0Através desta opção é possível habilitar ou desabilitar a política;Edit[]:\xa0Permite editar as configurações da\xa0política\xa0adicionada, para mais informações, consulte\xa0esta\xa0página;Deletar[]: Permite remover a política.', '']

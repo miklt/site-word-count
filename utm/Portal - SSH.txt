@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Portal+-+SSH
+108
+['', 'Portal - SSH', '']
+['', 'Configure o formulário de acordo com as especificações para conexão com um aplicativo “Remote SSH”.Vamos exemplificar\xa0configurando o acesso ao Servidor SSH – Storage Backup\xa0Blockbit - Remote Desktop.VPN SSL - Exemplo 3AplicativoTerminal SSHIP Local192.168.101.211/32Porta da aplicação22DescriçãoStorage SSH (BB-UTM)Permissão(Pode ser aplicada por usuário ou grupos).vpn.sup@bbuniversityA seguir vamos analisar como efetuar estas configurações:VPN SSL\xa0-\xa0SSHName: Determina o nome que o acesso possuirá. Ex.: Storage SSH (BB_UTM);Address: Determina o Endereço IP do acesso. Ex.: 192.168.101.211;Port: Determina a porta que será utilizada. Ex.: 22;A seguir analisaremos como configurar um acesso a Aplicação Web.', '']

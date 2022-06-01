@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12459173
+88
+['', 'Portal - Definição e Gerencimanto de Permissões', '']
+['', 'Esta interface permite “Adicionar”, “Editar”, “Remover” as aplicações VPN SSL e gerenciar as permissões de acesso de cada aplicação cadastrada.VPN SSL - PortalAgora podemos Habilitar as permissões e selecionar “Usuários/ Grupos” e “Tabela de horários” com permissão de acesso as respectivas aplicações de acordo às políticas definidas. Clique\xa0em []\xa0para cada aplicação da lista e selecione os “Usuários” ou “Grupos” com permissão sobre a aplicação de acordo com as definições das políticas aplicadas.VPN SSL Portal - PermissionsApós efetuar as configurações clique em\xa0[].', '']

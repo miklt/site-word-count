@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Monitor+-+Live+Sessions
+99
+['', 'Monitor - Live Sessions', '']
+['', 'Este recurso permite que o administrador monitore o tráfego de rede em tempo real, determinando com garantia qual acesso (ou tentativa) gerou log. O sistema está dividido em dois tipos:\xa0Firewall e Web, o primeiro efetua o monitoramento de todo o tráfego realizado no firewall e o segundo executa monitoramento de todo o tráfego\xa0web.Para acessar esta tela, basta selecionar a opção “Live Sessions”.Monitor\xa0–\xa0Live SessionsA tela abaixo será exibida:Monitor - Live Session - Live ConnectionsA tela\xa0Live Sessions\xa0comporta as seguintes abas:Connections;Users;VPN.A seguir analisaremos os componentes da aba Live Connections.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Client+-+Painel+Servers
+90
+['', 'Client - Painel Servers', '']
+['', 'A seguir analisaremos cada componente do painel\xa0Servers:VPN SSL Client – ServersAddress:\xa0Definir o endereço IP do Server VPN SSL. Ex.: 187.50.200.157.Port:\xa0Definir a porta de conexão com o Server VPN SSL. Ex.: 9443.Protocol:\xa0Definir o protocolo de comunicação com o Server VPN SSL. Ex.: UDP.Ao clicar sobre o botão []\xa0é possível adicionar mais endereços de servidor caso o server VPN SSL possua mais de um link de internet para fazer balanceamento de túnel VPN.A seguir analisaremos o painel\xa0Advanced.', '']

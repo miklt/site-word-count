@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Sessions+-+Expandir+Sessions
+72
+['', 'Sessions - Expandir Sessions', '']
+['', 'Logo do lado de data do evento temos um ícone\xa0[] que ao ser selecionado irá expandir a seleção e exibir mais informações a respeito desse evento específico.Events – Log Events – ExpandidoAo clicar no ícone\xa0[]\xa0as informações a frente são utilizadas como filtro e uma pesquisa é efetuada.Ao clicar no ícone\xa0[]\xa0as informações são removidas do filtro e uma pesquisa é efetuada.À seguir vamos analisar o Query Editor.', '']

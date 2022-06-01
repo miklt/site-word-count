@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/VPN+SSL+-+Cryptography
+114
+['', 'VPN SSL - Cryptography', '']
+['', 'A seguir analisaremos cada componente do painel\xa0Cryptography:VPN SSL Server – Cryptography\xa0Cryptographic Algorithms:\xa0Determina o algoritmo de encriptação para o túnel. Ex.: AES-128-CBC;Authentication Algorithm:\xa0Determina o algoritmo de autenticação usado pelo túnel. Ex.: SHA254;Key Size:\xa0Determina o tamanho da chave que será usado no túnel. Ex.: 2048.Ao finalizar as configurações, clique em\xa0[], para gravar as alterações.Após salvar, para que as configurações entrem em ação será necessário acessar a\xa0fila de comandos\xa0[]\xa0e aplicar as alterações efetuadas. Para mais informações a respeito da fila de comandos acesse a página:\xa0UTM - Fila de comandos.Após realizar esses procedimentos o VPN SSL terá sido configurado com sucesso.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=49840652
+110
+['', 'Blockbit GSM Versão 2.0.12', '']
+['', 'Release Notes30 May 2022\xa0Atualizações e melhorias apresentadas no BLOCKBIT GSM Versão 2.0.12:CódigoDescriçãoT1-871\xa0Melhoria feita nas informações que são salvas pelo Apply de Logger.T1-1041Implementado comando de atualização da Logger.T1-1057Melhoria feita no deploy de Device Templates entre um UTM e um GSM.T2-6Melhoria feita na segurança do redirecionamento de atualizações.T2-825Correção feita na exibição de mensagens durante a criação de pacotes de políticas com o idioma Espanhol selecionado.T2-1054Correção feita na gravação de Device Templates.T2-1100Melhoria feita na adição de devices, em comunidades.T2-1119Melhoria feita no deploy de Políticas de Application Control.', '']

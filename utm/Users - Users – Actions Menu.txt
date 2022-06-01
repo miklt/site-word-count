@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541294
+52
+['', 'Users - Users – Actions Menu', '']
+['', 'No topo direito do painel “Users”, temos o menu de ações, que pode ser exibido ao clicar\xa0no [], conforme ilustrado pela imagem abaixo:Users – Actions MenuO menu é composto pelas seguintes opções:Select e Select all;Expire;Enable;Disable;Remove.A seguir vamos analisar cada uma destas opções.', '']

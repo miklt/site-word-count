@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462669
+17
+['', 'UTM - [nslookup]', '']
+['', 'Envia pesquisas DNS para um servidor DNS remoto.Modo de uso: Command Line Interface – nslookup', '']

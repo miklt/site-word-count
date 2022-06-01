@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Web+Filter+-+Denied+Sites+e+History
+90
+['', 'UTM - Web Filter - Denied Sites e History', '']
+['', 'O painel “Sites Denied” mostra uma somatória de todas as páginas que seguindo as políticas tiveram seu acesso negado. Logo abaixo, é demonstrado o histórico em um gráfico de barras mostrando a quantia de acessos por dia.Para mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.Web Filter – Denied\xa0SitesAo passar o mouse por cima do gráfico, um resumo do período é exibido, conforme demonstrado na imagem abaixo:Web Filter – Denied\xa0Sites - Resumo do Período', '']

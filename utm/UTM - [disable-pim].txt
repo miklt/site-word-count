@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462445
+26
+['', 'UTM - [disable-pim]', '']
+['', 'Desabilita o serviço de roteamento dinâmico PIM-SM.Modo de uso:Command Line Interface – disable-pim', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

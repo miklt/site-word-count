@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31326844
+113
+['', 'Inventory - Menu de ações - Synchronize Devices', '']
+['', 'Para sincronizar as informações de todos os dispositivos cadastrados no GSM, siga os passos:1.\xa0Selecione os devices que deseja deletar clicando no ícone de seleção[], localizado na coluna “Actions”, do lado direito do ícone de lixeira. Ex.: Branch office 1, Cluster Head Office e Store 1;Inventory – Device\xa0selecionada.2. Clique no Menu de ações [];3. Clique na opção “Synchronize Devices”;Inventory – Menu de ações – Synchronize.Todas as sincronizações serão realizadas com sucesso.', '\xa0Vale lembrar que ao adicionar um dispositivo UTM ao GSM, a primeira sincronização acontece de maneira automática.O Blockbit GSM realiza sincronização das informações de TODOS os devices a cada 30 minutos automaticamente.\xa0', '', '']

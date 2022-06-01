@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462748
+23
+['', 'UTM - [service-start]', '']
+['', 'Inicializa um determinado serviço.Modo de uso:Command Line Interface – service-startService names:Command Line Interface – service-start – service-names', '']

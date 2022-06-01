@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12455460
+70
+['', 'Blockbit UTM versão 1.5.3', '']
+['', 'A tabela a seguir lista as melhorias realizadas no release do Blockbit UTM versão 1.5.3CódigoDescriçãoUTM-136Correção aplicada nos logs de navegação web.UTM-137Correção aplicada nos objetos de MAC address.UTM-147Correção no sincronismo de membros dos grupos.UTM-150Correção aplicada na autenticação dos servidores LDAP Samba via captive portal.UTM-156Correção aplicada na atualização de membros da política WEB no proxy.', '']

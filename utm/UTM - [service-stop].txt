@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462759
+23
+['', 'UTM - [service-stop]', '']
+['', 'Interrompe um determinado serviço.Modo de uso:Command Line Interface – service-stopService names:Command Line Interface – service-stop – service-names', '']

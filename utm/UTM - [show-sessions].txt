@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462791
+16
+['', 'UTM - [show-sessions]', '']
+['', 'Exibe as sessões de autenticação.Modo de uso:Command Line Interface – show-sessions', '']

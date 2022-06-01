@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/IPS+em+modo+transparente+Inline
+83
+['', 'IPS em modo transparente Inline', '']
+['', 'Nesta topologia, caso o Master caia, o Slave automaticamente irá desabilitar o Bypass e assumirá prioridade, os benefícios desta topologia são: Não haver a necessidade de utilizar-se do STP, não depender da configuração do Switch (uma vez que automaticamente serão utilizadas as portas e caminhos que se interligam com o Master da Blockbit) e é possível se economizar duas portas.IPS em modo transparente InlineNeste modo, o IPS pode ser configurado de 3 formas:Off;Boot;Manual.', '']

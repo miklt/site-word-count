@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Deploys+Panel+-+Coluna+Progress
+23
+['', 'Deploys Panel - Coluna Progress', '']
+['', 'A coluna Progress exibe uma barra de progresso que informa a porcentagem de conclusão do deploy.Deploys Panel – Progress', '']

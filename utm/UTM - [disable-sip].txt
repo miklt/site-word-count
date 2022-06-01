@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462457
+26
+['', 'UTM - [disable-sip]', '']
+['', 'Desativa o protocolo SIP (Protocolo de Comunicação VOIP).Modo de uso:Command Line Interface – disable-sip', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

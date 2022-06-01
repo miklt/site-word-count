@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462920
+28
+['', 'UTM - [whois]', '']
+['', 'Utilizado para consultar a informação sobre um domínio de Internet.Modo de uso:Command Line Interface – whoisExemplo: Saída padrão do comando:Command Line Interface – whois – Exemplo', '']

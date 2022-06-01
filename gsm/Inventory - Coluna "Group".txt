@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816849
+64
+['', 'Inventory - Coluna "Group"', '']
+['', 'A coluna “Group” apresenta os grupos de\xa0devices cadastrados.Inventory – Group.Ao clicar em um dos grupos, todos os appliances categorizados com o grupo clicado serão exibidos, conforme demonstrado abaixo:\xa0Inventory – Group - Selected.Caso o grupo seja clicado novamente, a tela anterior será exibida novamente.Para mais informações, a respeito de grupos de device, cheque\xa0Inventory - Menu de ações - Manage Groups.', '']

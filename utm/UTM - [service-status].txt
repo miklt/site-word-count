@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462755
+19
+['', 'UTM - [service-status]', '']
+['', 'Exibe o status de todos os serviços monitorados.Modo de uso:Command Line Interface – service-status', '']

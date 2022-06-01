@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17175598
+75
+['', 'IPv4 - Menu de ações - Expand All e Collapse All', '']
+['', 'O botão “Expand All” tem como finalidade expandir o grupo de políticas. Para expandir o grupo de políticas, siga os seguintes passos:1.\xa0No menu de ações, clique na opção “Expand All” para expandir os grupos de políticas expandidas;Policies IPv4 – Menu de ações\xa0– Expand All2. Ao clicar em “Collapse All” no menu de ações acontece justamente o contrário.Policies IPv4 – Menu de ações\xa0– Collapse All', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Actions+Menu+-+Remove
+69
+['', 'Users - Actions Menu - Remove', '']
+['', 'Para deletar os usuários desejados, utilize a opção “Remove”.Para tanto clique no menu de ação\xa0[], o menu abaixo será exibido;Actions Menu - RemoveA seguinte mensagem de confirmação será exibida:Users – Remove UsersClique em []\xa0para efetuar a deleção, caso contrário, clique em []\xa0para não remover os usuários.Por fim, para voltar a ver os ícones de delete\xa0[], clique em “Groups” no menu lateral a esquerda.', '']

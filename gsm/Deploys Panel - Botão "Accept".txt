@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12463090
+64
+['', 'Deploys Panel - Botão "Accept"', '']
+['', 'Através do botão “Accept” o auditor pode aprovar a instalação do pacote. Com ele também é possível deixar registrado um comentário informando o motivo da aprovação do Deploy.Para acessar, clique no botão “Accept”.Botão “Accept”Surgirá a tela Add Justify Action. Escreva o comentário desejado:Add Justify ActionClique no botão Save[] para salvar ou Cancel[] para fechar a tela.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=33227233
+45
+['', 'Blockbit Client versão 1.2.4', '']
+['', 'CódigoDescriçãoEPS-269Aprimoramento feito na certificação de usuário.EPS-272Melhoria feita na conexão com túnel TAP do Windows.EPS-277Melhoria feita na configuração do Client.EPS-281Melhoria feita na inicialização do Client.EPS-285Melhoria feita na conexão pela VPN SSL.', '']

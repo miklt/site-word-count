@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12461600
+113
+['', 'Addresses - Menu de ações - Delete Object', '']
+['', 'Através do botão “Delete Object” é possível deletar objetos ou grupos de objetos. Para deletar pelo menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) pacote(s) deseja deletar clicando no checkbox[] .Ex.: Test;Objects - Objetos selecionados para deleção2. Entre no menu de ações\xa0[]\xa0e clique no botão “Delete Object”.Objects - Menu de ações - Delete Object3. Surgirá a mensagem se deseja realmente deletar os grupos ou objetos selecionados:Objects - Are you sure you want to delete the following objects addressCaso deseje cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Object deleted successfullyApós realizar esses procedimentos os pacotes terão sido excluídos com sucesso.', '']

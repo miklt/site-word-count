@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816754
+101
+['', 'Inventory - Menu de ações - Delete Devices', '']
+['', 'Através do menu de ações\xa0é possível deletar vários devices ao mesmo tempo. Siga os seguintes passos:1.\xa0Selecione os devices que deseja deletar clicando no ícone de seleção[], localizado na coluna “Actions”, do lado direito do ícone de lixeira. Ex.: Branch office 1, Cluster Head Office e Store 1;Device Manager – Device\xa0selecionadas2. Clique no Menu de ações[];3. Clique na opção “Delete Devices”;Inventory – Menu de ações – Delete Devices4. Surgirá uma tela perguntado se deseja deletar o device selecionado:Inventory – Delete DevicesClique no botão Delete[].Device deleted successfullyOs devices foram deletados com sucesso.', '']

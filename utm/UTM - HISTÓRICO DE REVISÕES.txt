@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12455470
+156
+['', 'UTM - HISTÓRICO DE REVISÕES', '']
+['', 'Controle de Versão do DocumentoDATADESCRIÇÃO DA ALTERAÇÃO17 Jun 2017\xa0Lançamento do manual.28 Feb 2018\xa0Revisão 3, correções e mudanças estruturais.09 Sep 2018\xa0Atualização para a versão UTM 1.5.08 Oct 2018\xa0Revisão 4, correção.31 Oct 2018\xa0Atualização para a versão UTM 1.5.2.20 Dec 2018\xa0Revisão 5, correção.07 Jan 2019\xa0Atualização para a versão UTM 1.5.4.22 Mar 2019\xa0Migração do Manual do UTM para o Confluence.23 Apr 2019\xa0Atualização para a versão UTM 1.5.5.10 Mar 2020\xa0Atualização para a versão UTM 2.0.18 May 2020\xa0Atualização para a versão UTM 2.0.3.22 Jun 2020\xa0Atualização para a versão UTM 2.0.4.04 Sep 2020\xa0Atualização para a versão UTM 2.0.5.04 Nov 2020\xa0Atualização para a versão UTM 2.0.6.14 Dec 2020\xa0Atualização para a versão UTM 2.0.7.', '']

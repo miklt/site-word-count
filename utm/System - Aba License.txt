@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/System+-+Aba+License
+54
+['', 'System - Aba License', '']
+['', 'Esta interface tem como foco exibir informações a respeito da licença e detalhes das assinaturas.Caso a aba não esteja selecionada, clique na aba "License":Aba LicenseSurgirá a tela, conforme demonstrado pela imagem abaixo:System\xa0- LicenseEste painel é composto pelos painéis:Data License;Signatures;A seguir analisaremos cada painel desta tela.', '']

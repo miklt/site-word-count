@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12463124
+47
+['', 'Deploys Panel - Botão "Remove"', '']
+['', 'O botão “Remove” faz exatamente o que o nome diz: Ele revoga o pacote.Para acessar, clique no botão “Remove”.Botão “Remove”Delete DeployClique no botão Delete[] para salvar ou Cancel[] para fechar a tela.Deploy deleted successfullyA exclusão foi efetuada com sucesso.', '']

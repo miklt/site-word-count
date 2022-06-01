@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462542
+73
+['', 'UTM - [grep]', '']
+['', 'Este comando tem como função executar uma busca pela ocorrência de expressões regulares que correspondam com o padrão pesquisado. Ele é utilizado em conjunto com outros comandos para filtrar os resultados de saída.Exemplo: Filtar a saída do debug-web para visualizar apenas as requisições com destino a uma URL específica:Command Line Interface – grep - exemploExemplo 2: Filtrar a saída do comando ethtool utilizando regex:Command Line Interface – grep – exemplo 2', '']

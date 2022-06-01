@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+VPN+-+Remote+User
+71
+['', 'UTM - VPN - Remote User', '']
+['', 'Este painel tem como função exibir informações a respeito dos usuários remotos.\xa0O eixo vertical é referente a quantia de usuários remotos e o horizontal se refere ao período selecionado (podendo ser horas ou dias).Analyzer\xa0–\xa0VPN\xa0-\xa0Remote userAo passar o mouse por cima do gráfico, um resumo de todos os usuários ativos no período é exibido, conforme demonstrado na imagem abaixo:Analyzer\xa0–\xa0VPN\xa0-\xa0Remote user - Detalhes', '']

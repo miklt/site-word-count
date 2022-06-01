@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Authentication+-+Synchronism+-+Filial
+109
+['', 'Authentication - Synchronism - Filial', '']
+['', 'A seguir analisaremos os componentes das configurações de sincronia, no modo filial.Authentication - Branch modeEnabled: Habilita a sincronização Filial-Matriz. Ao habilitar esta opção [], "Master IP"\xa0e "Synchronization time", se tornarão mandatórias.\xa0Master IP: Utiliza o IP principal (Matriz) para a sincronização.Synchronization time: Define o intervalo de comunicação entre ambos, em segundos.SSH Key: Chave SSH que será utilizada para validação. Conta também com uma opção para copiar a SSH key []. É importante notar que ao copiar os usuários, somente as sessões de usuários das redes locais com IP da filial são copiados.Após inserir as informações, clique em salvar [] e a configuração estará concluída.', '']

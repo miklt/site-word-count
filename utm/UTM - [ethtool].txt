@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462500
+49
+['', 'UTM - [ethtool]', '']
+['', 'Utilizado para apresentar e detalhar informações referente às interfaces de rede, verificar as interfaces online, offline, alterar velocidade, alterar forma de negociação e verificar qual interface está localizada fisicamente.\xa0Modo de uso:Command Line Interface – ethtoolExemplo: Identificar uma interface de rede específica:Command Line Interface – ethtool - Exemplo', '']

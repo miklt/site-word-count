@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=21269482
+92
+['', 'Blockbit UTM versão 1.5.13', '']
+['', 'Release Notes04 Sep 2020\xa0Várias funcionalidades e correções foram implementadas, a lista abaixo exibe as melhorias feitas no lançamento do Blockbit UTM 1.5.13:CódigoDescriçãoUTM-1719Correção na limitação da busca de usuários para inclusão em grupoUTM-2147Melhoria no limite de arquivos abertos pelo VPN MonitorUTM-2149Correção aplicada na autenticação usuário\\domínio na VPNUTM-2183Correção na exibição de informações de usuários logados no Monitor VPNUTM-2279Correção na autorização de acesso por DNATUTM-2342Correção aplicada na criação de regras do GSM 1.2 para UTM 1.5', '']

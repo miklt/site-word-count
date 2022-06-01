@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Settings+-+Maintenance
+121
+['', 'UTM - Settings - Maintenance', '']
+['', 'O serviço de manutenção do Blockbit UTM é responsável pela limpeza dos dados alocado no disco local do appliance ou da máquina virtual.Para acessar esta tela, basta selecionar a opção “Maintenance”.Settings - MaintenanceA tela abaixo será exibida:Settings - Maintenance - All FilesAbaixo seguem os diretórios e relatórios possíveis de serem gerenciados pela ferramenta de manutenção.All Files: Todos os arquivos listados abaixo;Temporary: Arquivos temporários dos serviços e sistema;Quarantine: Arquivos na quarentena do serviço Antimalware;PCAP: Arquivos de dumps de rede gerados;Cache: Arquivos e pastas do serviço Web Cache;Reports: Relatórios gerados;Logs: Arquivos de logs dos serviços e do sistema;Statistics: Estatísticas geradas automaticamente como Dashboards e Analyzer.A seguir analisaremos os componentes desta tela.', '']

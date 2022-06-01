@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462585
+45
+['', 'UTM - [iostat]', '']
+['', 'Monitora a escrita de entrada e saída (I/O) na estrutura de partições “file system” do disco do BLOCKBIT UTM.Modo de uso:Command Line Interface – iostatExemplo: Listando o uso de (I/O) das partições do BLOCKBIT UTM.Command Line Interface – iostat - Exemplo', '']

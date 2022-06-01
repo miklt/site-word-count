@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Who
+97
+['', 'Who', '']
+['', 'Determina quem será responsável pela instalação do pacote, consiste em:Install Package\xa0–\xa0Who.Assign To: Define o auditor responsável por aprovar a configuração da instalação. Caso queira ser o responsável, clique no botão []. Ex.: Admin;Comments: Insira um comentário para definir a função destas configurações, facilitando assim o entendimento do auditor.\xa0Para voltar ao painel When, clique no botão [], para salvar o prompt de configurações da instalação de pacotes clique no botão [].Após realizar estes procedimentos, o Template de solicitação de instalação terá sido completado com sucesso.Para aplicar estas configurações, veja o capítulo Deploys Panel.', '']

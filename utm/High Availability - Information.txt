@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/High+Availability+-+Information
+59
+['', 'High Availability - Information', '']
+['', 'Este painel só é exibido quando o H.A. já está configurado. A seguir a especificações dos campos deste painel:High Availability - InformationLast synchronism date:\xa0A data do último sincronismo;Secondary server address:\xa0Determina o endereço IP do servidor secundário;Files Transferred:\xa0Exibe quantos arquivos foram transferidos;Primary server status:\xa0Determina o status do servidor primário.', '']

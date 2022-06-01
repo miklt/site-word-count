@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462654
+27
+['', 'UTM - [mtr]', '']
+['', 'Ferramenta de diagnóstico que combina testes de ping e traceroute para identificar perdas de pacote e latência alta.Modo de uso:Command Line Interface – mtr', '']

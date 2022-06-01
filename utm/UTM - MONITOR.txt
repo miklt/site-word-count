@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+MONITOR
+94
+['', 'UTM - MONITOR', '']
+['', 'No\xa0Monitor\xa0as informações coletadas nos módulos de segurança\xa0são reunidas e exibidas de forma sumarizada por usuários, grupos, serviços, políticas, web filter, aplicativos, ameaças entre outros.Este recurso proporciona uma visão abrangente e dinâmica dos eventos na rede e de seus usuários, viabilizando uma gestão mais precisa e facilitando tomadas de decisão.Através do\xa0Monitor,\xa0o administrador consegue entender rapidamente o que está acontecendo na rede, sem gastar tempo correlacionando milhares de linhas de log ou eventos.MonitorContém as opções:Dashboard;Live Sessions;Traffic Monitor;System Status;Security Events;Diagnostics;Reports.', '']

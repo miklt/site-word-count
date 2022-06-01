@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+Temporary
+51
+['', 'UTM - Maintenance - Temporary', '']
+['', 'Na aba temporary é possível visualizar o tamanho do diretório temporário e a sua última alteração.\xa0Maintenance - Temporary filesAo clicar sobre o botão [], é possível apagar os dados do diretório conforme a tela abaixo.Maintenance - Temporary files - DeleteAtravés do botão\xa0[], todos os\xa0dados do diretório temporário serão apagados.', '']

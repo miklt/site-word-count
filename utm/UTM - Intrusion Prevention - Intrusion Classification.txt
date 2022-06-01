@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Intrusion+Prevention+-+Intrusion+Classification
+93
+['', 'UTM - Intrusion Prevention - Intrusion Classification', '']
+['', 'Em “Intrusion Classification” temos um gráfico representando as dez classes de alerta de intrusão mais recorrentes em relação ao período de tempo previamente especificado. Abaixo do gráfico, temos uma listagem dos nomes das dez classificações por ordem de maior quantia de acessos.Para mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.Intrusion ClassificationAo passar o mouse sobre o gráfico, ele evidenciará a data e o número de acessos da classe mais alta deste dia em específicoIntrusion Classification - Resumo das classes\xa0', '']

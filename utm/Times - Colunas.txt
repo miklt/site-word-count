@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Times+-+Colunas
+94
+['', 'Times - Colunas', '']
+['', 'Na aba “Times” é possível visualizar o menu de ações\xa0e seis colunas:Objects – Aba\xa0TimesA seguir explicaremos cada coluna da aba\xa0Times:Selecionar[]: Seleciona os Objetos desejados;Name: Nome do Objeto;Description: A descrição do Objeto;Type: Tipo do Objeto;Used[]: Enumera o número de vezes que este objeto está sendo utilizado. Ao clicar neste número a janela Object Mapping é exibida.Actions: Permite editar, selecionar e deletar o objeto;Edit[]:\xa0Permite editar as configurações do\xa0Objeto\xa0adicionado na opção\xa0Create Object\xa0do menu de ações;Deletar[]: Permite remover o Objeto.', '']

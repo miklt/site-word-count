@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462635
+16
+['', 'UTM - [lscpu]', '']
+['', 'Exibe informações sobre a arquitetura da CPU.Modo de uso:Command Line Interface – lscpu', '']

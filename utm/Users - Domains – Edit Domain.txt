@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20541540
+31
+['', 'Users - Domains – Edit Domain', '']
+['', 'Ao clicar no botão edit[] é possível editar as configurações do domínio selecionado.Domains – Edit DomainApós finalizar as devidas alterações clique no botão [] para salvar as alterações.', '']

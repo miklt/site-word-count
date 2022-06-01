@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17176245
+104
+['', 'UTM - [show-wwan]', '']
+['', 'Este comando tem como função exibir informações da conexão 3G/4G/LTE seu estado atual e propriedades do dispositivo:Modo de UsoCommand Line Interface – show-wwan -hEste comando também conta com os seguintes parâmetros:modem-infoO comando exibe informações a respeito do modem.Command Line Interface – show-wwan modem-infosim-infoServe para determina qual o status do cartão SIM.Command Line Interface – show-wwan sim-infoconnection-statusServe para determinar o status de conexão.Command Line Interface – show-wwan connection-status-h ou --helpExibe o menu de ajuda com informações a respeito de todos os atributos.Command Line Interface – show-wwan -h', '']

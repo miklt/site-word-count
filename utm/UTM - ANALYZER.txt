@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+ANALYZER
+136
+['', 'UTM - ANALYZER', '']
+['', 'Além do dashboard já apresentado, o Blockbit UTM, possui um recurso de gerenciamento de “Relatórios” que retorna informações essenciais para a administração e gerência de eventos e informações que reúne dados SUMARIZADOS e DETALHADOS dos principais serviços. Todos os relatórios do sistema são armazenados por 7 dias no servidor.', 'A principal diferença entre os relatórios exibidos em Events e os em Analyzer é que:Em Events, é gerado um registro da conexão com os atributos todos zerados (bytes e pacotes), após a desconexão outro evento é gerado registrando esses atributos, o tráfego e o tempo conectado.Já os relatórios do Analyzer são sumarizados de 5 em 5 minutos gerando relatórios de tempos em tempos com dados gerados no período.', 'AnalyzerContém as opções: Firewall;Web Filter;Application Control;Intrusion Prevention;Threat Protection;User Behavior; VPN.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542313
+84
+['', 'Add Profile – Customize Logo', '']
+['', 'Em [Customize Logo] é possível editar o logo que será exibido no portal, conforme demonstrado pela imagem abaixo:Authentication –\xa0Customize LogoAs opções disponíveis são:Restore: Caso seja marcada, essa caixa de seleção tem como função restaurar o logo padrão da Blockbit;Browse: Permite a importação de uma imagem PNG com o máximo de 215 x 47.Após concluir as configurações em todos os campos, clique em [] para salvar o perfil, caso contrário, clique em\xa0[] para voltar para a aba Portal.', '']

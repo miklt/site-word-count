@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816343
+117
+['', 'Blacklist - Menu de Ações - Import Blacklist', '']
+['', 'Através da opção “Blacklist” é possível importar um Blacklist. Para acessar, clique no\xa0menu de ações [].1.\xa0Clique na opção “Create Profile”;Blacklist - Menu de Ações - Import Blacklist2. A tela “Import Blacklist” será exibida. Conforme demonstrado na imagem abaixo:Blacklist - Import\xa0Blacklist3. Selecione o arquivo desejado clicando no botão\xa0[];', 'Este botão aceita arquivos de extensão .txt', '4. Ao carregar o arquivo com sucesso, uma mensagem de confirmação será exibida:Item(s) imported successfully5. Ao finalizar a adição dos itens, a seguinte mensagem de confirmação será exibida:Address added successfully6. Por fim, a tela exibirá todos os IPs adicionados:Blacklist - IPs adicionadosApós realizar esses procedimentos, a importação terá\xa0sido efetuada com sucesso.', '']

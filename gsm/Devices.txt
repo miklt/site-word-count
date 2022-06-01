@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Devices
+122
+['', 'Devices', '']
+['', 'O painel Devices\xa0é de vital importância para o Blockbit GSM, sua principal função é a capacidade de, como diz o nome, administrar todos os dispositivos conectados através de um único ponto central, colocando em termos simples: Através deste painel o Blockbit GSM administra os Blockbit UTM e futuramente, outras soluções digitais da Blockbit.Primeiramente, ao se logar no Blockbit GSM, a aba “Inventory” estará automaticamente selecionada. Além disso, é possível acessar os “Devices”, clicando no botão\xa0localizado no menu vertical lateral, ou selecionando a aba adequada (caso o botão já tenha sido selecionado).Management – DevicesA tela abaixo será exibida:Devices - InventoryA tela\xa0Devices\xa0comporta as seguintes abas:Inventory;Communities;Templates;Provisioning.A seguir, os componentes da aba Inventory serão analisadas.', '']

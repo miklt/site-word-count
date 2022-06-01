@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Threat+Protection+-+Geolocation
+69
+['', 'UTM - Threat Protection - Geolocation', '']
+['', 'Em “Geolocation” é exibida a origem das ameaças por geolocalização, o mapa global demonstra através de uma legenda colorida o nível de risco. Ao passar o mouse por cima dos países um número total de ameaças é exibido, ao fazer o mesmo com a legenda é possível visualizar uma média, além disso, o país referente a esse valor é destacado no mapa.Threat Protection – Geolocation', '']

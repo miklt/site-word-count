@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/System+-+Aba+Updates
+87
+['', 'System - Aba Updates', '']
+['', 'Esta interface possibilita a configuração do servidor proxy e o agendamento de quando serão efetuados os updates.Caso a aba não esteja selecionada, clique na aba "Updates":Aba UpdatesSurgirá a tela, conforme demonstrado pela imagem abaixo:System\xa0- UpdatesA Atualização das bases de assinaturas (IPS, WEB FILTER, APPLICATION CONTROL e ATP) são realizadas de forma automática sem a necessidade de reboot no Appliance Blockbit ou no módulo de gerência.Esta tela é composta pelos painéis:Proxy Server;Update.A seguir analisaremos cada painel desta tela.', '']

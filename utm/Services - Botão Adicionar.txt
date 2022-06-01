@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12461412
+45
+['', 'Services - Botão Adicionar', '']
+['', 'Para cadastrar um certificado de serviço, clique em [] e preencha o campo Hostname\xa0com o nome correspondente ao serviço que irá utilizar o certificado como validador.Services - New service certificateAo concluir a adição, o certificado será exibido:Services - New service certificate installed', '']

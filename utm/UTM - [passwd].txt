@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462677
+22
+['', 'UTM - [passwd]', '']
+['', 'Utilizado para definição ou alteração da senha do usuário “admin” padrão do console.Modo de uso:Command Line Interface – passwd', '']

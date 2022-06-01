@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+All+Files
+78
+['', 'UTM - Maintenance - All Files', '']
+['', 'Na aba All Files é possível visualizar o gráfico informando o tamanho de todos os diretórios para a manutenção no sistema.Maintenance – All filesAtravés do botão [], é possível apagar os dados de todos os diretórios.Maintenance - Clear All files', 'Ao selecionar a opção de apagar todos os dados, o sistema irá exibir um alerta informando que o serviço de proxy será reinicializado.', 'Após clicar no botão [] serão removidos os dados de todos os diretórios.', '']

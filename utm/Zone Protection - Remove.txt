@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Zone+Protection+-+Remove
+70
+['', 'Zone Protection - Remove', '']
+['', 'Através deste\xa0botão é possível deletar vários itens\xa0ao mesmo tempo. Siga o exemplo abaixo:1.\xa0Selecione os itens\xa0que deseja deletar clicando no ícone de seleção[];Zone Protection - Seleção para deleção2. Clique no botão\xa0[], surgirá uma tela perguntado se deseja deletar o item\xa0selecionado:Zone Protection - Remove itensCaso deseje cancelar clique no botão\xa0[]. Para concluir a deleção clique no botão\xa0[].O item foi deletado com sucesso.', '']

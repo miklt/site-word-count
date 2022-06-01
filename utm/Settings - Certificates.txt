@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Settings+-+Certificates
+95
+['', 'Settings - Certificates', '']
+['', 'Nesta seção vamos habilitar a autenticação validando um endereço WEB por certificado digital.CertificatesO administrador deve associar a C.A (Certificate Authority) e o C.S (Certificate Service) ou certificado digital, inclusive a lista de Certificados revogados, o que garante que se algum usuário tentar usar um certificado revogado, o mesmo não terá mais validade para a C.A. associada.Selecione as C.A.’s correspondentes nas listas suspensas e clique em [].Select certificatesPara mais informações a respeito de autenticação de dois fatores, consulte esta página.À seguir iremos analisar o painel Sessions.', '']

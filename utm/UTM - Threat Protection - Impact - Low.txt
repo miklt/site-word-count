@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Threat+Protection+-+Impact+-+Low
+92
+['', 'UTM - Threat Protection - Impact - Low', '']
+['', 'Em “Impact - Low” temos um gráfico de rosca exibindo a porcentagem de ameaças de baixo impacto, seguido de um diagrama de colunas exibindo quantas destas mesmas ocorreram dentro do prazo previamente selecionado em comparação com o tráfego de rede do dia. Além disso, uma lista é exibida com as 10 ameaças de baixo impacto mais recorrentes, exibindo seu nome e listando-as por quantidade de recorrências.Para mais informações a respeito\xa0da barra de busca presente no topo deste gráfico cheque esta\xa0página.Threat Protection – Impact Low', '']

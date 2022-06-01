@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462532
+40
+['', 'UTM - [fwrecovery]', '']
+['', 'Libera temporariamente toda a entrada e encaminhamento do Firewall.Modo de uso:Command Line Interface – fwrecovery', 'ATENÇÃO: Assim que possível, acessar a interface WEB e clicar em “aplicar”(canto superior direito) para que as regras temporárias sejam removidas.', '', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816792
+72
+['', 'Inventory - Menu de ações- Update Devices', '']
+['', 'Executa a atualização da versão dos dispositivos cadastrados no GSM. Para efetuar essa operação, siga os passos:1.\xa0Selecione os devices desejados clicando na caixa de seleção[] desejada;2. Clique no Menu de ações [];3. Clique na opção “Update Devices”;Inventory – Menu de ações – Update Devices4. Surgirá a mensagem de verificação:Update devices5. Para atualizar os dispositivos selecionados clique em OK[], caso contrário clique em Cancel[].', '']

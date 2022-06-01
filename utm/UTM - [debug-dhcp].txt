@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462352
+29
+['', 'UTM - [debug-dhcp]', '']
+['', 'Exibe os logs de debug do serviço de DHCP em tempo real.Modo de uso:Command Line Interface – debug-dhcpExemplo:Command Line Interface – debug-dhcp - exemplo', '']

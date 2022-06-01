@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542329
+41
+['', 'Portal - Menu de Ações - Remove', '']
+['', 'Para deletar os perfis desejados, clique na opção “Remove”:Portal - Actions Menu - RemoveA seguinte mensagem de confirmação será exibida:Authentication –\xa0Delete ProfileClique em []\xa0para efetuar a deleção, caso contrário, clique em []\xa0para não remover o domínio.', '']

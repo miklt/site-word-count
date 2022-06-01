@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462639
+26
+['', 'UTM - [lsusb]', '']
+['', 'Exibe informações sobre as portas USB e os dispositivos conectados a eles.Modo de uso:Command Line Interface – lsusbExemplo:Command Line Interface – lsusb - exemplo', '']

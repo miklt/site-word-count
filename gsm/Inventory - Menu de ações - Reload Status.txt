@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816773
+63
+['', 'Inventory - Menu de ações - Reload Status', '']
+['', 'Atualiza o status de todos os dispositivos cadastrados no GSM. Para efetuar essa operação, siga os passos:1.\xa0Clique no Menu de ações[];2. Clique na opção “Reload Status”;Inventory – Menu de ações – Reload Status3. Aguarde o painel ficar disponível novamente:Inventory – Reload all devicesApós este passo, o status terá sido recarregado e exibido no mesmo painel.', '']

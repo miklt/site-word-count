@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/VPN+SSL+-+Advanced
+94
+['', 'VPN SSL - Advanced', '']
+['', 'A seguir analisaremos cada componente do painel\xa0Advanced:VPN SSL Server – AdvancedCompression []:\xa0Permite habilitar o método de Compressão de dados. A habilitação do método de compressão é obrigatória para que o acesso com o Blockbit Client seja habilitado;', 'Para mais informações sobre o Blockbit Client, consulte esta página.', 'Key lifetime:\xa0Determina o tempo de validade da chave de negociação bem-sucedida;KeepAlive:\xa0Determina o tempo para reinicialização do túnel N segundos sem passar tráfego pelo túnel;Max Clients:\xa0Determina a quantidade de clientes conectado simultaneamente.A seguir analisaremos o painel\xa0Cryptography.', '']

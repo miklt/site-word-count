@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration+-+Aba+Settings
+54
+['', 'Administration - Aba Settings', '']
+['', 'Este item nos permite definir as configurações de segurança em relação à interface de administração do sistema.Para o acesso clique na aba "Settings":Aba\xa0SettingsSurgirá a tela\xa0demonstrada pela imagem abaixo:\xa0Administration - SettingsA aba está dividida nos seguintes painéis:Certificates;LDAP;TACACS+;Sessions.A seguir analisaremos cada componente dessa tela.', '']

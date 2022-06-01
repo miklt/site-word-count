@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Settings+-+Sessions
+90
+['', 'Settings - Sessions', '']
+['', 'Permite definir parâmetros de segurança no módulo de autenticação do Blockbit UTM.Os parâmetros são:Concurrent sessions: Define o número máximo de sessões simultânea de usuários;Login attempts: Define o número máximo de tentativas sem sucesso de autenticação, antes do bloqueio do usuário;Lock timeout: Define o tempo em minutos para que o usuário seja bloqueado após exceder o número definido no campo “Login attempts”;Session timeout: Define o tempo máximo de inatividade de uma sessão de um usuário autenticado.Authetication – SessionsÀ seguir iremos analisar o painel\xa0Permissions.', '']

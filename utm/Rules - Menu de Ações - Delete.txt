@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20542022
+66
+['', 'Rules - Menu de Ações - Delete', '']
+['', 'Para deletar as políticas desejadas, selecione a política que se pretende remover:Rules -\xa0Seleção para removerClique no menu de ações []\xa0localizado no topo superior direito e selecione "Create":Rules\xa0– Botão de AdiçãoA seguinte mensagem de confirmação será exibida:Rules\xa0– ConfirmaçãoClique em []\xa0para efetuar a deleção, caso contrário, clique em []\xa0para não remover a política.À seguir, analisaremos os componentes das colunas.', '']

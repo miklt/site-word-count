@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12458867
+84
+['', 'DDNS - Menu de Ações - Remove', '']
+['', 'Através do menu de ações\xa0é possível deletar vários itens\xa0ao mesmo tempo. Siga os seguintes passos:1.\xa0Selecione os itens\xa0que deseja deletar clicando no ícone de seleção[];DDNS\xa0- Seleção para deleção2. Clique no Menu de ações[] e\xa0selecione a opção “Remove”;DDNS\xa0– Menu de ações – Remove4. Surgirá uma tela perguntado se deseja deletar o item\xa0selecionado:DDNS\xa0- Remove itensCaso deseje cancelar clique no botão\xa0[]. Para concluir a deleção clique no botão\xa0[].O item foi deletado com sucesso.', '']

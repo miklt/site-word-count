@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/DHCP+Server+-+Settings
+115
+['', 'DHCP Server - Settings', '']
+['', 'Para configuração dos parâmetros básicos para distribuição de endereços IP, no painel\xa0Settings\xa0configure os campos de acordo o formulário e os respectivos valores e endereços que pretende distribuir como válidos para o serviço DHCP. Depois clique em [].', 'O endereço de Gateway obrigatoriamente deve estar dentro do intervalo de rede ou subnet declarada no device selecionado para configuração.', 'DHCP - SettingsEm seguida ao clicar em salvar\xa0[] os parâmetros de configurações do DHCP o serviço pergunta se você deseja definir o Range\xa0de endereços que irá distribuir:DHCP - Adding a rangeAo clicar em\xa0[] você será automaticamente redirecionado para a interface de configurações do range.A seguir, analisaremos as próximas seções:Ranges;Radius;Static Addresses.', '']

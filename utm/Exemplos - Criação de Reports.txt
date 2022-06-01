@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=20543137
+87
+['', 'Exemplos - Criação de Reports', '']
+['', 'A seguir, vamos exemplificar a criação de alguns exemplos de reports como forma de demonstrar de boas práticas. Os modelo apresentados visam orientar e servir como base para o usuário criar os seus próprios relatórios conforme a sua preferência e necessidade.Efetuaremos a demonstração criando os seguintes reports:Exemplo 1 - Relatório de Firewall;Exemplo 2 - Relatório de Webfilter para destino de acesso estrangeiro que foi permitido pelas políticas;Exemplo 3 - Relatório de conexão de VPN site-to-site com origem e destino específico.', '']

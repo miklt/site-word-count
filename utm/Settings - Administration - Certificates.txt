@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Settings+-+Administration+-+Certificates
+47
+['', 'Settings - Administration - Certificates', '']
+['', 'No painel Certificates, é possível habilitar o uso de certificados ao acessar a interface de administração, selecione a C.A. “Certificate Authority” e o C.S. “Certificate Service” ou Certificado Digital para o “host” definido para o acesso a interface WEB.Settings - Administration - Certificates', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462779
+18
+['', 'UTM - [set-irqbalance-dynamic]', '']
+['', 'Habilita o IRQ Balance Dinâmico.Modo de uso:Command Line Interface – set-irqbalance-dynamic', '']

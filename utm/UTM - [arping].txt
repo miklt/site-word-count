@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462246
+46
+['', 'UTM - [arping]', '']
+['', 'Descobre e identifica os hosts conectados, utilizando a associação da tabela ARP com a resposta análoga ao ping que adota o protocolo ICMP.Modo de uso:Command Line Interface – arping.Exemplo: Descobrindo o endereço MAC de um determinado IP:Command Line Interface – arping - Exemplo.', '']

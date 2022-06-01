@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Threat+Protection+-+Threats+e+History
+82
+['', 'UTM - Threat Protection - Threats e History', '']
+['', 'O painel “Threats” exibe um total de ameaças detectadas. Logo abaixo, é exibido o histórico em um gráfico de linhas demonstrando a quantia de ameaças detectadas por dia.Para mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.Threat Protection - Threats e\xa0HistoryAo passar o mouse por cima do gráfico, um resumo das ameaças do período é exibido, conforme demonstrado na imagem abaixo:Threat Protection - History - Resumo das ameaças', '']

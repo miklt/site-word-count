@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Schedules
+119
+['', 'Schedules', '']
+['', 'Os objetos do tipo Schedules\xa0são compostos pelas definições de um período que compete “Data/hora inicial” e “Data/hora final”. Ex.: 2017-05-11 8:00 AM até 2017-05-30 5:00 PM.Os objetos cadastrados ficam disponíveis para serem usados nos processos de configuração e habilitação de alguns “Serviços” e também, nas definições das\xa0“Policy”.Para acessar a tela, basta selecionar a aba “Schedules”.Aba\xa0SchedulesSurgirá a tela "Schedules". Ela é composta pelas colunas “Select”, “Name”, “Description”, "Type", "Used" e “Actions”. Além disso, no topo da tela está localizada a\xa0barra de busca\xa0e o\xa0menu de ações\xa0à direita.Objects - SchedulesExplicaremos em detalhes o menu de ações\xa0e posteriormente\xa0as colunas da aba "Schedules".', '']

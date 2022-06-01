@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Intrusion+Prevention+-+Aba+Blacklist
+67
+['', 'Intrusion Prevention - Aba Blacklist', '']
+['', 'Nesta aba é possível administrar a lista de IPs suspeitos que o\xa0Intrusion Prevention\xa0utilizará.Para efetuar as configurações, clique em\xa0"Blacklist".Aba BlacklistSurgirá a tela “Blacklist” do\xa0Intrusion Prevention, conforme demonstrado pela imagem abaixo:\xa0Intrusion Prevention - BlacklistEsta sessão irá abordar como\xa0cadastrar,\xa0editar e\xa0remover\xa0os IPs de Blacklist do\xa0Intrusion Prevention;A seguir, analisaremos as funções localizadas no topo deste painel.', '']

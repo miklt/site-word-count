@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26830608
+44
+['', 'UTM - [sensors]', '']
+['', 'Este comando serve para exibir a temperatura atual detectada pelos sensores do appliance.Command Line Interface\xa0–\xa0sensors - h', 'O sistema pode necessitar o reconhecimento dos sensores. Para efetuar este procedimento, utilize o comando [sensors -detect]', 'Modo de uso:Command Line Interface\xa0–\xa0sensors', '']

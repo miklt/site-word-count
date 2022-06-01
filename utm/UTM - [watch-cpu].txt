@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462900
+21
+['', 'UTM - [watch-cpu]', '']
+['', 'Monitora em tempo real a utilização dos processadores do servidor.Modo de uso:Command Line Interface – watch-cpu', '']

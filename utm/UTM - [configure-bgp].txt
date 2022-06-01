@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462255
+53
+['', 'UTM - [configure-bgp]', '']
+['', 'Configuração do roteamento dinâmico BGP.Modo de uso:', 'Por padrão a senha de usuário e de modo privilegiado é admin.', 'Command Line Interface – configure-bgpNa interface web, em [System] >> [Network] >> [Dynamic Routing],\xa0ao clicar no ícone [], é possível visualizar o exemplo de configuração:Command Line Interface – Exemplo de configuração BGP', '']

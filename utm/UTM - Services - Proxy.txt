@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Services+-+Proxy
+62
+['', 'UTM - Services - Proxy', '']
+['', 'A tela\xa0"Proxy"\xa0tem como função configurar o funcionamento dos proxies\xa0do sistema e também como a inspeção SSL atuará.A seguir analisaremos mais detalhadamente.Para acessar esta tela, basta selecionar a opção “Proxy”.Services - ProxyA tela abaixo será exibida:ProxyA tela comporta as seguintes abas:Proxy Services;SSL Inspection.A seguir analisaremos os componentes da aba\xa0Proxy Service.', '']

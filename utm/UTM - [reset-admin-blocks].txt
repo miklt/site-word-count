@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462689
+23
+['', 'UTM - [reset-admin-blocks]', '']
+['', 'Libera sessões bloqueadas do usuário “admin” da interface WEB.Modo de uso:Command Line Interface – reset-admin-blocks – Exemplo', '']

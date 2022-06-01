@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462953
+106
+['', 'Blockbit GSM versão 1.1.3', '']
+['', 'A tabela a seguir lista as melhorias realizadas no release do\xa0BLOCKBIT GSM versão 1.1.3BB-12233BB-12244BB-12245Melhorias aplicadas à API de integração com o BLOCKBIT UTM com suporte a sincronismos de “Grupos”.BB-12325Correção aplicada à tela de cadastro de grupo que apresentava erro para exibir os grupos.BB-12360Correção aplicada às pesquisas na tela de grupo.BB-12369Correção aplicada à exibindo os grupos durante o filtro.BB-12371Correção aplicada à remoção de usuários do BLOCKBIT UTM, atualizando automaticamente no BLOCKBIT GSM.BB-12386\xa0Correção aplicada à identificação de grupos com mesma nomenclatura provindas de UTMs distintos.', '']

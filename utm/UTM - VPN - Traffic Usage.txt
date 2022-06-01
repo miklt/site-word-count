@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+VPN+-+Traffic+Usage
+72
+['', 'UTM - VPN - Traffic Usage', '']
+['', 'Este painel tem como função exibir o consumo do tráfego nas VPNs IPSEC e SSL.\xa0O eixo vertical é referente ao consumo em Megabytes e o horizontal se refere ao período selecionado (podendo ser horas ou dias).Analyzer\xa0–\xa0VPN\xa0-\xa0Traffic usageAo passar o mouse por cima do gráfico, um resumo de todo o tráfego do período é exibido, conforme demonstrado na imagem abaixo:Analyzer\xa0–\xa0VPN\xa0-\xa0Traffic usage - Detalhes', '']

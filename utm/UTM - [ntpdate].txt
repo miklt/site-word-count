@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462673
+27
+['', 'UTM - [ntpdate]', '']
+['', 'Ajusta a data e hora local do seu dispositivo consultando servidores NTP (Network Time Protocol) disponíveis na rede.Modo de uso: Command Line Interface – ntpdate', '']

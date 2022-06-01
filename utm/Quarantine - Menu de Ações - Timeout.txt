@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816408
+113
+['', 'Quarantine - Menu de Ações - Timeout', '']
+['', 'O tempo de permanência da quarentena de um determinado IP é configurável através desta opção. Para acessar, clique no menu de ações [].1.\xa0Clique na opção “Timeout”;Intrusion Prevention - Quarantine - Menu de Ações - Timeout2. A tela abaixo será exibida:Quarantine - TimeoutNeste painel\xa0poderá ser configurado o tempo de timeout para remover o endereço na quarentena, por default o sistema vai configurado com o tempo de 60 minutos. No primeiro campo, é possível determinar o tempo, já na caixa de seleção é possível definir se o tempo será em minutos ou horas.Por fim, caso deseje cancelar clique no botão\xa0[]. Para concluir a edição das aplicações clique no botão\xa0[].', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12462592
+32
+['', 'UTM - [iotest]', '']
+['', 'Executa um teste de escrita para a entrada e saída (I/O) na estrutura de partições “file system” do disco do BLOCKBIT UTM.Modo de uso:Command Line Interface – iotest', '']

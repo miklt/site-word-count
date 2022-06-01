@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/IPv6+Settings+-+IPv6+Settings
+136
+['', 'IPv6 Settings - IPv6 Settings', '']
+['', 'Neste painel são efetuadas as configurações gerais do IPv6 no sistema.Para tanto, complete os campos deste painel:IPv6 Settings - IPv6 SettingsEnable[]:\xa0Caso esta caixa de checagem esteja habilitada, o IPv6 estará habilitado;Priority:\xa0Determina qual tipo de IP possuirá prioridade, as opções possíveis são:IPv4[]:\xa0Caso a caixa de seleção esteja marcada, o IPv4 será selecionado como prioridade;IPv6[]:\xa0Caso a caixa de seleção esteja marcada, o IPv6 será selecionado como prioridade.Gateway:\xa0Define qual gateway será utilizado. Ex.:\xa03178:bbe5:4c9f:7b6f:aecb:6f91:7d06:547d;DNS1:\xa0Define o DNS primário a ser usado. Ex.: 35fb:8841:9b40:af9e:1daa:deee:ad45:f17f;DNS2:\xa0Define o DNS secundário a ser utilizado.\xa0Ex.: f7ee:c742:3864:863e:bd59:85e7:ec38:b0c6.Ao finalizar as configurações clique em [] para salvar as alterações.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/UTM+-+Maintenance+-+Reports
+69
+['', 'UTM - Maintenance - Reports', '']
+['', 'Na aba reports\xa0é possível visualizar o tamanho do diretório e a data da última alteração, este está dividindo em 2 subdiretórios PDF e CSV, dessa forma é possível apagar todo o conteúdo do diretório ou somente um subdiretório específico.Maintenance - ReportsPara excluir, basta clicar no botão [], conforme a tela abaixo.Maintenance - Reports files - DeleteApós clicar no botão [] os dados do diretório de reports serão removidos.', '']

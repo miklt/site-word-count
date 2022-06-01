@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26815284
+34
+['', 'Interfaces - Menu de Ações - Update', '']
+['', 'Ao clicar em “Update” no menu de ações todas as informações relacionadas às interfaces serão atualizadas.Interfaces – UpdateIsso permite que alterações que afete todas as interfaces, sejam facilmente implementadas.', '']
