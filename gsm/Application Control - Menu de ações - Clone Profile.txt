@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327155
+75
+['', 'Application Control - Menu de ações - Clone Profile', '']
+['', 'Através da opção “Clone Profile” é possível criar um novo perfil de Application Control. Para acessar, clique no menu de ações [].Application Control - Main screen1.\xa0Clique na opção “Clone Profile”;Application Control - Clone Profile2. Para confirmar, clique em "Confirm":Application Control\xa0–\xa0Clone Application Control Profile.Application Control - Perfil clonado com sucesso.Também é possível clonar um perfil clicando no botão Clone\xa0[].A seguir veremos como Deletar um Perfil.', '']

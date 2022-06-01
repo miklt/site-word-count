@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Templates+-+Colunas
+92
+['', 'Templates - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Templates:TemplatesName: Apresenta o nome do Template cadastrado;Description: Apresenta a descrição do Template cadastrada;Version: Apresenta a versão na qual o Template foi criado;Actions: O menu “Actions” é composto por vários botões:Botão Edit[]: Permite editar as configurações do\xa0Template\xa0adicionado na opção\xa0Create Template\xa0do menu de ações;Botão Visualizar[]: Permite visualizar, editar e adicionar opções mais específicas do Template, para mais informações, acesse o capítulo Templates - Config Template;Botão Delete[]: Deleta o Template;Caixa de Seleção[]: Seleciona o Template.', '']

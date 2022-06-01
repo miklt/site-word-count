@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816917
+68
+['', 'Inventory - Coluna "Actions" - Botão "Edit"', '']
+['', 'Através do botão Edit[], é possível editar as informações da device criados na opção\xa0Inventory - Menu de ações - Create Device ou do grupo selecionado:Determine qual item deseja-se editar;Clique no botão Edit[];Edite as informações desejadas;Caso deseje cancelar as alterações feitas clique no botão Cancel[]. Para concluir as alterações editadas, clique no botão Save[].As edições foram feitas com sucesso.', '']

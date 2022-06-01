@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816887
+31
+['', 'Inventory - Coluna "Template"', '']
+['', 'A coluna “Template” exibe o nome do Template de configurações aplicado no device.Inventory – Devices TemplatePara mais informações a respeito de templates de device, cheque a\xa0Aba Templates.', '']

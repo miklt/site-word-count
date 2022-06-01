@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816913
+33
+['', 'Inventory - Coluna "Actions"', '']
+['', 'A coluna Actions exibe os botões “Edit” e “Delete” para cada device.Inventory – Botões “Edit” e “Delete”.A seguir analisaremos a função de ambos os botões:Botão edit;Botão delete.', '']

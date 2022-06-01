@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816905
+29
+['', 'Inventory - Coluna "Policy IPv6"', '']
+['', 'A coluna “IPV6 Policy” exibe o nome do pacote de política aplicada na device.Inventory – Policies Head Office.Para mais informações, cheque a sessão\xa0Policies.', '']

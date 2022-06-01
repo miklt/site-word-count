@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816924
+63
+['', 'Inventory - Coluna "Actions" - Botão "Delete"', '']
+['', 'Através do botão Delete[], é possível remover a device ou grupo cadastrado.Determine qual item se deseja deletar;Clique no botão Delete[];Surgirá uma tela perguntando se deseja deletar o item selecionado:Inventory – Delete device.Caso deseje cancelar clique no botão Cancel[]. Para concluir a remoção, clique no botão Delete[].Device deleted successfullyA remoção foi feita com sucesso.', '']

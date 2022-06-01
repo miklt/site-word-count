@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Web+Filter
+145
+['', 'Aba Web Filter', '']
+['', 'O Web Filter funciona como uma segunda camada para filtrar a navegação dos usuários. É o responsável pelo filtro de conteúdo e só pode ser utilizado quando as requisições de acesso Web HTTP/HTTPS são repassadas por um servidor Proxy, antes de solicitar os dados ao servidor remoto, ele redireciona algumas informações da requisição (url, usuário e endereço IP do usuário) para o serviço de Web Filter.', 'Para maiores informações sobre Web Filter, consulte o manual do Blockbit UTM. \xa0', 'Clique na aba “Web Filter”.Aba Web FilterSurgirá a Tela de “Web Filter”. Ela é composta pelas colunas “Name”, “Description”, “Version”\xa0e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Profiles – Web FilterA seguir, o menu de ações será analisado e posteriormente nos aprofundaremos no conteúdo das colunas do painel\xa0Web Filter.', '']

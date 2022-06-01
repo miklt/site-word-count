@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817067
+75
+['', 'Communities - Menu de ações - Create Community - Devices - Menu de Ações - Delete device', '']
+['', 'Para deletar devices. Siga os seguintes passos:1.\xa0Selecione o device que se deseja deletar clicando na seleção[];2. Clique no ícone de Menu de ações[];3. Clique na opção “Delete Devices”;Communities – Create Community - Delete DeviceCaso se deseja remover um device basta clicar na caixa de seleção e marcar todos os devices desejados e no menu de ação clicar em "Delete device".', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816986
+106
+['', 'Communities - Menu de ações - Create Community - General', '']
+['', 'Na seção “General” há os seguintes campos:Name: Nome da Device Community. Ex.: VPN – Topology Full Meshed;Description: Descrição da Device Community. Ex.: FULL MESHED.Em Settings são exibidos os campos abaixo:IKE Version:\xa0Determina a versão do IKE que será utilizada;Exchange Mode:\xa0Método de negociação da chave IKE;Topology: Define qual a topologia escolhida no campo Topology. Ex.: Site-To-Site;Shared Key: É uma chave compartilhada entre as devices. Essa chave é utilizada no processo de autenticação pelo protocolo IKE. Ex.: “q1Q!q1Q!”. Para visualizar a chave digitada, clique no ícone visualizar[].Communities – Create Community - General.', '']

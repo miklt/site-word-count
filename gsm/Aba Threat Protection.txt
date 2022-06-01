@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Threat+Protection
+97
+['', 'Aba Threat Protection', '']
+['', 'Com os perfis de Threat Protection, é possível analisar arquivos para inspeção de malware e bloqueio de ameaças.\xa0Esta seção irá demostrar como criar perfis que posteriormente, serão instalados nas políticas.Clique na aba “Threat Protection”.Aba Threat ProtectionSurgirá a Tela de “Threat Protection”. Ela é composta pelas colunas “Name”, “Description”, “Version”\xa0e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Profiles – Threat ProtectionA seguir, o menu de ações\xa0será analisado e posteriormente nos aprofundaremos no conteúdo das colunas do painel\xa0Threat Protection.', '']

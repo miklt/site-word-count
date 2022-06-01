@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817084
+81
+['', 'Communities - Menu de ações - Delete Community', '']
+['', 'Para deletar communities. Siga os seguintes passos:1.\xa0Selecione a comunidade que se deseja deletar clicando na seleção[];2. Clique no ícone de Menu de ações[];3. Clique na opção “Delete Community”;Communities\xa0– Menu de ações – Delete Community.4. Surgirá uma mensagem de confirmação verificando se deseja deletar a comunidade selecionada:Communities - Delete community.Clique no botão Delete[]\xa0ou clique em Cancel[] para voltar ao painel anterior.Community deleted successfullyA comunidade foi removido com sucesso.', '']

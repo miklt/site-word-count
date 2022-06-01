@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Intrusion+Prevention
+113
+['', 'Aba Intrusion Prevention', '']
+['', 'O Intrusion Prevention System (IPS) é um módulos de prevenção de ataques e invasão, ele funciona analisando o fluxo do tráfego de modo a detectar e deter a explorações de vulnerabilidades na rede.', 'Para maiores informações sobre Instrusion Prevention, consulte o manual do Blockbit UTM. \xa0', 'Clique na aba “Intrusion Prevention”.Aba Intrusion PreventionSurgirá a Tela de “Intrusion Prevention”. Ela é composta pelas colunas “Name”, “Description”, “Version”,\xa0“Type”, “Processes” e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Profiles – Intrusion PreventionA seguir, o\xa0menu de ações\xa0será analisado e posteriormente nos aprofundaremos no conteúdo das\xa0colunas\xa0do painel\xa0Intrusion Prevention.', '']

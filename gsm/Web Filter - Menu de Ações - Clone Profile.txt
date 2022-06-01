@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327108
+89
+['', 'Web Filter - Menu de Ações - Clone Profile', '']
+['', 'Através da opção “Clone Profile” é possível clonar um novo perfil de\xa0Web Filter. Para acessar, clique no\xa0menu de ações [].Web Filter - Main Screen1.\xa0Clique na opção “Clone Profile”;Web Filter - Clone Profile2. A tela “Clone Profile” será exibida. Apenas confirme clique em "Confirm":Web Filter\xa0–\xa0Clone ProfileA seguinte tela aparecerá:Também é possível clonar um perfil de Web Filter clicando no botão Clone[].O perfil será clonado com sucesso.À seguir iremos analisar como remover um perfil de Web Filter.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817178
+96
+['', 'Templates - Menu de ações - Delete Templates', '']
+['', 'Através do botão “Delete Templates” é possível deletar vários Templates ao mesmo tempo. Para deletar através do menu de ações, siga os seguintes passos:1.\xa0Selecionar quais Templates deseja deletar;Templates – Seleção dos Templates que serão excluídos.2. Entre no Menu de ações\xa0[]\xa0e clique na opção “Delete Template”;Templates – Delete Template.3. Surgirá a mensagem se deseja realmente deletar os itens selecionados;Templates – Delete TemplateCaso desejar cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Template deleted successfullyApós realizar esses procedimentos os Templates serão excluídos com sucesso.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31326890
+88
+['', 'Templates - Menu de ações - Clone Template', '']
+['', 'Através do botão “Clone Template” é possível clonar um Template.1.\xa0Selecione qual Template deseja clonar. Ex.: Devices Branch office;Templates – Seleção dos Templates que serão clonados2. No Menu de ações [], clique na opção “Clone Template”;Clone Template3. Surgirá a mensagem se deseja realmente clonar os itens selecionados;Templates – Clone Template.Caso desejar cancelar clique no botão Cancel[]. Para concluir, clique no botão Confirm[].Também é possível clonar um Template clicando no botão Clone\xa0[].Template cloned successfullyOs templates foram clonados com sucesso.', '']

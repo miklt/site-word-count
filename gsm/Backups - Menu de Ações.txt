@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817381
+47
+['', 'Backups - Menu de Ações', '']
+['', 'No topo direito da tela temos o menu de ações:Backups – Botão do menu de açõesAo clicar neste botão o menu abaixo é exibido:Backups – Menu de açõesO menu possui as opções :Create Backup;Delete Backup.A seguir detalharemos cada opção do menu.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Provisioning+-+Colunas
+93
+['', 'Provisioning - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba\xa0Provisioning:ProvisioningName: Apresenta o nome do Device provisionado\xa0cadastrado;UUID: Apresenta o UUID do\xa0Device cadastrado;Progress: Exibe uma barra de progresso referente à implantação do device;Status:\xa0Exibe o estado atual da implantação do device;Created:\xa0Registra a data e o horário de quando o device foi adicionado neste painel;Actions: O menu “Actions” é composto por dois botões:Botão Edit[]: Permite editar as configurações do device adicionado na opção\xa0Create Device\xa0ou através do Provisionamento em Lote;Botão Delete[]: Deleta o device.', '']

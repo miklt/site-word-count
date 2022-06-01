@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817270
+48
+['', 'Provisioning - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Provisioning – Botão do menu de açõesAo clicar neste botão o menu abaixo é exibido:Provisioning – Menu de açõesO menu possui as opções :Create Device,Add Batch Provisioning.A seguir detalharemos cada opção do menu.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817399
+102
+['', 'Backup - Menu de ações - Delete Backup', '']
+['', 'Através do botão “Delete” é possível deletar várias Rotinas de Backup ao mesmo tempo. Para deletar através do menu de ações, siga os seguintes passos:1. Selecione qual Backup pretende remover, clicando em [], como demonstrado abaixo:Backups – Seleção das Rotinas de Backup que serão excluídas.2. Entre no Menu de ações\xa0[]\xa0e clique na opção “Delete Backup”;Backups – Delete backup.3. Surgirá a mensagem se deseja realmente deletar os itens selecionados;Backups – Delete BackupCaso desejar cancelar clique no botão []. Para concluir, clique no botão [].Backup deleted successfullyApós realizar esses procedimentos os Backup serão excluídos com sucesso.', '']

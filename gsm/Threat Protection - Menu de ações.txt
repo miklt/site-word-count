@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327047
+58
+['', 'Threat Protection - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Threat Protection\xa0– Botão do menu de ações.Ao clicar neste botão o menu abaixo é exibido:Threat Protection\xa0– Menu de açõesO menu é composto das seguintes opções:Create Profile;Clone Profile;Delete Profile.A seguir cada opção do menu de ações será detalhada.', '']

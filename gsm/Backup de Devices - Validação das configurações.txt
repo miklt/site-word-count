@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26830264
+115
+['', 'Backup de Devices - Validação das configurações', '']
+['', 'Para efetuar a validação do correto funcionamento das configurações de backup, basta conferir o status e o progresso dos backups na própria interface onde eles foram criados, segue um exemplo:Devices - Backups', 'Para mais informações sobre os componentes desta tela, consulte esta página.', 'Além disso, as operações efetuadas pelos backups geram logs de auditoria, como demonstrado na imagem à seguir:Administration - Audit Log', 'Para mais informações sobre os relatórios de auditoria, consulte esta página.', 'Por fim, durante o processo de backup também é possível verificar mais detalhes na CLI\xa0usando o comando de [debug-backup].CLI - debug-backupPara mais informações a respeito de backups de device, consulte esta página.', '']

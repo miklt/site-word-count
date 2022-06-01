@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Communities+-+Colunas
+74
+['', 'Communities - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba Communities:CommunitiesSelect []: Permite selecionar uma community.Name: Apresenta o nome da Community cadastrada;Description: Apresenta a descrição da Community cadastrada;Topology: Apresenta o tipo de topologia cadastrada;Devices: Exibe a quantidade de devices dentro da Community;Actions: Disponibiliza as seguintes ações essenciais:Botão Edit[]: Permite editar as configurações da\xa0community\xa0adicionada na opção\xa0Create Community\xa0do menu de ações;Botão Delete[]: Permite remover uma community.', '']

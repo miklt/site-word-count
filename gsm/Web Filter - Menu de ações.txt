@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327035
+57
+['', 'Web Filter - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Web Filter – Botão do Menu de AçõesAo clicar neste botão o menu abaixo é exibido:Web Filter – Menu de AçõesO menu é composto das seguintes opções:Create Profile;Clone Profile;Delete Profile.A seguir cada opção do menu de ações será detalhada.', '']

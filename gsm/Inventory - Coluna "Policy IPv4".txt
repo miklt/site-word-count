@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816895
+33
+['', 'Inventory - Coluna "Policy IPv4"', '']
+['', 'A coluna “IPV4 Policy” exibe o nome do pacote de política de IP aplicada no\xa0device. Ex.: Policies Branch Office.Inventory\xa0–\xa0Policy IPv4Para mais informações, cheque a sessão\xa0Policies.', '']

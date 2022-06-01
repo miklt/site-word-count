@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327173
+70
+['', 'Threat Protection - Menu de ações - Clone Profile', '']
+['', 'Através da opção “Clone Profile” é possível clonar um perfil de Threat Protection. Para acessar, clique no menu de ações [].Threat Protection\xa0- Main Screen1.\xa0Clique na opção “Clone Profile”;2. Para confirmar clique em "Confirm":Threat Protection - Clone confirmation screen.Threat Protection - Perfil clonado com sucesso.Também é possível clonar um perfil clicando no botão Clone\xa0[].A seguir, veremos como apagar um Perfil.', '']

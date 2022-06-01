@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817033
+117
+['', 'Communities - Menu de ações - Create Community - Devices', '']
+['', 'Na aba "Devices" os seguintes campos são exibidos:Communities – Create Community - Devices.Name: Onde é exibido o nome do device;Role: Onde o papel do device\xa0utilizado pela VPN é exibido, pode ser Hub ou Spoke;Actions:\xa0Nesta coluna estão presentes dois botões de ação:Edit[]:\xa0Este botão permite editar editar as configurações dos devices\xa0adicionados na opção\xa0Add device\xa0do menu de ações;Delete[]: Este botão remove o device.', 'ATENÇÃO:\xa0Ao adicionar os devices, caso um deles for configurado como hub, será criado automaticamente uma topologia site-to-site Star. Porém, caso todos os devices forem configurados como spoke será criado automaticamente uma topologia site-to-site full-meshed.', '', '']

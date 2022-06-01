@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817146
+56
+['', 'Templates - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Templates – Botão do menu de ações.Ao clicar neste botão o menu abaixo é exibido:Templates\xa0– Menu de ações.O menu é composto das seguintes opções:Create Template;Delete Templates;Clone Template.A seguir cada opção do menu de ações será detalhada.', '']

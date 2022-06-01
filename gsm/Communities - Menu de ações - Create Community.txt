@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26816958
+70
+['', 'Communities - Menu de ações - Create Community', '']
+['', 'Para criar Community, siga os seguintes passos:1.\xa0Clique no menu de ações [];2. Clique na opção “Create Community”;Communities – Menu de ações – Create Community.3. O painel “Create Community” será exibido. Com a aba lateral "General" pré-selecionada.Communities – Create Community - General.O painel "Create community" é composto pelas abas:General;Encryption;Advanced;Devices.A seguir analisaremos o painel "Create community" em detalhes.', '']
