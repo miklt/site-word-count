@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Delete+Server
+58
+['', 'Delete Server', '']
+['', 'O botão “Delete Server” do menu de ações serve para remover servidores que foram previamente selecionados ao clicar na caixa de seleção. Depois de selecionar essa opção, uma mensagem de verificação aparecerá requisitando a confirmação.Delete ServerAo clicar [], os servidores selecionados serão removidos. Caso clique em [] essa mensagem de verificação será dispensada sem efetuar nenhuma remoção.', '']

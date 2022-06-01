@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466693
+40
+['', '[show-uuid]', '']
+['', 'Utilizado para exibir o número de identificação do Blockbit GSM. Esse ID é utilizado na identificação do hardware para validação da licença de uso.Modo de uso: [Saída padrão do comando]:Figura 576 – Command Line Interface – show-uuid.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/User+Behavior+-+Analysis+Panel
+48
+['', 'User Behavior - Analysis Panel', '']
+['', 'Em “Analysis Panel” temos um resumo de várias informações citadas nos relatórios previamente analisados, porém desta vez, aplicados especificamente ao usuário em questão.Para mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.User Behavior - Analysis Panel', '']

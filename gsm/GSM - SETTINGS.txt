@@ -1,4 +1,4 @@
-https://docs.blockbit.com/display/RC/GSM+-+SETTINGS?src=contextnavpagetreemode
+https://docs.blockbit.com/display/RC/GSM+-+SETTINGS
 26
 ['', 'GSM - SETTINGS', '']
 ['', 'Através do menu “Settings” é possível alterar e verificar as configurações administrativas, do sistema e da rede.Menu SettingsContém as opções:System;Network;Administration.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466604
+32
+['', '[logger-devices-add]', '']
+['', 'Utilizado para adicionar devices no logger, é necessário passar o caminho da device para poder executar a adição.Modo de uso:Figura 547 – Command Line Interface – logger-devices-add.', '']

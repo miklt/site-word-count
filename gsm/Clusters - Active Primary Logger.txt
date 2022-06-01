@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Clusters+-+Active+Primary+Logger
+126
+['', 'Clusters - Active Primary Logger', '']
+['', 'Ao clicar no botão\xa0Active Primary Logger\xa0[] uma mensagem de confirmação será exibida na tela, conforme demonstrado abaixo:', '\xa0Como mencionado no e-mail recebido em um evento de failover, a logger primária deverá ser ativada manualmente quando houver garantia de que a mesma está estável, evitando assim a perda de logs durante a instabilidade.', 'Clusters - Activate LoggerClique em\xa0[] para ativar o Logger Primário manualmente e deixar o Logger secundário em Standby. Caso contrário, clique em\xa0[] para fechar esta janela.Ao ativar o logger, a seguinte confirmação será exibida:Mensagem de ativação do LoggerO procedimento descrito nesta página é muito similar ao efetuado no botão\xa0Active Replica Logger.Para mais informações sobre as outras opções exibidas nas colunas em Clusters, consulte esta página.', '']

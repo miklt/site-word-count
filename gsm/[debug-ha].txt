@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26828580
+27
+['', '[debug-ha]', '']
+['', 'Este comando tem como função exibir os logs de debug dos serviços de Alta Disponibilidade (H.A.).Modo de uso:Command Line Interface – debug-ha', '']

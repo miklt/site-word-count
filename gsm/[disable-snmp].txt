@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26830448
+22
+['', '[disable-snmp]', '']
+['', 'Desabilita o serviço de SNMP.Modo de uso:Command Line Interface – disable-snmp', 'Desabilita apenas o serviço, as configurações permanecerão.', '', '']

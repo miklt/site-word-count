@@ -5,6 +5,9 @@ import json
 from collections import Counter
 from string import punctuation
 from nltk.tokenize import RegexpTokenizer
+import numpy as np
+import matplotlib.pyplot as plt
+
 
 from playwright.sync_api import sync_playwright
 
@@ -71,6 +74,25 @@ def count_header_and_main(base_url):
         texto.append(bla)
     return (base_url,contador,headers,contents)
 
+def info(arquivo):
+    with open(arquivo,encoding='utf8') as fp:
+        dados = json.load(fp)
     
+    words = []
+    n_words = 0
+    for r in dados:
+        words.append(r['count'])
+        n_words += r['count']
+    a = np.array(words)
+    print('median:',np.median(a))
+    print('average:',np.average(a))
+    print('mean',np.mean(a))
+    print('qtd:',len(words))
+
+    
+    plt.scatter(range(len(a)),np.sort(a))
+    plt.title("qtd palavras x página")   
+    
+    plt.show()
     
 

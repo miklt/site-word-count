@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327192
+72
+['', 'Intrusion Prevention - Menu de Ações - Clone Profile', '']
+['', 'Através da opção “Clone Profile” é possível clonar um perfil de Intrusion Prevention. Para acessar, clique no menu de ações [].Intrusion Prevention - Main screen.1.\xa0Clique na opção “Clone Profile”:Intrusion Prevention\xa0- Clone Profile2. Para confirmar, clique em "Confirm":\xa0Intrusion Prevention - Tela de Confirmação.Perfil clonado com sucesso.Também é possível clonar um perfil clicando no botão Clone\xa0[].A seguir veremos como Deletar um Perfil.', '']

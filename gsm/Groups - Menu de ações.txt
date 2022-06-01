@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465545
+59
+['', 'Groups - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Groups\xa0– Botão do Menu de ações.Ao clicar neste botão o menu abaixo é exibido:Groups\xa0– Menu de ações.O menu é composto das seguintes opções:Create Group;Delete Group;Select All e Deselect All.A seguir cada opção do menu de ações será detalhada.', '']

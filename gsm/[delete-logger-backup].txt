@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26830454
+22
+['', '[delete-logger-backup]', '']
+['', 'Esse comando tem como função apagar o storage da Logger.Modo de Uso:Command Line Interface\xa0-\xa0delete-logger-backup', '']

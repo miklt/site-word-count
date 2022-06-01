@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration+-+Auth+Server+-+Colunas
+111
+['', 'Administration - Auth Server - Colunas', '']
+['', 'A seguir detalharemos cada coluna da aba Servers:Administration - Aba Auth\xa0ServersSelect[]: Permite selecionar um ou mais servidores;Primary: Define o endereço IP do servidor primário;Secondary: Define o endereço IP do servidor secundário;Type: Exibe o tipo escolhido ao criar o servidor, podendo ser LDAP ou RADIUS;Actions: Disponibiliza as seguintes funções essenciais:Edit[]: Permite editar um dos servidores criados na opção Create Radius\xa0ou Create LDAP no menu de ações;Test Connection[]: Permite testar a conectividade de um servidor;Test Authentication[]: Permite testar caso a autenticação de um usuário no servidor está ocorrendo corretamente, cheque esta página para mais informações;Delete[]: Permite deletar um servidor.', '']

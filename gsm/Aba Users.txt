@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Users
+83
+['', 'Aba Users', '']
+['', 'Esta aba tem como função administrar os usuários do UTM.\xa0A aba “Users” já deve estar selecionada automaticamente, caso contrário, clique nela:Aba "Users".Surgirá a Tela de Users.\xa0Ela é composta pelas colunas “Login”, “Name”, “E-mail”, "Device" e “Used”. Além disso, no topo direito da tela está localizada a\xa0barra de busca\xa0e o\xa0menu de ações.Users – Tela principal Users.A seguir, o\xa0menu de ações\xa0será analisado e posteriormente nos aprofundaremos no conteúdo das\xa0colunas\xa0do painel.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466530
+53
+['', '[ethtool]', '']
+['', 'Utilizado para apresentar e detalhar informações referente às interfaces de rede, verificar as interfaces online, offline, alterar velocidade, alterar forma de negociação e verificar qual interface está localizada fisicamente.\xa0Modo de uso:Figura 521 – Command Line Interface – ethtool.Exemplo: Identificar uma interface de rede específica:Figura 522 – Command Line Interface – ethtool - Exemplo.', '']

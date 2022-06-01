@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466571
+61
+['', '[ifconfig]', '']
+['', 'Utilizado para configurar e manter as configurações da interface. Pode ativar, desativar e listar o status de cada uma das interfaces. Também pode ser utilizado para otimizar a configuração do sistema.Modo de uso:Figura 534 – Command Line Interface – ifconfig.Exemplo: Exibir as informações sobre todas as interfaces de rede, ativas e desabilitadas:Figura 535 – Command Line Interface – ifconfig - Exemplo.', '']

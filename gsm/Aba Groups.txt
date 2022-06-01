@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Groups
+96
+['', 'Aba Groups', '']
+['', 'Esta aba tem como função criar e editar grupos de usuários do UTM.\xa0Para acessar a tela, basta selecionar a aba "Groups".Users – User GroupsSurgirá a Tela de User Groups. Ela é composta pelo menu de ações\xa0e os User Groups já criados, sendo que estes estarão ordenados nas colunas "Name", "Type", "Device Name", "Used" e "Actions".\xa0Além disso, no topo direito da tela está localizada a\xa0barra de busca\xa0e o\xa0menu de ações.Users - GroupsA seguir, o\xa0menu de ações\xa0será analisado e posteriormente nos aprofundaremos no conteúdo das\xa0colunas\xa0do painel.', '']

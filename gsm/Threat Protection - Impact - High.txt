@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Threat+Protection+-+Impact+-+High
+91
+['', 'Threat Protection - Impact - High', '']
+['', 'Em “Impact - High” temos um gráfico de rosca exibindo a porcentagem de ameaças de alto impacto, seguido de um diagrama de colunas exibindo quantas destas mesmas ocorreram dentro do prazo previamente selecionado em comparação com o tráfego de rede do dia. Além disso, uma lista é exibida com as 10 ameaças de alto impacto mais recorrentes, exibindo seu nome e listando-as por quantidade de recorrências.Para mais informações a respeito\xa0da barra de busca presente no topo deste gráfico cheque esta\xa0página.Threat Protection – Impact High', '']

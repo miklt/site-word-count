@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=38961153
+57
+['', 'Administration - Aba "Access Control"', '']
+['', 'Em Access Control é possível criar políticas que restringem o acesso a interface gerencial do GSM, de modo a garantir apenas que IPs específicos possam ter acesso a tal interface\xa0Access ControlNesta seção é possível controlar por meio de atribuição de IP ou whitelist os usuários que terão acesso ao controle do GSM.', '']

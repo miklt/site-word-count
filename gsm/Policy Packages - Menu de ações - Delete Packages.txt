@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817619
+115
+['', 'Policy Packages - Menu de ações - Delete Packages', '']
+['', 'Através do botão “Delete Packages” é possível deletar vários pacotes instalados ao mesmo tempo. Para deletar pelo menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) pacote(s) deseja deletar clicando no checkbox[] localizado no menu action. Ex.: Policies Branch office;Policy Packages\xa0– Delete Packages.2. Entre no menu de ações\xa0[]\xa0e clique no botão “Delete Packages”.Policy Packages – Menu de ações – Delete Packages.3. Surgirá a mensagem se deseja realmente deletar os pacotes selecionados:Policy Packages – Delete Policy Package?Caso deseje cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Package deleted succesfullyApós realizar esses procedimentos os pacotes terão sido excluídos com sucesso.', '']

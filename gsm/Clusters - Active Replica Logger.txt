@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Clusters+-+Active+Replica+Logger
+91
+['', 'Clusters - Active Replica Logger', '']
+['', 'Ao clicar no botão\xa0Active Replica Logger [] uma mensagem de confirmação será exibida na tela, conforme demonstrado abaixo:Clusters - Activate Replica LoggerClique em\xa0[] para ativar o Logger\xa0secundário manualmente e deixar o Logger\xa0primário em Standby. Caso contrário, clique em\xa0[] para fechar esta janela.Ao ativar o logger, a seguinte confirmação será exibida:Mensagem de ativação do LoggerO procedimento descrito nesta página é muito similar ao efetuado no botão\xa0Active Primary Logger.Para mais informações sobre as outras opções exibidas nas colunas em Clusters, consulte esta página.', '']

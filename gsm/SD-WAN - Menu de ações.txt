@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327071
+109
+['', 'SD-WAN - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:SD-WAN\xa0– Botão do Menu de açõesAo clicar neste botão o menu abaixo é exibido:SD-WAN – Menu de açõesO menu é composto das seguintes opções:Create Profile;Clone Profile;Delete Profile.A seguir cada opção do menu de ações será detalhada.No topo direito da tela temos o menu de ações:SD-WAN\xa0– Botão do Menu de açõesAo clicar neste botão o menu abaixo é exibido:SD-WAN – Menu de açõesO menu é composto das seguintes opções:Create Profile;Clone Profile;Delete Profile.A seguir cada opção do menu de ações será detalhada.', '']

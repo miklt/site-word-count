@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819241
+69
+['', 'Administrators - Menu de Ações - Delete User', '']
+['', 'O botão “Delete User” do menu de ações serve para remover usuários que foram previamente selecionados ao clicar na caixa de seleção. Como demonstrado abaixo:Administration - Seleção para remoçãoDepois de selecionar essa opção, uma mensagem de verificação aparecerá requisitando a confirmação.Delete UserAo clicar em [], os usuários selecionados serão removidos. Caso clique em [] essa mensagem de verificação será dispensada sem efetuar nenhuma remoção.', '']

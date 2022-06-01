@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12464864
+85
+['', 'Objects - Addresses - Menu de ações - Create Object', '']
+['', 'Através da opção “Create Object” é possível criar um novo Object Address. Para acessar, siga os passos:1.\xa0No menu\xa0de ações [], clique na opção “Create Object”;Objects – Addresses – Create Object2. Surgirá a tela Create Addresses Object. Preencha os campos:Objects – Create Addresses ObjectÉ possível criar endereços do tipo IPv4, IPv6, Mac e FQDN. Segue alguns exemplos:Exemplo 1 - Criando Objeto de Endereço IPv4;Exemplo 2 - Criando Objeto de Endereço IPv6;Exemplo 3 - Criando Objeto de Endereço Físico.', '']

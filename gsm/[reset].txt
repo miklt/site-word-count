@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466657
+15
+['', '[reset]', '']
+['', 'Utilizado para resetar o sistema.Modo de uso:Figura 561 – Command Line Interface – reset.', '']

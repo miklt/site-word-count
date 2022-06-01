@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466631
+50
+['', '[ntpdate]', '']
+['', 'Utilizado para ajustar a data e a hora local do seu dispositivo consultando servidores NTP (Network Time Protocol) disponíveis na rede.Modo de uso:Figura 556 – Command Line Interface – ntpdate.Exemplo: Atualizar a data e a hora com os servidores NTP público:Figura 557 – Command Line Interface – ntpdate – Exemplo.', '']

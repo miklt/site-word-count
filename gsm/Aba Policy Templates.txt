@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Policy+Templates
+96
+['', 'Aba Policy Templates', '']
+['', 'Esta seção irá demonstrar como criar Policies Templates que poderão ser reutilizadas posteriormente para um novo pacote de políticas.Clique na aba “Policy Templates”.Policy TemplatesSurgirá a Tela “Policy Templates”. Ela é composta pelas colunas “Name”, “Type”, “Version”\xa0e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Policies – Policy TemplatesEsta seção irá demonstrar como:Cadastrar\xa0e\xa0Remover\xa0pacotes de política;Administrar grupos de políticas;Etc.A seguir serão explicadas as colunas de\xa0Policy Template\xa0e posteriormente as ações do menu serão analisadas.', '']

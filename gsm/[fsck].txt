@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466548
+38
+['', '[fsck]', '']
+['', 'Utilizado para verificar e corrigir erros em discos e sistemas de arquivos.Modo de uso:Figura 528 – Command Line Interface – fsck.Exemplo: Verificar se existem possíveis erros em determinada partição:Figura 529 – Command Line Interface – fsck - Exemplo.', '']

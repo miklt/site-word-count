@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817725
+123
+['', 'Policy Manager - Menu de ações - Delete Groups', '']
+['', 'O botão “Delete Policies” deleta os Grupos de Políticas selecionadas.', 'Atenção: Ao deletar o grupo, todas as políticas que estiverem dentro dele serão deletadas também.', 'Para deletar, siga os passos:1.\xa0Selecione o(s) grupo(s) de Política(s) que deseja deletar. Para selecionar, clique com o mouse no checkbox. Nos grupos selecionados o checkbox mudará da cor cinza para azul []. Ex.: Administrator CLI;Política selecionada para ser deletada.2. No Menu Actions, clique na opção “Delete Groups”;Policy Manager – Menu de ações – Delete Policies.3. Surgirá a tela perguntando se deseja deletar o grupo:Policy Manager – DeleteCaso desejar cancelar, clique no botão Cancel[]. Para concluir, clique no botão Delete[].O grupo foi removido com sucesso.', '']

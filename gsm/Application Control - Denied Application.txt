@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Application+Control+-+Denied+Application
+23
+['', 'Application Control - Denied Application', '']
+['', 'Já em “Application Denied”, mostra-se uma somatória das aplicações que tiveram seu acesso negado.Application Control – Denied\xa0Application', '']

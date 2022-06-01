@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466689
+18
+['', '[show-license]', '']
+['', 'Exibe informações a respeito da licença.Modo de uso:Figura 943 - Command Line Interface – show-license.', '']

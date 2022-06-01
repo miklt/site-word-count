@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466625
+50
+['', '[more]', '']
+['', 'Utilizado para fazer a paginação de\xa0arquivos\xa0ou de uma entrada padrão. É possível direcionar a saída de outro comando usando o pipe “|”.Modo de uso: Utilizar o comando more como saída de outro comando que devolve uma quantidade de informações muito extensa.Figura 554 – Command Line Interface – more.', '']

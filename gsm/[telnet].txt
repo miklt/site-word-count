@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466713
+108
+['', '[telnet]', '']
+['', 'Utilizado para acesso remoto e testes de simulação de um terminal. Pode ser utilizado para teste de resposta de conexão de um serviço e até testes de envio de uma mensagem de e-mail.Modo de uso:Figura 582 – Command Line Interface – telnet.Exemplo: [Saída padrão do comando]:Figura 583 – Command Line Interface – telnet – Exemplo.Exemplo 1: Testes de conexão com um serviço remoto Ts (terminal Service) em uma porta específica:Figura 584 – Command Line Interface – telnet – Exemplo 1.Exemplo 2: Testes de conexão com um serviço remoto em uma porta específica com a resposta de falha na conexão:Figura 585 – Command Line Interface – telnet – Exemplo 2.', '']

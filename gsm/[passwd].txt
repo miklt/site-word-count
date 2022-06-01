@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466636
+23
+['', '[passwd]', '']
+['', 'Utilizado para definição ou alteração da senha do usuário “admin” padrão do console.Modo de uso:Figura 558 – Command Line Interface – passwd.', '']

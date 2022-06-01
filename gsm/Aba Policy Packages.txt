@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+Policy+Packages
+93
+['', 'Aba Policy Packages', '']
+['', 'Esta seção irá demonstrar como criar pacotes de políticas que, posteriormente, serão instalados nas devices.Caso não esteja já selecionado, clique na aba "Policy Packages";Aba "Policy Packages"Surgirá a Tela de “Policy Packages”. Ela é composta pelas colunas “Name”, “Description”, “Type”, “Version”, “Policies” e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Policies – Policy PackagesEsta seção irá demonstrar como:Cadastrar\xa0e\xa0Remover\xa0pacotes de política;Administrar grupos de políticas;Etc.A seguir, vamos analisar cada componente deste painel.', '']

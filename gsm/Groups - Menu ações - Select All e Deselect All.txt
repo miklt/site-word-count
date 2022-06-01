@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465585
+56
+['', 'Groups - Menu ações - Select All e Deselect All', '']
+['', 'Ao clicar em “Select All” no menu de ações todos os grupos de usuários serão selecionados.Groups – Select AllIsso permite a fácil implementação de uma ação que afete todos os grupos de usuários.A função de “Deselect All” é simplesmente o contrário: Remover todas as seleções feitas previamente.', '']

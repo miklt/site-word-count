@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466663
+74
+['', '[route]', '']
+['', 'Utilizado para exibir e manipular a tabela de roteamento de endereços\xa0IP.Modo de uso:Figura 567 – Command Line Interface – route.', 'Rotas estáticas adicionadas através da console CLI (linha de comando) não são salvas e não são carregadas após o boot.', 'Exemplo 1.: [Saída padrão do comando]:Figura 568 – Command Line Interface – route – Exemplo 1.Exemplo 2: Configurando um roteamento estático para uma rede estendida:Figura 569 – Command Line Interface – route – Exemplo 2.', '']

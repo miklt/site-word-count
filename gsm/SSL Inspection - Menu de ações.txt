@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327065
+59
+['', 'SSL Inspection - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:SSL Inspection\xa0– Botão do Menu de Ações.Ao clicar neste botão o menu abaixo é exibido:SSL Inspection\xa0– Menu de Ações.O menu é composto das seguintes opções:Create Profile;Clone Profile;Delete Profile.A seguir, cada opção do menu de ações será detalhada.', '']

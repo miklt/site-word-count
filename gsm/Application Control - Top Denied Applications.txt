@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Application+Control+-+Top+Denied+Applications
+112
+['', 'Application Control - Top Denied Applications', '']
+['', 'No painel “Top Denied\xa0Applications” temos o exato oposto da sessão anterior: Um gráfico representando as dez aplicações que tiveram seu acesso negado em relação ao período de tempo previamente especificado, abaixo desse gráfico, temos uma listagem dos nomes destas dez aplicações classificadas por ordem de maior quantia de acessos e suas respectivas categorias.Para mais informações a respeito do menu de navegação e da barra de busca presente no topo deste gráfico cheque esta\xa0página.Application Control – Top\xa0Denied ApplicationsAo passar o mouse por cima do gráfico, um resumo do período é exibido, conforme demonstrado na imagem abaixo:Application Control – Top\xa0Denied Applications - Resumo do período', '']

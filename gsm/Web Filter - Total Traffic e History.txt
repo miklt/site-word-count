@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Web+Filter+-+Total+Traffic+e+History
+66
+['', 'Web Filter - Total Traffic e History', '']
+['', 'O painel “Total\xa0Traffic” demonstra o valor total de tráfego em Megabytes. Logo abaixo, é exibido o histórico em um gráfico de barras demonstrando a quantia de Megabytes trafegados por dia.Web Filter – Total\xa0TrafficAo passar o mouse por cima do gráfico, um resumo do período é exibido, conforme demonstrado na imagem abaixo:Web Filter – Total\xa0Traffic - Resumo do período', '']

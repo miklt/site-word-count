@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=31327234
+74
+['', 'SD-WAN - Menu de ações - Clone Profile', '']
+['', 'Através da opção “Clone Profile” é possível clonar um perfil de SD-WAN. Para acessar, clique no Menu\xa0de ações\xa0[].SD-WAN - Main Screen.1.\xa0Clique na opção “Clone Profile”:SD-WAN - Clone Profile.2. Para confirmar clique em "Confirm":SD-WAN - Clone.Perfil de SD-WAN clonado com sucesso.Também é possível clonar um perfil, clicando no botão Clone\xa0[].A seguir, veremos como Deletar um Perfil.', '']

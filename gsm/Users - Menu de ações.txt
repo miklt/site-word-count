@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465495
+58
+['', 'Users - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Users\xa0– Botão do Menu de ações.Ao clicar neste botão o menu abaixo é exibido:Users\xa0– Menu de ações.O menu é composto das seguintes opções:Add to Group;Select All e Deselect All.A seguir cada opção do menu de ações será detalhada.', '']

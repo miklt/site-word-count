@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465683
+125
+['', 'Firewall – Top User', '']
+['', 'Em “Top User” tem-se um diagrama demonstrando por data quando houve o maior tráfego de rede e uma lista exibindo\xa0dez usuários classificados por ordem de uso de Gigabytes.\xa0Ao passar o mouse por cima do gráfico, o tráfego de rede em Gigabytes\xa0de um determinado período é exibido, conforme demonstrado na imagem abaixo.\xa0Por fim, ao clicar em um desses usuários ou\xa0IPs, você será redirecionado para Events\xa0usando o item que foi clicado como filtro, criando assim, um relatório mais específico de modo a ter uma visão mais precisa a respeito do usuário selecionado.Para mais informações a respeito do menu de navegação e da barra de busca presente no topo deste gráfico cheque esta\xa0página.Firewall\xa0– Top User', '']

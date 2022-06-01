@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466745
+38
+['', '[vmstat]', '']
+['', 'Utilizado para relatar informações sobre processos, memória, paginação, I/O de blocos e atividades da CPU.Modo de uso:Figura 593 – Command Line Interface – vmstat.Exemplo: Saída padrão do comando:Figura 594 – Command Line Interface – vmstat - Exemplo.', '']

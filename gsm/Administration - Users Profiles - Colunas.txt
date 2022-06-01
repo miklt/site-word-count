@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration+-+Users+Profiles+-+Colunas
+61
+['', 'Administration - Users Profiles - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba Users Profiles:ProfilesSelect[]: Permite selecionar um ou mais profiles;Profile:\xa0Exibe o nome dos profiles de administradores criado em Create Profile;Actions:\xa0Disponibiliza as seguintes ações essenciais:Edit[]: Permite editar um dos\xa0profiles\xa0criados na opção\xa0Create Profile;Delete[]: Permite deletar um profile, é o equivalente à opção Delete Profile.', '']

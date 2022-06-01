@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Objects+-+Contents
+99
+['', 'Objects - Contents', '']
+['', 'Os objetos do tipo Contents\xa0são compostos por agrupamentos de tipos de aplicações baseados no tipo de conteúdo que especificam sua característica. Ex.: “ActiveX”, “Compactados”, “Executáveis”, “Imagens”, “Javascript”, “Multimedia” e “Office”.Para acessar a tela, basta selecionar o botão “Objects”.Botão “Objects”Clique na aba “Contents”.Objects – ContentsSurgirá a tela “Contents”. Ela é composta pelas colunas “Select”, “Name”, “Description”, "Type", "Used" e “Actions”. Além disso, no topo da tela está localizada a barra de busca e o menu de ações à direita.Objects - ContentsExplicaremos em detalhes o menu de ações\xa0e posteriormente\xa0as colunas da aba "Contents".', '']

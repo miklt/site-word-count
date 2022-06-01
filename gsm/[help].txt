@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466560
+22
+['', '[help]', '']
+['', 'Utilizado para exibir uma lista de todos os comandos disponíveis na interface.\xa0Modo de uso:Figura 530 – Command Line Interface – help.', '']

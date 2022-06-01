@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465570
+122
+['', 'Groups - Menu de Ações - Delete Group', '']
+['', 'Através do botão “Delete Group” é possível deletar grupos criados. Para acessar, clique no Menu de ações[].1.\xa0Selecione o Grupo que deseja deletar. Para selecionar, clique com o mouse no checkbox ao lado da coluna Name. No grupo selecionado, o checkbox mudará da cor cinza para azul []. Ex.: Administrator e Store Managers;Users - Groups – Grupos que deseja deletar2. No menu de ações [], clique na opção “Delete Groups”;Users - Groups – Menu de ações - Delete Groups3. Surgirá a mensagem se deseja deletar os item(s):User - Groups – Mensagem se deseja deletar os gruposClique no botão Cancel[] para cancelar. Clique no botão Delete[] para deletar os grupos selecionados.Groups deleted successfullyO(s) grupo(s) foram deletados com sucesso.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Groups+-+Colunas
+114
+['', 'Groups - Colunas', '']
+['', 'Surgirá a Tela de User Groups. Ela é composta pelo Menu Actions e os User Groups já criados no UTM, sendo que estes estarão ordenados pelo Menu Actions e seis colunas. Segue uma breve descrição das colunas:Users –\xa0GroupsSelect[]:\xa0Seleciona os grupos desejados;Name: Nome do grupo;Type: Determina o tipo de IP;Device Name: Mostra em qual device o Grupo foi cadastrado;Used: Enumera o número de vezes que este grupo foi utilizado nas Policies Manager.Actions:\xa0Compõe os botões:Edit[]:\xa0Permite editar as configurações do\xa0grupo\xa0adicionado na opção\xa0Create Object\xa0do menu de ações;Delete[]: Remove o grupo.Na sessão a frente explicaremos em detalhe o menu de ações.', '']

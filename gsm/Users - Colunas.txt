@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users+-+Colunas
+76
+['', 'Users - Colunas', '']
+['', 'A tela é composta pelo menu de ações\xa0e seis colunas. Segue uma breve descrição das colunas:Users –\xa0Users.Select[]:\xa0Seleciona os usuários desejados;Login: Login do usuário. Ex.: user1@blockbit.com;Name: Nome do usuário. Ex.: user1;E-mail: E-mail do usuáro. Ex.: user1@blockbit.com;Device: Mostra em qual device o User foi cadastrado. Ex.: Branch Office;Used: Enumera o número de vezes que este grupo foi utilizado nas Policies Manager.', '']

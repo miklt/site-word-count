@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Web+Filter+-+Top+Users
+97
+['', 'Web Filter - Top Users', '']
+['', 'Assim como as outras listas “Top Users”, em Web Filter temos uma listagem de dez usuários classificados por ordem de maior quantia de acessos e seu respectivo uso em Gigabytes.\xa0Por fim, ao clicar em um desses usuários ou\xa0IPs, você\xa0será redirecionado para\xa0Events\xa0usando o item que foi clicado como filtro, criando assim, um relatório mais específico de modo a ter uma visão mais precisa a respeito do usuário selecionado.Para mais informações a respeito da barra de busca presente no topo deste gráfico cheque esta\xa0página.Web Filter – Top Users', '']

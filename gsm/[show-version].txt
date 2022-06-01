@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466696
+18
+['', '[show-version]', '']
+['', 'Comando para obter informações da versão.Modo de uso:Figura 946 - Command Line Interface – show-version.', '']

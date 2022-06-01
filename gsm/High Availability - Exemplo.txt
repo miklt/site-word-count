@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/High+Availability+-+Exemplo
+100
+['', 'High Availability - Exemplo', '']
+['', 'Esta seção irá apresentar o passo a passo para configuração de um servidor primário e secundário H.A.', 'Para mais informações a respeito de H.A.\xa0consulte esta página.', 'Essa demonstração levará em consideração a seguinte estrutura:High Availability - EstruturaOs seguintes\xa0IPs\xa0serão utilizados neste exemplo:High Availability\xa0- Endereçamento IPNomeEndereço\xa0IP\xa0 \xa0 IP VirtualPrimary Cluster172.31.207.81172.31.207.80\xa0 \xa0 \xa0 \xa0 \xa0 \xa0Secondary Cluster172.31.207.82Os passos que tomaremos nesta demonstração serão:1.\xa0Configuração do Cluster Primário;2. Configuração do Cluster Secundário;3. Validação das Configurações de H.A.Iniciaremos a demonstração configurando as interfaces do Cluster Primário.', '']

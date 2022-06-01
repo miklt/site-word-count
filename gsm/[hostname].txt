@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466566
+45
+['', '[hostname]', '']
+['', 'Utilizado para exibir ou alterar o nome de host do seu dispositivo Blockbit\xa0UTM.Modo de uso:Figura 532 – Command Line Interface – hostname.Exemplo: Utilizar o comando para exibir o nome atual do seu dispositivo Blockbit\xa0UTM:Figura 533 – Command Line Interface – hostname - Exemplo.', '']

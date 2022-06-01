@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Objects+-+Services+-+Object+Mapping
+67
+['', 'Objects - Services - Object Mapping', '']
+['', 'Ao clicar no ícone de quantas vezes um objeto foi utilizado\xa0[]\xa0a janela Object Mapping é exibida.A função da janela object mapping é exibir onde o objeto foi utilizado.No exemplo abaixo, o objeto foi utilizado no Template de device nomeado Device Stores.Object MappingAlém disso, ao clicar no link, é feito um redirecionamento diretamente para onde o objeto está sendo utilizado.', '']

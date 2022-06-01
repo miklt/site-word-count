@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466610
+19
+['', '[logger-disable]', '']
+['', 'Comando para desabilitar o logger no pool.Modo de uso:Figura 549 – Command Line Interface – logger-disable.', '']

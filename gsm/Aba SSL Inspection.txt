@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+SSL+Inspection
+111
+['', 'Aba SSL Inspection', '']
+['', 'O SSL Inspection atua interceptando o tráfego SSL e inspecionando conteúdo\xa0criptografado, utilizando-se deste recurso é possível selecionar o conteúdo que se deseja inspecionar através de políticas de conformidade.', 'Para maiores informações sobre SSL Inspection, consulte esta página do manual do Blockbit UTM. \xa0', 'Clique na aba “SSL Inspection”.Aba SSL InspectionSurgirá a Tela de “SSL Inspection”. Ela é composta pelas colunas “Name”, “Description”, “Mode”, “Version”\xa0e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Profiles – SSL InspectionA seguir, o menu de ações será analisado e posteriormente nos aprofundaremos no conteúdo das\xa0colunas do painel\xa0SSL Inspection.', '']

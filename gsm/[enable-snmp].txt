@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819800
+108
+['', '[enable-snmp]', '']
+['', 'Habilita e configura o SNMP (SNMPv1, SNMPv2 ou SNMPv3).Modo de uso:Command Line Interface – enable-snmpApós confirmar a configuração acima, é exibido as configurações abaixo:Command Line Interface – enable-snmp – Exemplo de configuraçõesAs informações obtidas através do SNMP podem ser melhor visualizadas através do Zabbix, para mais informações a respeito acesse esta página. Atente que caso deseje utilizar o Zabbix o nome da sua comunidade não pode possuir espaços. Ex.: Community Name: Blockbit Community.', 'Para mais informações sobre notificações via SNMP, consulte esta página.', '', 'Caso deseje usar um community name com espaços no Zabbix, será necessário nomeá-la entre aspas. Ex.: Community Name: "Blockbit Community"', '', '']

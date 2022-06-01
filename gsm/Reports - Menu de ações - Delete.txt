@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466115
+125
+['', 'Reports - Menu de ações - Delete', '']
+['', 'Através do botão “Delete” é possível deletar os Reports selecionados. Para deletar através do Menu de ações, siga os seguintes passos:1.\xa0Selecione qual(is) Report(s) deseja deletar. Para selecionar, basta clicar com o mouse no checkbox que fica localizado ao lado do Name. Nos reports selecionados o checkbox mudará da cor cinza para azul []. Ex.: Test;Reports – Seleção dos Reports para deletar2. Entre no menu de ações\xa0[]\xa0e clique na opção “Delete”.Reports – Delete3. Surgirá a mensagem de notificação questionando se deseja realmente deletar os Reports\xa0selecionados:Reports – Mensagem de deleção do\xa0ReportCaso desejar cancelar clique no botão Cancel[]. Para concluir, clique no botão Delete[].Profile deleted successfullyApós realizar esses procedimentos, os reports\xa0terão sido deletados com sucesso.', '']

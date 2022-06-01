@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465508
+129
+['', 'Users - Menu de ações - Add to Group', '']
+['', 'Através da opção “Add to Group” é possível adicionar um novo usuário ao Grupo. Para acessá-lo, siga os passos:1.\xa0Selecione o(s) usuário(s) que deseja adicionar. Para selecionar, clique com o mouse no checkbox ao lado da coluna “Used”. Nos usuários selecionados o checkbox mudará para a cor azul []. Ex.: user1@blockbit.com e user2@blockbit.com;Users – Seleção dos usuários para serem adicionados2. No menu de ações\xa0[]\xa0clique na opção “Add to group”;Users – Add to group.3. Defina em qual grupo deseja adicionar. É possível selecionar um ou mais grupos para adicionar. Ex.: Administrators;Users – Add users to group.Clique no botão Save[] para Salvar.Users added successfully to groupO usuário foi adicionado ao Grupo com sucesso.', '']

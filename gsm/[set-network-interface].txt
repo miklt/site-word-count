@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466680
+19
+['', '[set-network-interface]', '']
+['', 'Configura a interface de rede do logger.Modo de uso:Figura 573 – Command Line Interface – ethtool.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration
+61
+['', 'Administration', '']
+['', 'Através do botão “Administration” é possível alterar as configurações administrativas do GSM.Para tanto, clique na opção adequada como demonstrado abaixo:Settings – AdministrationSurgirá a tela Administration com a aba “Administrators” pré-selecionada, conforme demonstrado abaixo:Settings – Administration A tela\xa0Administration\xa0comporta as seguintes abas:Administrators;Users Profiles;Auth Servers;Identity Provider;Audit Log.Descreveremos a seguir todas funcionalidades desta tela.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Objects+-+Dictionaries
+96
+['', 'Objects - Dictionaries', '']
+['', 'Os objetos do tipo Dictionaries\xa0são compostos por “listas de palavras” ou conjunto de combinações de “expressões regulares”. Ex.: “Alfanumérico”, “Endereço de E-mail”, “Link HTML”, “URL”, etc.Para acessar a tela, basta selecionar o botão “Objects”.Botão “Objects”Clique na aba “Dictionaries”.Aba\xa0DictionariesSurgirá a tela "Dictionaries". Ela é composta pelas colunas “Select”, “Name”, “Description”, "Type", "Used" e “Actions”. Além disso, no topo da tela está localizada a barra de busca e o menu de ações à direita.Objects – DictionariesExplicaremos em detalhes o menu de ações\xa0e posteriormente\xa0as colunas da aba "Dictionaries".', '']

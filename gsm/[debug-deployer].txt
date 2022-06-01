@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466521
+25
+['', '[debug-deployer]', '']
+['', 'Utilizado para monitorar o deployer das configurações e instalação de pacote nas devices.Modo de uso:Figura 518 – Command Line Interface – debug-deployer.', '']

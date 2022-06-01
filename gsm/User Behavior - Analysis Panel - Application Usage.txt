@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/User+Behavior+-+Analysis+Panel+-+Application+Usage
+46
+['', 'User Behavior - Analysis Panel - Application Usage', '']
+['', 'Em “Application Usage” temos:“Total Applications” menciona o total de aplicações utilizadas pelo usuário e “Total Application” que serve para demonstrar as aplicações mais utilizadas pelo usuário e a quantia de acessos efetuados a estas mesmas.Analysis Panel - Application Usage', '']

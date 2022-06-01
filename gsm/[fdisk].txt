@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466538
+53
+['', '[fdisk]', '']
+['', 'Utilizado para gerenciamento de partições de discos rígidos. É possível listar e identificar dispositivos de armazenamento do tipo HDD-SSD, criar partições físicas, lógicas, excluir, exibir informações e etc.Modo de uso:Figura 524 – Command Line Interface – fdisk.Exemplo: Listar os discos e partições existentes:Figura 525 – Command Line Interface – fdisk – Exemplo.', '']

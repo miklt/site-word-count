@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466654
+17
+['', '[reset-logs]', '']
+['', 'Deleta todos os logs do analyzer.\xa0Modo de uso:Figura 565 – Command Line Interface – ethtool.', '']

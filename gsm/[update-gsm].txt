@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466734
+68
+['', '[update-gsm]', '']
+['', 'Utilizado para verificação, download e instalação dos pacotes de atualização do Blockbit\xa0GSM.Modo de uso [Saída padrão do comando]:Command Line Interface – update-gsm', 'O screenshot acima não representa a saída do comando em sua totalidade. O comando irá liberar o console ao finalizar e exibirá a mensagem "gsm-apply-update: finish", para validar se a atualização foi feita corretamente, utilize o comando "show-version".', '', '']

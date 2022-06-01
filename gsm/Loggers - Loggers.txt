@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Loggers+-+Loggers
+92
+['', 'Loggers - Loggers', '']
+['', 'Nesta aba\xa0temos acesso aos recursos para criação de loggers e de rotinas automáticas de backup, possuindo também ferramentas para visualizar o desempenho e estado atual dos dispositivos de log e\xa0de possibilidade de visualizar o histórico dos backups.Para acessar estas funções, selecione a aba "Loggers":Aba LoggersA tela à seguir será exibida:Loggers - LoggersNesta sessão analisaremos:Como criar, editar e remover um logger e uma rotina de backup;Detalhes do histórico de backups;Os componentes das colunas desta tela.A seguir detalharemos as opções do menu de ações.', '']

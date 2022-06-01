@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Network
+48
+['', 'Network', '']
+['', 'Através do botão “Network” é possível alterar as configurações de rede.Settings – Network.Surgirá a tela System com a aba “General” pré-selecionada., conforme demonstrado abaixo:Settings – Network - Aba "General".A tela\xa0Network Settings\xa0comporta as seguintes abas:General;Interfaces;E-mail.Descreveremos a seguir as funcionalidades.', '']

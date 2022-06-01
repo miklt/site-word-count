@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466722
+62
+['', '[tracepath]', '']
+['', 'Utilizado para traçar um caminho para um endereço de rede designado, informando sobre o “tempo de vida " ou lag TTL e a unidade de transmissão máxima (MTU) ao longo do caminho.Modo de uso:Figura 586 – Command Line Interface – tracepath.Exemplo: Teste para traçar o roteamento ou caminho até o endereço www.google.com.br especificando a porta TCP/80 (http).', '']

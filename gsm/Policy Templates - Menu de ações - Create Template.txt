@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817850
+123
+['', 'Policy Templates - Menu de ações - Create Template', '']
+['', 'Através da opção “Add Template” é possível criar um novo Template de Políticas. Para acessar, clique no Menu de ações\xa0[].1.\xa0Clique na opção “Add Template”;Policy Templates – Menu de ações.2. Preencha a tela “New Template”:Name: Nome do template. Ex.: Productivity Loss;Type: Tipo de IP;Version:\xa0Define a versão na qual o template será feito, é importante que o template possua a mesma versão que o UTM;', 'ATENÇÃO: Caso a versão do template seja diferente da do UTM, eles não serão compatíveis.\xa0 \xa0 \xa0 \xa0 Sempre crie templates com a mesma versão dos UTMs nos quais eles serão aplicados.', 'Policy Template – Create Policy Template.Clique no botão Save[].Package created successfullyO Template foi criado com sucesso.', '']

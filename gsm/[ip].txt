@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466584
+28
+['', '[ip]', '']
+['', 'Através desse comando é possível executar a exibição, manipulação e roteamento de dispositivos, interfaces e túneis de rede.Modo de uso:Figura 539 – Command Line Interface – ip.', '']

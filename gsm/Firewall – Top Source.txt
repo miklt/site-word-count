@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465698
+124
+['', 'Firewall – Top Source', '']
+['', 'Em “Top Source” tem-se um diagrama demonstrando por data quando houve maior tráfego de rede e uma lista exibindo as dez maiores fontes de tráfego de rede classificadas por ordem de uso.\xa0Ao passar o mouse por cima do gráfico, o tráfego de rede de um determinado período é exibido, conforme demonstrado na imagem abaixo. Por fim, ao clicar em um desses\xa0IPs, você será redirecionado para Events\xa0usando o item que foi clicado como filtro, criando assim, um relatório mais específico de modo a ter uma visão mais precisa a respeito do IP selecionado.Para mais informações a respeito do menu de navegação e da barra de busca presente no topo deste gráfico cheque esta\xa0página.Firewall – Top Source', '']

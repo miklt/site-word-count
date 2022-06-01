@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466677
+21
+['', '[set-network-gateway]', '']
+['', 'Utilizado para definir o gateway da rede.Modo de uso:Figura 572 – Command Line Interface – set-network-gateway.', '']

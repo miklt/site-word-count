@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819260
+118
+['', 'Administration - Aba "Users Profiles"', '']
+['', 'Na aba “Users\xa0Profiles” visualizamos os Perfis de administradores do Blockbit\xa0GSM, a sua função é determinar o nível de acesso e restrição que usuários configurados com determinado perfil passarão a ter dentro do sistema. Este recurso garante mais especificidade na gestão de permissões dos usuários administrativos.A aba “Users\xa0Profiles” é composta pelas colunas: “Profile” e “Actions” e além disso,\xa0no topo da tela estão localizados a barra de busca e o menu de ações.Clique na aba "Users\xa0Profiles".Aba Users\xa0ProfilesSurgirá a tela demonstrada pela imagem abaixo:Administration - Users ProfilesEsta seção irá abordar o Cadastro,\xa0Edição e\xa0Remoção dos perfis de administradores do GSM;A seguir, analisaremos cada componente deste painel.', '']

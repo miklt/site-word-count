@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819211
+87
+['', 'Administration - Aba "Administrators"', '']
+['', 'Na aba “Administrators” é possível cadastrar usuários de perfil administrativo no Blockbit GSM.A aba “Administrators” é composta por seis colunas: “Name”, "E-mail", "Profile", “Type”, “Auditor”\xa0e “Actions” e além disso,\xa0no topo da tela estão localizados a barra de busca e o menu de ações.Caso já não esteja selecionada, clique na aba "Administrators".Aba AdministratorsSurgirá a tela demonstrada pela imagem abaixo:Administration - AdministratorsEsta seção irá abordar o Cadastro,\xa0Edição e\xa0Remoção dos usuários administradores;A seguir, analisaremos cada componente deste painel.', '']

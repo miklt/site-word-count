@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466098
+50
+['', 'Reports - Menu de Ações', '']
+['', 'No topo direito da tela temos o menu de ações:Reports – Botão do Menu de AçõesAo clicar neste botão o menu abaixo é exibido:Reports\xa0– Menu de AçõesO menu é composto das seguintes opções:Create;Delete.A seguir cada opção do menu de ações será detalhada.', '']

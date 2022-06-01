@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26818782
+76
+['', 'Storages - Menu de Ações', '']
+['', 'O menu de ações contém opções para a\xa0criação das unidades de armazenamento no GSM, sendo que estas serão utilizadas na criação de Backups\xa0(cheque esta página\xa0para mais informações).E também possui a opção de removê-las.Clique\xa0em\xa0[], a seguinte janela será exibida:Storages - Create StorageAs opções disponíveis são:Create Storage SMB;Create Storage\xa0NFS;Create Storage SFTP;Create Storage USB;Delete Storage.A seguir explicaremos cada opção deste menu.', '']

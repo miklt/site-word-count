@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466628
+19
+['', '[netstat]', '']
+['', 'Utilizado para exibir as portas em escuta no servidor.Modo de uso:Figura 555 – Command Line Interface – netstat.', '']

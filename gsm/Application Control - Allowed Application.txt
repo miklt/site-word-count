@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Application+Control+-+Allowed+Application
+22
+['', 'Application Control - Allowed Application', '']
+['', 'Em “Allowed\xa0Application” é exibe um total de aplicações que tiveram seu acesso autorizado.Application Control – Allowed\xa0Application', '']

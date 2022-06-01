@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466502
+113
+['', '[arp]', '']
+['', 'Utilizado para mapear o endereço de rede (por exemplo, um endereço IPv4) para um endereço físico (também chamado endereço MAC), como um endereço Ethernet. Exibe e modifica esta tabela de relação de endereços da Internet para endereços Ethernet. O ARP foi implementado com muitas combinações de tecnologias de rede e camada de enlace de dados. O IPv4 é o caso mais comum.Utilize este comando para identificar um problema de comunicação de rede ou identificar eventos e status de IP conectados.Modo de uso:Figura 511 – Command Line Interface – arp.Exemplo: Apresentar a tabela de endereços IP e endereços de hosts físicos (dispositivos) na rede:Figura 512 – Command Line Interface – arp – Exemplo.', '']

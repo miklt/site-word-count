@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466512
+65
+['', '[date]', '']
+['', 'Utilizado para listar e permitir alterar a data e hora atual.Modo de uso:Figura 515 – Command Line Interface – date.Figura 515 – Command Line Interface – date 2.Exemplo 1: Listar a data e hora atual:Figura 516 – Command Line Interface – date – Exemplo 1.Exemplo 2: Atualizar data e hora baseado no fuso horário América/São Paulo:Figura 517 – Command Line Interface – date – Exemplo 2.', '']

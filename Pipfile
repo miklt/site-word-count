@@ -9,6 +9,8 @@ requests = "*"
 html5lib = "*"
 nltk = "*"
 playwright = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 

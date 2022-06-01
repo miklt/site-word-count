@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Reports
+72
+['', 'Reports', '']
+['', 'A função desta opção é administrar a criação automática e periódica de relatórios personalizados, permitindo seleção de característica específica dos devices selecionados. Suporta também a distribuição automática de relatórios por e-mail através de agenda pré-determinada;Para acessar e administrar a criação automática de relatórios, clique no ícone “Reports” localizado na lateral esquerda:Analytics - ReportsA tela de reports será exibida.ReportsA seguir analisaremos a função de cada componente desta tela.', '']

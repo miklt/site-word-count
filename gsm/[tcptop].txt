@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466708
+66
+['', '[tcptop]', '']
+['', 'Utilizado para extrair e exibir informações de tráfego das interfaces de rede, tais como: total de pacotes capturados, total de pacotes recebidos, total de pacotes bloqueados pelo kernel e o total de pacotes trafegados pelo TOP 10 endereços IP.Modo de uso:Figura 580 – Command Line Interface – tcptop.Exemplo: Exibir informações de tráfego top 10 da interface eth1:Figura 581 – Command Line Interface – tcptop – Exemplo.', '']

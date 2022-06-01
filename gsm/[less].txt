@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466592
+50
+['', '[less]', '']
+['', 'Utilizado para fazer a paginação de\xa0arquivos\xa0ou de uma entrada padrão. É possível direcionar a saída de outro comando usando o pipe “|”.Modo de uso: Utilizar o comando less como saída de outro comando que devolve uma quantidade de informações muito extensa.Figura 542 – Command Line Interface – less.', '']

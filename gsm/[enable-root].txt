@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466527
+31
+['', '[enable-root]', '']
+['', 'Habilita o acesso root ao sistema, será necessário entrar com a senha compatível a chave que aparecerá na tela.Modo de uso:Figura 520 – Command Line Interface – enable-root.', '']

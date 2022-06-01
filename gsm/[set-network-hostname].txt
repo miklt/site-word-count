@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819836
+123
+['', '[set-network-hostname]', '']
+['', 'Este comando tem como função,\xa0permitir que\xa0o usuário administrador defina o hostname do sistema\xa0através da CLI.Command Line Interface\xa0– set-network-hostnameModo de uso:Para definir o hostname, basta digitar o comando e adicionar o nome desejado, conforme demonstrado à seguir:Command Line Interface\xa0– set-network-hostname - ExemploCaso o dispositivo seja do tipo Manager, o comando irá aplicar as informações de hostname de modo que ela apareça ao acessar a interface localizada\xa0no campo Hostname em\xa0System na aba "General". Segue um exemplo abaixo:Settings - System - GeneralAlém disso, é possível rodar o comando [hostname], como demonstrado abaixo:Command Line Interface\xa0– hostnameCaso o disposivo seja do tipo Logger, o comando aplicará as informações de hostname somente no Sistema Operacional.', '']

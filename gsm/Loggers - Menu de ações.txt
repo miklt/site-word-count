@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819652
+49
+['', 'Loggers - Menu de ações', '']
+['', 'Ao clicar no botão menu de ações[] no topo direito é possível adicionar o logger ou removê-lo.Loggers – Menu de ações do Logger.O menu é composto das seguintes opções:Create Logger;Delete Logger.A seguir cada opção do menu de ações será detalhada.', '']

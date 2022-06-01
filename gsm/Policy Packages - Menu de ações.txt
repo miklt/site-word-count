@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817596
+64
+['', 'Policy Packages - Menu de ações', '']
+['', 'No topo direito da tela temos o menu de ações:Policy Package\xa0– Botão do menu de ações.Ao clicar neste botão o menu abaixo é exibido:Policy Packages – Menu de ações.O menu é composto das seguintes opções:Create Package;Delete Packages;Clone Packages;Select All e Deselect All.A seguir cada opção do menu de ações será detalhada.', '']

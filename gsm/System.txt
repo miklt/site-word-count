@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/System
+55
+['', 'System', '']
+['', 'Através do botão “System” é possível alterar as configurações do sistema.Settings – SystemSurgirá a tela System com a aba “General” pré-selecionada, conforme demonstrado abaixo:Settings – System - Aba "General".A tela\xa0System\xa0comporta as seguintes abas:General;License;Update;Backups;Storages;High Availability;Certificates;Custom Branding.Descreveremos a seguir as funcionalidades disponíveis nesta tela.', '']

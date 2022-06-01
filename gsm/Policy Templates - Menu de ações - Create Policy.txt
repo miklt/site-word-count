@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817933
+83
+['', 'Policy Templates - Menu de ações - Create Policy', '']
+['', 'O botão “Create Policy” cria as políticas no grupo de políticas selecionando. Para criar uma Policy, siga os passos:No menu de ações [], clique na opção “Create Policy”;Policy Manager – Menu de ações – Create Policy.2. Surgirá a tela New Policy;Policy Manager – New Policy.Pra mais informações a respeito de como criar novas políticas, consulte\xa0Policy Manager - Menu de ações - Create Policy.Após concluir a criação da política, ela será adicionada ao pacote de política.', '']

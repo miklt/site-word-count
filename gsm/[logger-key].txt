@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466616
+50
+['', '[logger-key]', '']
+['', 'Este comando é utilizado para exibir a chave secreta do logger, ela é utilizada durante a criação do Logger na interface visual do Analyzer no GSM.Além disso, ao passar o parâmetro “-c” o comando irá gerar uma nova chave.Modo de uso:Command Line Interface – logger-key', '']

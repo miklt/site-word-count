@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Objects+-+Time
+103
+['', 'Objects - Time', '']
+['', 'Os objetos do tipo Time\xa0são compostos pelos “dias da semana” e a “hora inicial e final”. Ex.: “Horário Comercial – início: segunda-feira de 8:00 AM até sexta-feira às 6:00 PM.Para acessar a tela, basta selecionar o botão “Objects”.Botão “Objects”Clique na aba “Time”.Aba "Time"Surgirá a tela "Time".\xa0Ela é composta pelas colunas “Select”, “Name”, “Description”, "Type", "Used" e “Actions”. Além disso, no topo da tela está localizada a\xa0barra de busca\xa0e o\xa0menu de ações\xa0à direita.Objects - TimeExplicaremos em detalhes o menu de ações\xa0e posteriormente\xa0as colunas da aba "Time".', '']

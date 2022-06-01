@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817835
+64
+['', 'Policy Templates - Menu de Ações', '']
+['', 'No topo direito da tela temos o menu de ações:Policy Package\xa0– Botão do Menu de Ações.Ao clicar neste botão o menu abaixo é exibido:Policy Packages – Menu de Ações.O menu é composto das seguintes opções:Create Template;Delete Templates;Clone Templates;Select All e Deselect All.A seguir cada opção do menu de ações será detalhada.', '']

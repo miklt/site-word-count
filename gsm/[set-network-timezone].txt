@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466683
+21
+['', '[set-network-timezone]', '']
+['', 'Utilizado para determinar o timezone da rede.\xa0Modo de uso:Figura 574 – Command Line Interface – set-network-timezone.', '']

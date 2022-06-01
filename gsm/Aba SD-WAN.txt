@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Aba+SD-WAN
+129
+['', 'Aba SD-WAN', '']
+['', 'A função de monitoramento do SD-WAN é permitir a supervisão de dados específicos da WAN, viabilizando o melhor caminho de rede de acordo com os fatores determinados pelo administrador, isso permite direcionar os recursos mais adequados conforme regras e políticas pré-determinadas ou com base no perfil específico dos usuários.', 'Para maiores informações sobre SD-WAN, consulte o manual do Blockbit UTM. \xa0', 'Clique na aba “SD-WAN”.Aba SD-WANSurgirá a Tela de “SD-WAN”. Ela é composta pelas colunas “Name”, “Description”, “Version”\xa0e “Actions”. Além disso, no topo direito da tela está localizada a barra de busca e o menu de ações.Profiles\xa0–\xa0SD-WANA seguir, o\xa0menu de ações\xa0será analisado e posteriormente nos aprofundaremos no conteúdo das colunas\xa0do painel\xa0SSL Inspection.', '']

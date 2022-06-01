@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Server+-+Test+Authentication
+79
+['', 'Server - Test Authentication', '']
+['', 'Esta tela serve para testar se a autenticação está funcionando corretamente.Ao clicar no botão Test Authentication []\xa0a tela abaixo será exibida:Test AuthenticationUser: Digite o usuário desejado;Password: Digite a senha do usuário.', 'O usuário que pode ser utilizado neste painel precisa ter sido adicionado na aba User com o tipo "Remoto", para mais informações cheque esta página.', 'Para testar a autenticação, clique em [] para testar a autenticação ou clique em [] para fechar a janela.', '']

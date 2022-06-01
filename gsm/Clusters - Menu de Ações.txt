@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819738
+46
+['', 'Clusters - Menu de Ações', '']
+['', 'Ao clicar no botão menu de ações[] no topo direito é possível adicionar um\xa0Cluster\xa0ou removê-lo.Clusters\xa0– Menu de açõesO menu é composto das seguintes opções:Create Cluster;Delete Cluster.A seguir cada opção do menu de ações será detalhada.', '']

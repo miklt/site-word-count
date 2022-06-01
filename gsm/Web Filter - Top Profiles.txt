@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Web+Filter+-+Top+Profiles
+91
+['', 'Web Filter - Top Profiles', '']
+['', 'Na lista “Top Profiles”, temos uma listagem\xa0dos dez profiles mais utilizados classificados por ordem de maior quantia de acessos e seu respectivo uso em\xa0Gigabytes.\xa0Por fim, ao clicar em um desses perfis, você\xa0será redirecionado para\xa0*Events\xa0usando o item que foi clicado como filtro, criando assim, um relatório mais específico de modo a ter uma visão mais precisa a respeito do perfil selecionado.Para mais informações a respeito da barra de busca presente no topo deste gráfico cheque esta\xa0página.Web Filter – Top Profiles', '']

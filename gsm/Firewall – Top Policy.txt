@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12465704
+97
+['', 'Firewall – Top Policy', '']
+['', 'Em “Top Policy” tem-se um diagrama demonstrando por data quando houve maior tráfego de rede e uma lista exibindo os dez tipos de políticas mais usadas, sendo estas classificados por ordem de uso de Gigabytes.Para mais informações a respeito do menu de navegação e da barra de busca presente no topo deste gráfico cheque esta\xa0página.Firewall – Top PolicyAo passar o mouse por cima do gráfico, o tráfego de rede em\xa0Gigabytes\xa0de um determinado período é exibido, conforme demonstrado na imagem abaixo.Firewall – Top Service - Resumo do tráfego de um período', '']

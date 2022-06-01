@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466607
+26
+['', '[logger-devices-list]', '']
+['', 'Este comando serve para exibir uma lista de devices utilizados pelo logger.Modo de uso:Figura 548 – Command Line Interface – logger-devices-list.', '']

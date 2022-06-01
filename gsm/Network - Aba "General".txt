@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=17176345
+109
+['', 'Network - Aba "General"', '']
+['', 'Esta tela permite alterar as configurações de servidores:Network SettingsGateway: Endereço da rota padrão da rede. Ex.: 172.16.102.1;DNS Server 1: Defina o servidor DNS da rede ou da internet. Ex.: 176.16.102.161;DNS Server 2: Defina o DNS secundário da sua rede ou da internet. Ex.: DNS secundário do Google 8.8.4.4;NTP Server 1: Defina o servidor de sincronização de relógio. Ex.: a.ntp.br;NTP Server 2: Defina o servidor secundário de sincronização de relógio. Ex.: b.ntp.br.Clique em save[] localizado no canto superior direito da tela para salvar as alterações feitas nas configurações.', '']

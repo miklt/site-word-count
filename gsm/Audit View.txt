@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Audit+View
+46
+['', 'Audit View', '']
+['', 'Esta tela tem como função exibir todas as ações tomadas pelo usuário.Ao clicar no botão\xa0Audit View[]\xa0a tela abaixo será exibida:Audit ViewPara sair desta janela, basta clicar em\xa0Close[], ou no\xa0[]\xa0do topo direito da tela para voltar à janela anterior.', '']

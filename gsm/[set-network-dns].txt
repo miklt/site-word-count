@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466674
+18
+['', '[set-network-dns]', '']
+['', 'Configura o endereço DNS no servidor.Modo de uso:Figura 571 – Command Line Interface – ethtool.', '']

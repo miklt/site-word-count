@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466639
+25
+['', '[ping]', '']
+['', 'Utilizado para testar a conectividade entre dispositivos na rede. Utiliza o datagrama do protocolo ICMP.Modo de uso:Figura 559 – Command Line Interface – ping.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/User+Behavior+-+Analysis+Panel+-+Threat+Protection
+101
+['', 'User Behavior - Analysis Panel - Threat Protection', '']
+['', 'Em “Threat Protection” temos:“Total Threats” exibindo o total de ameaças, “Total Malwares” exibe o número total de malwares detectados nesse usuário, no gráfico “Impacts” são exibidos os níveis de impactos das ameaças previamente citadas, “Malicious IP Classification” exibe um gráfico demonstrando um resumo da classificação dos IPs mal-intencionados acessados pelo usuário, na listagem “Top Threats” são exibidas as 5 ameaças mais recorrentes a esse usuário e a quantia de acessos feitos e em “Top Malware” é exibida uma lista com os 5 malwares mais detectados no usuário em questão.Analysis Panel - Threat Protection', '']

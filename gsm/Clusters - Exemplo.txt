@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Clusters+-+Exemplo
+93
+['', 'Clusters - Exemplo', '']
+['', 'Esta seção irá apresentar o passo a passo para configuração de um Logger primário e secundário em Cluster.', 'Para mais informações a respeito de Clusters de Logger\xa0consulte esta página.', 'Essa demonstração considerará a seguinte estrutura:Cluster de Logger - EstruturaOs seguintes\xa0IPs\xa0serão utilizados neste exemplo:Cluster de Logger\xa0- Endereçamento IPNomeEndereço\xa0IP\xa0 \xa0 IP VirtualPrimary Cluster172.31.240.1172.31.240.241\xa0 \xa0 \xa0 \xa0 \xa0 \xa0Secondary Cluster172.31.240.2Os passos que tomaremos nesta demonstração serão:Configuração das Interfaces e Loggers;Configuração dos Clusters;Validação das Configurações.Iniciaremos a demonstração configurando as\xa0Interfaces e Loggers.', '']

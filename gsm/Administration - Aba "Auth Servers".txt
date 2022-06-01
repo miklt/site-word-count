@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819320
+116
+['', 'Administration - Aba "Auth Servers"', '']
+['', 'Na aba “Auth\xa0Servers” é possível efetuar o cadastro de servidores\xa0com função de permitir a autenticação de usuários de perfil administrador com login remoto.\xa0A aba “Auth\xa0Servers” é composta por cinco colunas: “Server Name”, "Primary Server", "Secondary Server", “Authentication Type” e “Actions” e além disso,\xa0no topo da tela estão localizados a barra de busca e o menu de ações.Clique\xa0na aba "Servers".Aba Auth\xa0ServersSurgirá a tela demonstrada pela imagem abaixo:Administration - Aba Auth\xa0ServersEsta seção irá abordar:Cadastro e\xa0Edição de servidores Radius e Ldap;Remoção dos servidores;Como testar se a autenticação de um usuário no servidor está funcionando.A seguir, analisaremos cada componente deste painel.', '']

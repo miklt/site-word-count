@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Events+-+History
+95
+['', 'Events - History', '']
+['', 'Em “history” temos um gráfico de colunas verticais exibindo o histórico total de acessos por data, o eixo vertical do gráfico exibe a média dos acessos e o horizontal os dias onde eles aconteceram.', '\xa0O gráfico History, NÃO representa os Top Hits mas sim o histórico total de acessos.\xa0', 'Events - HistoryAo passar o mouse por cima do gráfico é exibido o valor exato dos acessos representados pela coluna selecionada.Events - History - Valor exato dos acessosAo clicar no botão de menu[], é possível\xa0baixar este diagrama no formato\xa0svg,\xa0png\xa0ou\xa0csv.Events - Download', '']

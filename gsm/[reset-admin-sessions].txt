@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466651
+30
+['', '[reset-admin-sessions]', '']
+['', 'Utilizado para remover as sessões “Ativas” do usuário “admin” da interface WEB.Modo de uso: [Saída padrão do comando]:Figura 564 – Command Line Interface – reset-admin-sessions.', '']

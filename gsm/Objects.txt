@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Objects
+117
+['', 'Objects', '']
+['', 'Esta seção irá demonstrar como criar, editar e excluir objetos.O sistema foi desenvolvido orientado a objetos para facilitar o processo de ajuste, manutenção e leitura de regras e configurações.Os objetos podem ser compartilhados entre devices e os serviços do sistema.Todas as alterações aplicadas em um objeto são automaticamente replicadas e aplicadas a todos os serviços em uso pelo respectivo objeto.Permite também a detecção do local de origem da base de regras de determinado objeto.Para acessar a tela, basta selecionar o botão “Objects”;Management\xa0–\xa0ObjectsA tela abaixo será exibida:Objects - AddressesA tela objects\xa0comporta as seguintes abas:Addresses;Services;Times;Schedules;Dictionaries;Contents.A seguir, os componentes da aba\xa0Addresses\xa0serão analisadas.', '']

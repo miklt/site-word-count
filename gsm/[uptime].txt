@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466742
+20
+['', '[uptime]', '']
+['', 'Exibe durante quanto tempo que o servidor está em operação.Modo de uso:Figura 592 – Command Line Interface – uptime.', '']

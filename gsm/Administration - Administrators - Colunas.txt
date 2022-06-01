@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Administration+-+Administrators+-+Colunas
+114
+['', 'Administration - Administrators - Colunas', '']
+['', 'A seguir explicaremos cada coluna da aba Administrators:Administration - UsersSelect[]: Permite selecionar um ou mais users;Name:\xa0Exibe o nome do usuário administrador do Blockbit GSM;E-mail:\xa0Exibe o\xa0E-mail do usuário cadastrado;Profile: Determina o perfil de usuário, este perfil é configurado na aba Users Profiles;Type: Exibe se\xa0o usuário administrador fará\xa0login\xa0local ou efetuará acesso remoto ao sistema. Esta opção é configurada ao criar o usuário;Auditor:\xa0Caso o usuário possua permissão de auditor o ícone [] será exibido. Esta opção é configurada ao criar o usuário;Actions: Disponibiliza as seguintes funções essenciais:Edit[]: Permite editar um user dos usuários adicionados;Delete[]: Permite deletar um user.', '']

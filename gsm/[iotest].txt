@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466581
+35
+['', '[iotest]', '']
+['', 'Utilizado para executar um teste de escrita de entrada e saída (I/O) na estrutura de partições “file system” do disco do Blockbit\xa0UTM.\xa0Modo de uso:Figura 538 – Command Line Interface – iotest - Exemplo.', '']

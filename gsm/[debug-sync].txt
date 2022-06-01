@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466524
+31
+['', '[debug-sync]', '']
+['', 'Utilizado para monitorar a comunicação do Blockbit\xa0GSM com as devices. Exibe as atualizações e o status das devices.Modo de uso:Figura 519 – Command Line Interface – debug-sync.', '']

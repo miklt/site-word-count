@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Events+-+Log+Events+-+Event+View
+27
+['', 'Events - Log Events - Event View', '']
+['', 'O botão Event View[] exibe detalhes mais aprofundados do evento em questão, conforme exibido na imagem abaixo:Events - Log Events - Event View', '']

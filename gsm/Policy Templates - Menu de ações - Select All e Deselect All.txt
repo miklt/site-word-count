@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817897
+60
+['', 'Policy Templates - Menu de ações - Select All e Deselect All', '']
+['', 'Ao clicar em “Select All” no menu de ações todos os templates serão selecionados.Policy Templates – Select All.Isso permite a fácil implementação de uma ação que afete todos os templates.A função de “Deselect All” é simplesmente o contrário: Remover todas as seleções feitas previamente.Policy Templates – Deselect All.', '']

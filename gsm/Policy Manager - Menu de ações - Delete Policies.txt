@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26817802
+106
+['', 'Policy Manager - Menu de ações - Delete Policies', '']
+['', 'O botão “Delete Policies” deleta as Políticas selecionadas. Para deletar, siga os passos:1.\xa0Selecione a(s) Política(s) que deseja deletar. Para selecionar, clique com o mouse no checkbox. Nos pacotes selecionados o checkbox mudará da cor cinza para azul []. Ex.: Administrator CLI;Política selecionada para ser deletada2. No menu de ações [], clique na opção “Delete Policies”;Policy Manager – Menu de ações – Delete Policies3. Surgirá a tela perguntando se deseja deletar os itens:Policy Manager – Delete itens policiesCaso desejar cancelar, clique no botão Cancel[]. Para concluir, clique no botão Delete[].Policy Deleted successfullyA Policy foi removida com sucesso.', '']

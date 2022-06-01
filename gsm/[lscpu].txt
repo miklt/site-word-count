@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466619
+19
+['', '[lscpu]', '']
+['', 'Utilizado para exibir informações sobre a arquitetura da CPU.Modo de uso:Figura 552 – Command Line Interface – lscpu.', '']

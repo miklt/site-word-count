@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26829133
+97
+['', '[debug-rotation]', '']
+['', 'Este comando\xa0é utilizado para consultar os logs de manutenção via CLI armazenado.\xa0Command Line Interface\xa0–\xa0debug-rotation -hModo de uso:Command Line Interface\xa0–\xa0debug-rotation -hO comando exibe as informações à seguir:Date: Exibe a\xa0Data e hora;Device_id: Mostra o\xa0ID do dispositivo;Device_name: Exibe o\xa0nome do dispositivo;Deleted_date_ini: Exibe a data inicial do\xa0período de logs apagados;Deleted_date_end:\xa0Exibe a data final do\xa0período de logs apagados;Current_total_index:\xa0Mostra o\xa0total\xa0atual de índices de logs;Total_space_disk:\xa0Exibe o total de\xa0espaço utilizado pelo armazenamento;Total_free_space_disk: Mostra o\xa0espaço disponível total.', '']

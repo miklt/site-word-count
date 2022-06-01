@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466543
+34
+['', '[free]', '']
+['', 'Utilizado para verificar o tamanho e uso da memória no servidor.Modo de uso:Figura 526 – Command Line Interface – free.Exemplo: Verificar o consumo de memória:Figura 527 – Command Line Interface – free – Exemplo.', '']

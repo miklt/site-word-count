@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466613
+19
+['', '[logger-enable]', '']
+['', 'Comando para habilitar o logger no pool.\xa0Modo de uso:Figura 550 – Command Line Interface – logger-enable.', '']

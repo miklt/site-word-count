@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=26819287
+88
+['', 'Users Profiles - Menu de Ações - Clone Profile', '']
+['', 'O botão “Clone Profile” do menu de ações serve para duplicar perfis que foram previamente selecionados ao clicar na caixa de seleção. Como demonstrado abaixo:Administration - Users Profiles - Item selecionadoDepois de selecionar os itens que se deseja clonar, selecione a opção no menu de ações []:Actions Menu - Clone ProfileUma mensagem de verificação aparecerá requisitando a confirmação:Clone Profile - Mensagem de confirmaçãoAo clicar em [], os perfis selecionados serão duplicados. Caso clique em [] essa mensagem de verificação será dispensada sem efetuar nenhuma remoção.', '']

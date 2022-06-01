@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466686
+27
+['', '[show-devices]', '']
+['', 'Exibe uma listagem com o nome e ID de todas as devices cadastradas no GSM.Modo de uso:Figura 575 – Command Line Interface – show-devices.', '']

@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466750
+32
+['', '[whois]', '']
+['', 'Utilizado para consultar a informação sobre um domínio de Internet.Modo de uso:Figura 595 – Command Line Interface – whois.Exemplo: Saída padrão do comando:Figura 596 – Command Line Interface – whois – Exemplo.', '']

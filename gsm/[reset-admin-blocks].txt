@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466645
+30
+['', '[reset-admin-blocks]', '']
+['', 'Utilizado para liberar sessões bloqueadas do usuário “admin” da interface WEB.Modo de uso [Saída padrão do comando]:Figura 562 – Command Line Interface – reset-admin-blocks – Exemplo.', '']

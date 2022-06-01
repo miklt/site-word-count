@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466737
+122
+['', '[update-license]', '']
+['', 'Utilizado para efetuar o registro do Blockbit\xa0UTM através da CLI. A licença precisa ser digitada na frente do comando. O [update-license] deve ser utilizado apenas caso a licença estiver desativada e liberada pela Blockbit\xa0para ativação, é extremamente importante ter em mente que: Caso esse comando seja executado quando a licença já estiver devidamente ativada ela irá ser DESATIVADA.Modo de uso:Figura 967 - Command Line Interface – update-license.', 'Atenção para a utilização adequada do comando [update-license]: Se o comando for efetuado duas vezes, ou caso ele seja executado quando a licença estiver ativa, ela será DESATIVADA. Além disso, para a utilização correta deste comando é necessário que esta mesma esteja liberada para poder registrá-la corretamente.', '', '']

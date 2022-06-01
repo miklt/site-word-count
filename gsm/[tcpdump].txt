@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466703
+64
+['', '[tcpdump]', '']
+['', 'Utilizado para monitorar, capturar e analisar pacotes que estão sendo transmitidos através da rede. Assim, ela permite ao administrador analisar o comportamento da rede, auxiliando na identificação de problemas, estações infectadas, tráfego malicioso, gargalos, etc.Modo de uso:Figura 578 – Command Line Interface – tcpdump.Exemplo: Monitorar todo o tráfego da interface da rede local – interface Eth0:Figura 579 – Command Line Interface – tcpdump – Exemplo.', '']

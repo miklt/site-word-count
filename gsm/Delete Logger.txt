@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Delete+Logger
+101
+['', 'Delete Logger', '']
+['', 'Para deletar os loggers, siga os seguintes passos:', 'Só é possível deletar Loggers que não estejam vinculados a um cluster.', '1.\xa0Selecione o grupo que se deseja deletar clicando na seleção[];Loggers - Selected Logger.2. Clique no ícone de menu de ações[];3. Clique na opção “Delete Logger”;Loggers – Menu Actions – Delete Logger.4. Surgirá uma mensagem de confirmação verificando se deseja deletar o logger selecionado:Inventory - Delete logger message.Clique no botão Delete[]\xa0ou clique em Cancel[] para voltar ao painel anterior.Loggers deleted successfullyO logger foi removido com sucesso.À seguir vamos analisar os componentes das colunas.', '']

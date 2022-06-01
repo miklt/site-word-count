@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466535
+15
+['', '[exit]', '']
+['', 'Utilizado para abandonar a sessão.Modo de uso:Figura 523 – Command Line Interface – exit.', '']

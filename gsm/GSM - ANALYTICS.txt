@@ -1,4 +1,4 @@
-https://docs.blockbit.com/display/RC/GSM+-+ANALYTICS?src=contextnavpagetreemode
+https://docs.blockbit.com/display/RC/GSM+-+ANALYTICS
 23
 ['', 'GSM - ANALYTICS', '']
 ['', 'Através do menu “Analytics” é possível analisar relatórios, eventos e gerenciar loggers.Menu\xa0Analytics.Contém as opções:Analyzer;Reports;Events;Loggers.', '']

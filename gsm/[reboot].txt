@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466642
+19
+['', '[reboot]', '']
+['', 'Utilizado para reinicializar o sistema.Modo de uso: [Saída padrão do comando]:Figura 560 – Command Line Interface – reboot.', '']

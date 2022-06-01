@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Users
+71
+['', 'Users', '']
+['', 'O menu users permite administrar os usuários dos UTMs conectados ao GSM e ordená-los por grupos de usuários. Este recurso visa facilitar a definição e a administração das políticas de compliance que serão aplicadas posteriormente.Para acessar a tela, basta selecionar o menu “Users”;Management\xa0–\xa0UsersA tela abaixo será exibida:Users - UsersA tela\xa0Users\xa0comporta as seguintes abas:Users;Groups.A seguir, os componentes da aba Users\xa0serão analisadas.', '']

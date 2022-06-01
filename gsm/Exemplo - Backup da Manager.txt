@@ -1,0 +1,4 @@
+https://docs.blockbit.com/display/RC/Exemplo+-+Backup+da+Manager
+52
+['', 'Exemplo - Backup da Manager', '']
+['', 'Esta seção irá apresentar o passo a passo para configuração de Backups da Manager.', 'Para mais informações a respeito de Backups\xa0consulte esta página.', 'Os passos que tomaremos nesta demonstração serão:Inclusão de Storage;Criação da Rotina de Backup;Validação das Configurações.Iniciaremos a demonstração configurando um Storage.', '']

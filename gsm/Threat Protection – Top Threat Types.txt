@@ -1,0 +1,4 @@
+https://docs.blockbit.com/pages/viewpage.action?pageId=12466007
+72
+['', 'Threat Protection – Top Threat Types', '']
+['', 'Em “Top Threat Types” é exibido um gráfico de barras representando os tipos de ameaça mais recorrentes em relação a quantia de vezes que elas foram detectadasPara mais informações a respeito do menu de navegação presente no topo deste gráfico cheque esta\xa0página.Threat Protection – Top Threat TypesAo passar o mouse sobre o gráfico ele mostrará a quantia exata de detecções:Threat Protection – Top Threat Types - Resumo', '']
